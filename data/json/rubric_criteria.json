@@ -4,3199 +4,3199 @@
     "rubric_id": "RUB-ASN-2026-000001-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000001-01-02",
     "rubric_id": "RUB-ASN-2026-000001-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000001-01-03",
     "rubric_id": "RUB-ASN-2026-000001-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000001-01-04",
     "rubric_id": "RUB-ASN-2026-000001-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000002-01-01",
     "rubric_id": "RUB-ASN-2026-000002-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000002-01-02",
     "rubric_id": "RUB-ASN-2026-000002-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000002-01-03",
     "rubric_id": "RUB-ASN-2026-000002-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000002-01-04",
     "rubric_id": "RUB-ASN-2026-000002-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000003-01-01",
     "rubric_id": "RUB-ASN-2026-000003-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000003-01-02",
     "rubric_id": "RUB-ASN-2026-000003-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000003-01-03",
     "rubric_id": "RUB-ASN-2026-000003-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000003-01-04",
     "rubric_id": "RUB-ASN-2026-000003-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000004-01-01",
     "rubric_id": "RUB-ASN-2026-000004-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000004-01-02",
     "rubric_id": "RUB-ASN-2026-000004-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000004-01-03",
     "rubric_id": "RUB-ASN-2026-000004-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000004-01-04",
     "rubric_id": "RUB-ASN-2026-000004-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000005-01-01",
     "rubric_id": "RUB-ASN-2026-000005-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000005-01-02",
     "rubric_id": "RUB-ASN-2026-000005-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000005-01-03",
     "rubric_id": "RUB-ASN-2026-000005-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000005-01-04",
     "rubric_id": "RUB-ASN-2026-000005-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000006-01-01",
     "rubric_id": "RUB-ASN-2026-000006-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000006-01-02",
     "rubric_id": "RUB-ASN-2026-000006-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000006-01-03",
     "rubric_id": "RUB-ASN-2026-000006-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000006-01-04",
     "rubric_id": "RUB-ASN-2026-000006-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000007-01-01",
     "rubric_id": "RUB-ASN-2026-000007-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000007-01-02",
     "rubric_id": "RUB-ASN-2026-000007-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000007-01-03",
     "rubric_id": "RUB-ASN-2026-000007-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000007-01-04",
     "rubric_id": "RUB-ASN-2026-000007-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000008-01-01",
     "rubric_id": "RUB-ASN-2026-000008-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000008-01-02",
     "rubric_id": "RUB-ASN-2026-000008-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000008-01-03",
     "rubric_id": "RUB-ASN-2026-000008-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000008-01-04",
     "rubric_id": "RUB-ASN-2026-000008-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000009-01-01",
     "rubric_id": "RUB-ASN-2026-000009-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000009-01-02",
     "rubric_id": "RUB-ASN-2026-000009-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000009-01-03",
     "rubric_id": "RUB-ASN-2026-000009-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000009-01-04",
     "rubric_id": "RUB-ASN-2026-000009-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000010-01-01",
     "rubric_id": "RUB-ASN-2026-000010-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000010-01-02",
     "rubric_id": "RUB-ASN-2026-000010-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000010-01-03",
     "rubric_id": "RUB-ASN-2026-000010-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000010-01-04",
     "rubric_id": "RUB-ASN-2026-000010-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000011-01-01",
     "rubric_id": "RUB-ASN-2026-000011-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000011-01-02",
     "rubric_id": "RUB-ASN-2026-000011-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000011-01-03",
     "rubric_id": "RUB-ASN-2026-000011-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000011-01-04",
     "rubric_id": "RUB-ASN-2026-000011-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000012-01-01",
     "rubric_id": "RUB-ASN-2026-000012-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000012-01-02",
     "rubric_id": "RUB-ASN-2026-000012-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000012-01-03",
     "rubric_id": "RUB-ASN-2026-000012-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000012-01-04",
     "rubric_id": "RUB-ASN-2026-000012-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000013-01-01",
     "rubric_id": "RUB-ASN-2026-000013-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000013-01-02",
     "rubric_id": "RUB-ASN-2026-000013-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000013-01-03",
     "rubric_id": "RUB-ASN-2026-000013-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000013-01-04",
     "rubric_id": "RUB-ASN-2026-000013-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000014-01-01",
     "rubric_id": "RUB-ASN-2026-000014-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000014-01-02",
     "rubric_id": "RUB-ASN-2026-000014-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000014-01-03",
     "rubric_id": "RUB-ASN-2026-000014-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000014-01-04",
     "rubric_id": "RUB-ASN-2026-000014-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000015-01-01",
     "rubric_id": "RUB-ASN-2026-000015-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000015-01-02",
     "rubric_id": "RUB-ASN-2026-000015-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000015-01-03",
     "rubric_id": "RUB-ASN-2026-000015-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000015-01-04",
     "rubric_id": "RUB-ASN-2026-000015-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000016-01-01",
     "rubric_id": "RUB-ASN-2026-000016-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000016-01-02",
     "rubric_id": "RUB-ASN-2026-000016-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000016-01-03",
     "rubric_id": "RUB-ASN-2026-000016-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000016-01-04",
     "rubric_id": "RUB-ASN-2026-000016-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000017-01-01",
     "rubric_id": "RUB-ASN-2026-000017-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000017-01-02",
     "rubric_id": "RUB-ASN-2026-000017-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000017-01-03",
     "rubric_id": "RUB-ASN-2026-000017-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000017-01-04",
     "rubric_id": "RUB-ASN-2026-000017-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000018-01-01",
     "rubric_id": "RUB-ASN-2026-000018-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000018-01-02",
     "rubric_id": "RUB-ASN-2026-000018-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000018-01-03",
     "rubric_id": "RUB-ASN-2026-000018-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000018-01-04",
     "rubric_id": "RUB-ASN-2026-000018-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000019-01-01",
     "rubric_id": "RUB-ASN-2026-000019-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000019-01-02",
     "rubric_id": "RUB-ASN-2026-000019-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000019-01-03",
     "rubric_id": "RUB-ASN-2026-000019-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000019-01-04",
     "rubric_id": "RUB-ASN-2026-000019-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000020-01-01",
     "rubric_id": "RUB-ASN-2026-000020-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000020-01-02",
     "rubric_id": "RUB-ASN-2026-000020-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000020-01-03",
     "rubric_id": "RUB-ASN-2026-000020-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000020-01-04",
     "rubric_id": "RUB-ASN-2026-000020-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000021-01-01",
     "rubric_id": "RUB-ASN-2026-000021-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000021-01-02",
     "rubric_id": "RUB-ASN-2026-000021-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000021-01-03",
     "rubric_id": "RUB-ASN-2026-000021-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000021-01-04",
     "rubric_id": "RUB-ASN-2026-000021-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000022-01-01",
     "rubric_id": "RUB-ASN-2026-000022-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000022-01-02",
     "rubric_id": "RUB-ASN-2026-000022-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000022-01-03",
     "rubric_id": "RUB-ASN-2026-000022-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000022-01-04",
     "rubric_id": "RUB-ASN-2026-000022-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000023-01-01",
     "rubric_id": "RUB-ASN-2026-000023-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000023-01-02",
     "rubric_id": "RUB-ASN-2026-000023-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000023-01-03",
     "rubric_id": "RUB-ASN-2026-000023-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000023-01-04",
     "rubric_id": "RUB-ASN-2026-000023-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000024-01-01",
     "rubric_id": "RUB-ASN-2026-000024-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000024-01-02",
     "rubric_id": "RUB-ASN-2026-000024-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000024-01-03",
     "rubric_id": "RUB-ASN-2026-000024-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000024-01-04",
     "rubric_id": "RUB-ASN-2026-000024-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000025-01-01",
     "rubric_id": "RUB-ASN-2026-000025-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000025-01-02",
     "rubric_id": "RUB-ASN-2026-000025-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000025-01-03",
     "rubric_id": "RUB-ASN-2026-000025-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000025-01-04",
     "rubric_id": "RUB-ASN-2026-000025-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000026-01-01",
     "rubric_id": "RUB-ASN-2026-000026-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000026-01-02",
     "rubric_id": "RUB-ASN-2026-000026-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000026-01-03",
     "rubric_id": "RUB-ASN-2026-000026-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000026-01-04",
     "rubric_id": "RUB-ASN-2026-000026-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000027-01-01",
     "rubric_id": "RUB-ASN-2026-000027-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000027-01-02",
     "rubric_id": "RUB-ASN-2026-000027-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000027-01-03",
     "rubric_id": "RUB-ASN-2026-000027-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000027-01-04",
     "rubric_id": "RUB-ASN-2026-000027-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000028-01-01",
     "rubric_id": "RUB-ASN-2026-000028-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000028-01-02",
     "rubric_id": "RUB-ASN-2026-000028-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000028-01-03",
     "rubric_id": "RUB-ASN-2026-000028-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000028-01-04",
     "rubric_id": "RUB-ASN-2026-000028-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000029-01-01",
     "rubric_id": "RUB-ASN-2026-000029-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000029-01-02",
     "rubric_id": "RUB-ASN-2026-000029-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000029-01-03",
     "rubric_id": "RUB-ASN-2026-000029-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000029-01-04",
     "rubric_id": "RUB-ASN-2026-000029-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000030-01-01",
     "rubric_id": "RUB-ASN-2026-000030-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000030-01-02",
     "rubric_id": "RUB-ASN-2026-000030-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000030-01-03",
     "rubric_id": "RUB-ASN-2026-000030-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000030-01-04",
     "rubric_id": "RUB-ASN-2026-000030-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000031-01-01",
     "rubric_id": "RUB-ASN-2026-000031-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000031-01-02",
     "rubric_id": "RUB-ASN-2026-000031-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000031-01-03",
     "rubric_id": "RUB-ASN-2026-000031-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000031-01-04",
     "rubric_id": "RUB-ASN-2026-000031-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000032-01-01",
     "rubric_id": "RUB-ASN-2026-000032-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000032-01-02",
     "rubric_id": "RUB-ASN-2026-000032-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000032-01-03",
     "rubric_id": "RUB-ASN-2026-000032-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000032-01-04",
     "rubric_id": "RUB-ASN-2026-000032-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000033-01-01",
     "rubric_id": "RUB-ASN-2026-000033-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000033-01-02",
     "rubric_id": "RUB-ASN-2026-000033-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000033-01-03",
     "rubric_id": "RUB-ASN-2026-000033-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000033-01-04",
     "rubric_id": "RUB-ASN-2026-000033-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000034-01-01",
     "rubric_id": "RUB-ASN-2026-000034-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000034-01-02",
     "rubric_id": "RUB-ASN-2026-000034-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000034-01-03",
     "rubric_id": "RUB-ASN-2026-000034-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000034-01-04",
     "rubric_id": "RUB-ASN-2026-000034-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000035-01-01",
     "rubric_id": "RUB-ASN-2026-000035-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000035-01-02",
     "rubric_id": "RUB-ASN-2026-000035-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000035-01-03",
     "rubric_id": "RUB-ASN-2026-000035-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000035-01-04",
     "rubric_id": "RUB-ASN-2026-000035-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000036-01-01",
     "rubric_id": "RUB-ASN-2026-000036-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000036-01-02",
     "rubric_id": "RUB-ASN-2026-000036-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000036-01-03",
     "rubric_id": "RUB-ASN-2026-000036-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000036-01-04",
     "rubric_id": "RUB-ASN-2026-000036-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000037-01-01",
     "rubric_id": "RUB-ASN-2026-000037-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000037-01-02",
     "rubric_id": "RUB-ASN-2026-000037-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000037-01-03",
     "rubric_id": "RUB-ASN-2026-000037-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000037-01-04",
     "rubric_id": "RUB-ASN-2026-000037-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000038-01-01",
     "rubric_id": "RUB-ASN-2026-000038-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000038-01-02",
     "rubric_id": "RUB-ASN-2026-000038-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000038-01-03",
     "rubric_id": "RUB-ASN-2026-000038-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000038-01-04",
     "rubric_id": "RUB-ASN-2026-000038-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000039-01-01",
     "rubric_id": "RUB-ASN-2026-000039-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000039-01-02",
     "rubric_id": "RUB-ASN-2026-000039-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000039-01-03",
     "rubric_id": "RUB-ASN-2026-000039-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000039-01-04",
     "rubric_id": "RUB-ASN-2026-000039-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000040-01-01",
     "rubric_id": "RUB-ASN-2026-000040-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000040-01-02",
     "rubric_id": "RUB-ASN-2026-000040-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000040-01-03",
     "rubric_id": "RUB-ASN-2026-000040-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000040-01-04",
     "rubric_id": "RUB-ASN-2026-000040-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000041-01-01",
     "rubric_id": "RUB-ASN-2026-000041-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000041-01-02",
     "rubric_id": "RUB-ASN-2026-000041-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000041-01-03",
     "rubric_id": "RUB-ASN-2026-000041-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000041-01-04",
     "rubric_id": "RUB-ASN-2026-000041-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000042-01-01",
     "rubric_id": "RUB-ASN-2026-000042-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000042-01-02",
     "rubric_id": "RUB-ASN-2026-000042-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000042-01-03",
     "rubric_id": "RUB-ASN-2026-000042-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000042-01-04",
     "rubric_id": "RUB-ASN-2026-000042-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000043-01-01",
     "rubric_id": "RUB-ASN-2026-000043-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000043-01-02",
     "rubric_id": "RUB-ASN-2026-000043-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000043-01-03",
     "rubric_id": "RUB-ASN-2026-000043-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000043-01-04",
     "rubric_id": "RUB-ASN-2026-000043-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000044-01-01",
     "rubric_id": "RUB-ASN-2026-000044-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000044-01-02",
     "rubric_id": "RUB-ASN-2026-000044-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000044-01-03",
     "rubric_id": "RUB-ASN-2026-000044-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000044-01-04",
     "rubric_id": "RUB-ASN-2026-000044-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000045-01-01",
     "rubric_id": "RUB-ASN-2026-000045-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000045-01-02",
     "rubric_id": "RUB-ASN-2026-000045-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000045-01-03",
     "rubric_id": "RUB-ASN-2026-000045-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000045-01-04",
     "rubric_id": "RUB-ASN-2026-000045-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000046-01-01",
     "rubric_id": "RUB-ASN-2026-000046-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000046-01-02",
     "rubric_id": "RUB-ASN-2026-000046-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000046-01-03",
     "rubric_id": "RUB-ASN-2026-000046-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000046-01-04",
     "rubric_id": "RUB-ASN-2026-000046-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000047-01-01",
     "rubric_id": "RUB-ASN-2026-000047-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000047-01-02",
     "rubric_id": "RUB-ASN-2026-000047-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000047-01-03",
     "rubric_id": "RUB-ASN-2026-000047-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000047-01-04",
     "rubric_id": "RUB-ASN-2026-000047-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000048-01-01",
     "rubric_id": "RUB-ASN-2026-000048-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000048-01-02",
     "rubric_id": "RUB-ASN-2026-000048-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000048-01-03",
     "rubric_id": "RUB-ASN-2026-000048-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000048-01-04",
     "rubric_id": "RUB-ASN-2026-000048-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000049-01-01",
     "rubric_id": "RUB-ASN-2026-000049-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000049-01-02",
     "rubric_id": "RUB-ASN-2026-000049-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000049-01-03",
     "rubric_id": "RUB-ASN-2026-000049-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000049-01-04",
     "rubric_id": "RUB-ASN-2026-000049-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000050-01-01",
     "rubric_id": "RUB-ASN-2026-000050-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000050-01-02",
     "rubric_id": "RUB-ASN-2026-000050-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000050-01-03",
     "rubric_id": "RUB-ASN-2026-000050-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000050-01-04",
     "rubric_id": "RUB-ASN-2026-000050-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000051-01-01",
     "rubric_id": "RUB-ASN-2026-000051-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000051-01-02",
     "rubric_id": "RUB-ASN-2026-000051-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000051-01-03",
     "rubric_id": "RUB-ASN-2026-000051-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000051-01-04",
     "rubric_id": "RUB-ASN-2026-000051-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000052-01-01",
     "rubric_id": "RUB-ASN-2026-000052-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000052-01-02",
     "rubric_id": "RUB-ASN-2026-000052-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000052-01-03",
     "rubric_id": "RUB-ASN-2026-000052-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000052-01-04",
     "rubric_id": "RUB-ASN-2026-000052-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000053-01-01",
     "rubric_id": "RUB-ASN-2026-000053-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000053-01-02",
     "rubric_id": "RUB-ASN-2026-000053-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000053-01-03",
     "rubric_id": "RUB-ASN-2026-000053-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000053-01-04",
     "rubric_id": "RUB-ASN-2026-000053-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000054-01-01",
     "rubric_id": "RUB-ASN-2026-000054-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000054-01-02",
     "rubric_id": "RUB-ASN-2026-000054-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000054-01-03",
     "rubric_id": "RUB-ASN-2026-000054-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000054-01-04",
     "rubric_id": "RUB-ASN-2026-000054-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000055-01-01",
     "rubric_id": "RUB-ASN-2026-000055-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000055-01-02",
     "rubric_id": "RUB-ASN-2026-000055-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000055-01-03",
     "rubric_id": "RUB-ASN-2026-000055-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000055-01-04",
     "rubric_id": "RUB-ASN-2026-000055-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000056-01-01",
     "rubric_id": "RUB-ASN-2026-000056-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000056-01-02",
     "rubric_id": "RUB-ASN-2026-000056-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000056-01-03",
     "rubric_id": "RUB-ASN-2026-000056-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000056-01-04",
     "rubric_id": "RUB-ASN-2026-000056-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000057-01-01",
     "rubric_id": "RUB-ASN-2026-000057-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000057-01-02",
     "rubric_id": "RUB-ASN-2026-000057-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000057-01-03",
     "rubric_id": "RUB-ASN-2026-000057-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000057-01-04",
     "rubric_id": "RUB-ASN-2026-000057-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000058-01-01",
     "rubric_id": "RUB-ASN-2026-000058-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000058-01-02",
     "rubric_id": "RUB-ASN-2026-000058-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000058-01-03",
     "rubric_id": "RUB-ASN-2026-000058-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000058-01-04",
     "rubric_id": "RUB-ASN-2026-000058-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000059-01-01",
     "rubric_id": "RUB-ASN-2026-000059-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000059-01-02",
     "rubric_id": "RUB-ASN-2026-000059-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000059-01-03",
     "rubric_id": "RUB-ASN-2026-000059-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000059-01-04",
     "rubric_id": "RUB-ASN-2026-000059-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000060-01-01",
     "rubric_id": "RUB-ASN-2026-000060-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000060-01-02",
     "rubric_id": "RUB-ASN-2026-000060-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000060-01-03",
     "rubric_id": "RUB-ASN-2026-000060-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000060-01-04",
     "rubric_id": "RUB-ASN-2026-000060-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000061-01-01",
     "rubric_id": "RUB-ASN-2026-000061-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000061-01-02",
     "rubric_id": "RUB-ASN-2026-000061-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000061-01-03",
     "rubric_id": "RUB-ASN-2026-000061-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000061-01-04",
     "rubric_id": "RUB-ASN-2026-000061-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000062-01-01",
     "rubric_id": "RUB-ASN-2026-000062-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000062-01-02",
     "rubric_id": "RUB-ASN-2026-000062-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000062-01-03",
     "rubric_id": "RUB-ASN-2026-000062-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000062-01-04",
     "rubric_id": "RUB-ASN-2026-000062-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000063-01-01",
     "rubric_id": "RUB-ASN-2026-000063-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000063-01-02",
     "rubric_id": "RUB-ASN-2026-000063-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000063-01-03",
     "rubric_id": "RUB-ASN-2026-000063-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000063-01-04",
     "rubric_id": "RUB-ASN-2026-000063-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000064-01-01",
     "rubric_id": "RUB-ASN-2026-000064-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000064-01-02",
     "rubric_id": "RUB-ASN-2026-000064-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000064-01-03",
     "rubric_id": "RUB-ASN-2026-000064-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000064-01-04",
     "rubric_id": "RUB-ASN-2026-000064-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000065-01-01",
     "rubric_id": "RUB-ASN-2026-000065-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000065-01-02",
     "rubric_id": "RUB-ASN-2026-000065-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000065-01-03",
     "rubric_id": "RUB-ASN-2026-000065-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000065-01-04",
     "rubric_id": "RUB-ASN-2026-000065-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000066-01-01",
     "rubric_id": "RUB-ASN-2026-000066-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000066-01-02",
     "rubric_id": "RUB-ASN-2026-000066-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000066-01-03",
     "rubric_id": "RUB-ASN-2026-000066-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000066-01-04",
     "rubric_id": "RUB-ASN-2026-000066-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000067-01-01",
     "rubric_id": "RUB-ASN-2026-000067-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000067-01-02",
     "rubric_id": "RUB-ASN-2026-000067-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000067-01-03",
     "rubric_id": "RUB-ASN-2026-000067-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000067-01-04",
     "rubric_id": "RUB-ASN-2026-000067-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000068-01-01",
     "rubric_id": "RUB-ASN-2026-000068-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000068-01-02",
     "rubric_id": "RUB-ASN-2026-000068-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000068-01-03",
     "rubric_id": "RUB-ASN-2026-000068-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000068-01-04",
     "rubric_id": "RUB-ASN-2026-000068-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000069-01-01",
     "rubric_id": "RUB-ASN-2026-000069-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000069-01-02",
     "rubric_id": "RUB-ASN-2026-000069-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000069-01-03",
     "rubric_id": "RUB-ASN-2026-000069-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000069-01-04",
     "rubric_id": "RUB-ASN-2026-000069-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000070-01-01",
     "rubric_id": "RUB-ASN-2026-000070-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000070-01-02",
     "rubric_id": "RUB-ASN-2026-000070-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000070-01-03",
     "rubric_id": "RUB-ASN-2026-000070-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000070-01-04",
     "rubric_id": "RUB-ASN-2026-000070-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000071-01-01",
     "rubric_id": "RUB-ASN-2026-000071-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000071-01-02",
     "rubric_id": "RUB-ASN-2026-000071-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000071-01-03",
     "rubric_id": "RUB-ASN-2026-000071-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000071-01-04",
     "rubric_id": "RUB-ASN-2026-000071-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000072-01-01",
     "rubric_id": "RUB-ASN-2026-000072-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000072-01-02",
     "rubric_id": "RUB-ASN-2026-000072-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000072-01-03",
     "rubric_id": "RUB-ASN-2026-000072-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000072-01-04",
     "rubric_id": "RUB-ASN-2026-000072-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000073-01-01",
     "rubric_id": "RUB-ASN-2026-000073-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000073-01-02",
     "rubric_id": "RUB-ASN-2026-000073-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000073-01-03",
     "rubric_id": "RUB-ASN-2026-000073-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000073-01-04",
     "rubric_id": "RUB-ASN-2026-000073-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000074-01-01",
     "rubric_id": "RUB-ASN-2026-000074-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000074-01-02",
     "rubric_id": "RUB-ASN-2026-000074-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000074-01-03",
     "rubric_id": "RUB-ASN-2026-000074-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000074-01-04",
     "rubric_id": "RUB-ASN-2026-000074-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000075-01-01",
     "rubric_id": "RUB-ASN-2026-000075-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000075-01-02",
     "rubric_id": "RUB-ASN-2026-000075-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000075-01-03",
     "rubric_id": "RUB-ASN-2026-000075-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000075-01-04",
     "rubric_id": "RUB-ASN-2026-000075-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000076-01-01",
     "rubric_id": "RUB-ASN-2026-000076-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000076-01-02",
     "rubric_id": "RUB-ASN-2026-000076-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000076-01-03",
     "rubric_id": "RUB-ASN-2026-000076-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000076-01-04",
     "rubric_id": "RUB-ASN-2026-000076-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000077-01-01",
     "rubric_id": "RUB-ASN-2026-000077-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000077-01-02",
     "rubric_id": "RUB-ASN-2026-000077-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000077-01-03",
     "rubric_id": "RUB-ASN-2026-000077-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000077-01-04",
     "rubric_id": "RUB-ASN-2026-000077-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000078-01-01",
     "rubric_id": "RUB-ASN-2026-000078-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000078-01-02",
     "rubric_id": "RUB-ASN-2026-000078-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000078-01-03",
     "rubric_id": "RUB-ASN-2026-000078-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000078-01-04",
     "rubric_id": "RUB-ASN-2026-000078-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000079-01-01",
     "rubric_id": "RUB-ASN-2026-000079-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000079-01-02",
     "rubric_id": "RUB-ASN-2026-000079-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000079-01-03",
     "rubric_id": "RUB-ASN-2026-000079-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000079-01-04",
     "rubric_id": "RUB-ASN-2026-000079-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000080-01-01",
     "rubric_id": "RUB-ASN-2026-000080-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000080-01-02",
     "rubric_id": "RUB-ASN-2026-000080-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000080-01-03",
     "rubric_id": "RUB-ASN-2026-000080-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000080-01-04",
     "rubric_id": "RUB-ASN-2026-000080-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000081-01-01",
     "rubric_id": "RUB-ASN-2026-000081-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000081-01-02",
     "rubric_id": "RUB-ASN-2026-000081-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000081-01-03",
     "rubric_id": "RUB-ASN-2026-000081-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000081-01-04",
     "rubric_id": "RUB-ASN-2026-000081-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000082-01-01",
     "rubric_id": "RUB-ASN-2026-000082-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000082-01-02",
     "rubric_id": "RUB-ASN-2026-000082-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000082-01-03",
     "rubric_id": "RUB-ASN-2026-000082-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000082-01-04",
     "rubric_id": "RUB-ASN-2026-000082-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000083-01-01",
     "rubric_id": "RUB-ASN-2026-000083-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000083-01-02",
     "rubric_id": "RUB-ASN-2026-000083-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000083-01-03",
     "rubric_id": "RUB-ASN-2026-000083-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000083-01-04",
     "rubric_id": "RUB-ASN-2026-000083-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000084-01-01",
     "rubric_id": "RUB-ASN-2026-000084-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000084-01-02",
     "rubric_id": "RUB-ASN-2026-000084-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000084-01-03",
     "rubric_id": "RUB-ASN-2026-000084-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000084-01-04",
     "rubric_id": "RUB-ASN-2026-000084-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000085-01-01",
     "rubric_id": "RUB-ASN-2026-000085-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000085-01-02",
     "rubric_id": "RUB-ASN-2026-000085-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000085-01-03",
     "rubric_id": "RUB-ASN-2026-000085-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000085-01-04",
     "rubric_id": "RUB-ASN-2026-000085-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000086-01-01",
     "rubric_id": "RUB-ASN-2026-000086-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000086-01-02",
     "rubric_id": "RUB-ASN-2026-000086-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000086-01-03",
     "rubric_id": "RUB-ASN-2026-000086-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000086-01-04",
     "rubric_id": "RUB-ASN-2026-000086-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000087-01-01",
     "rubric_id": "RUB-ASN-2026-000087-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000087-01-02",
     "rubric_id": "RUB-ASN-2026-000087-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000087-01-03",
     "rubric_id": "RUB-ASN-2026-000087-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000087-01-04",
     "rubric_id": "RUB-ASN-2026-000087-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000088-01-01",
     "rubric_id": "RUB-ASN-2026-000088-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000088-01-02",
     "rubric_id": "RUB-ASN-2026-000088-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000088-01-03",
     "rubric_id": "RUB-ASN-2026-000088-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000088-01-04",
     "rubric_id": "RUB-ASN-2026-000088-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000089-01-01",
     "rubric_id": "RUB-ASN-2026-000089-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000089-01-02",
     "rubric_id": "RUB-ASN-2026-000089-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000089-01-03",
     "rubric_id": "RUB-ASN-2026-000089-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000089-01-04",
     "rubric_id": "RUB-ASN-2026-000089-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000090-01-01",
     "rubric_id": "RUB-ASN-2026-000090-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000090-01-02",
     "rubric_id": "RUB-ASN-2026-000090-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000090-01-03",
     "rubric_id": "RUB-ASN-2026-000090-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000090-01-04",
     "rubric_id": "RUB-ASN-2026-000090-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000091-01-01",
     "rubric_id": "RUB-ASN-2026-000091-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000091-01-02",
     "rubric_id": "RUB-ASN-2026-000091-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000091-01-03",
     "rubric_id": "RUB-ASN-2026-000091-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000091-01-04",
     "rubric_id": "RUB-ASN-2026-000091-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000092-01-01",
     "rubric_id": "RUB-ASN-2026-000092-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000092-01-02",
     "rubric_id": "RUB-ASN-2026-000092-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000092-01-03",
     "rubric_id": "RUB-ASN-2026-000092-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000092-01-04",
     "rubric_id": "RUB-ASN-2026-000092-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000093-01-01",
     "rubric_id": "RUB-ASN-2026-000093-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000093-01-02",
     "rubric_id": "RUB-ASN-2026-000093-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000093-01-03",
     "rubric_id": "RUB-ASN-2026-000093-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000093-01-04",
     "rubric_id": "RUB-ASN-2026-000093-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000094-01-01",
     "rubric_id": "RUB-ASN-2026-000094-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000094-01-02",
     "rubric_id": "RUB-ASN-2026-000094-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000094-01-03",
     "rubric_id": "RUB-ASN-2026-000094-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000094-01-04",
     "rubric_id": "RUB-ASN-2026-000094-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000095-01-01",
     "rubric_id": "RUB-ASN-2026-000095-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000095-01-02",
     "rubric_id": "RUB-ASN-2026-000095-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000095-01-03",
     "rubric_id": "RUB-ASN-2026-000095-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000095-01-04",
     "rubric_id": "RUB-ASN-2026-000095-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000096-01-01",
     "rubric_id": "RUB-ASN-2026-000096-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000096-01-02",
     "rubric_id": "RUB-ASN-2026-000096-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000096-01-03",
     "rubric_id": "RUB-ASN-2026-000096-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000096-01-04",
     "rubric_id": "RUB-ASN-2026-000096-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000097-01-01",
     "rubric_id": "RUB-ASN-2026-000097-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000097-01-02",
     "rubric_id": "RUB-ASN-2026-000097-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000097-01-03",
     "rubric_id": "RUB-ASN-2026-000097-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000097-01-04",
     "rubric_id": "RUB-ASN-2026-000097-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000098-01-01",
     "rubric_id": "RUB-ASN-2026-000098-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000098-01-02",
     "rubric_id": "RUB-ASN-2026-000098-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000098-01-03",
     "rubric_id": "RUB-ASN-2026-000098-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000098-01-04",
     "rubric_id": "RUB-ASN-2026-000098-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000099-01-01",
     "rubric_id": "RUB-ASN-2026-000099-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000099-01-02",
     "rubric_id": "RUB-ASN-2026-000099-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000099-01-03",
     "rubric_id": "RUB-ASN-2026-000099-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000099-01-04",
     "rubric_id": "RUB-ASN-2026-000099-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000100-01-01",
     "rubric_id": "RUB-ASN-2026-000100-01",
     "title": "Code Correctness & Functional Requirements",
     "description": "Verifies algorithmic accuracy, passing core test fixtures, and expected outputs.",
-    "max_points": "40.0",
-    "weight": "0.4"
+    "max_points": 40.0,
+    "weight": 0.4
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000100-01-02",
     "rubric_id": "RUB-ASN-2026-000100-01",
     "title": "Software Architecture & Engineering Quality",
     "description": "Evaluates modularity, separation of concerns, clean code conventions, and maintainability.",
-    "max_points": "30.0",
-    "weight": "0.3"
+    "max_points": 30.0,
+    "weight": 0.3
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000100-01-03",
     "rubric_id": "RUB-ASN-2026-000100-01",
     "title": "Test Coverage & Robust Edge Case Handling",
     "description": "Assesses unit and integration tests covering boundaries, invalid input handling, and stress conditions.",
-    "max_points": "20.0",
-    "weight": "0.2"
+    "max_points": 20.0,
+    "weight": 0.2
   },
   {
     "criterion_id": "CRT-RUB-ASN-2026-000100-01-04",
     "rubric_id": "RUB-ASN-2026-000100-01",
     "title": "Documentation & API Specifications",
     "description": "Reviews clarity of README, inline docstrings, schema contracts, and build reproducibility instructions.",
-    "max_points": "10.0",
-    "weight": "0.1"
+    "max_points": 10.0,
+    "weight": 0.1
   }
 ]

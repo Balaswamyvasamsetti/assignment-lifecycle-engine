@@ -1,7 +1,7 @@
 {
   "dataset_name": "assignment-lifecycle-synthetic-benchmark",
   "version": "1.0.0",
-  "generated_at_utc": "2026-10-27T05:10:28Z",
+  "generated_at_utc": "2026-10-27T05:13:50Z",
   "seed": 20261022,
   "scale_profile": "starter",
   "provenance": {
@@ -33,7 +33,7 @@
     "ground_truth.csv": "10200906cd99d7c845e81e36e1b0994b38c448bef0f59212170bbcf9eab881e6"
   },
   "sqlite_database": {
-    "path": "C:\\72_hours_code\\data\\database.sqlite",
+    "path": "C:\\Users\\balas\\AppData\\Local\\Temp\\pytest-of-balas\\pytest-5\\val_data0\\database.sqlite",
     "status": "Available with active foreign key enforcement and relational indexes"
   }
 }
