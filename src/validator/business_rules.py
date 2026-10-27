@@ -373,3 +373,94 @@ def validate_appeal_audit_compliance(
                 )
 
     return violations
+
+
+def validate_lifecycle_transitions(
+    submissions: List[Dict[str, str]],
+    grades: List[Dict[str, str]],
+    resubmissions: List[Dict[str, str]],
+    appeals: List[Dict[str, str]],
+    assignments: List[Dict[str, str]],
+) -> List[BusinessRuleViolation]:
+    """Validates state machine transitions, resubmission policy limits, and appeal decision completeness."""
+    violations: List[BusinessRuleViolation] = []
+
+    asn_map = {a["assignment_id"]: a for a in assignments}
+    sub_map = {s["submission_id"]: s for s in submissions}
+    resub_prev_ids = {r["previous_submission_id"] for r in resubmissions}
+
+    # 1. Submission status transition validity
+    for sub in submissions:
+        sub_id = sub["submission_id"]
+        status = sub.get("status", "").strip()
+
+        if status == "RESUBMITTED":
+            if sub_id not in resub_prev_ids:
+                violations.append(
+                    BusinessRuleViolation(
+                        issue_type="INVALID_LIFECYCLE_STATE_TRANSITION",
+                        entity_name="Submission",
+                        record_id=sub_id,
+                        field_name="status",
+                        expected_value="GRADED",
+                        actual_value=status,
+                        description=f"Submission {sub_id} marked RESUBMITTED but no corresponding Resubmission record found.",
+                    )
+                )
+
+    # 2. Resubmission policy limit validation
+    for rsb in resubmissions:
+        rsb_id = rsb["resubmission_id"]
+        new_sub = sub_map.get(rsb["new_submission_id"])
+        if new_sub:
+            asn = asn_map.get(new_sub["assignment_id"])
+            if asn:
+                max_resub = int(asn["max_resubmissions"])
+                new_ver = int(new_sub["version_number"])
+                expected_allowed = new_ver <= (max_resub + 1)
+                actual_allowed = rsb["is_allowed_by_policy"].strip().lower() in ("true", "1")
+                if actual_allowed != expected_allowed:
+                    violations.append(
+                        BusinessRuleViolation(
+                            issue_type="RESUBMISSION_POLICY_MISMATCH",
+                            entity_name="Resubmission",
+                            record_id=rsb_id,
+                            field_name="is_allowed_by_policy",
+                            expected_value=str(expected_allowed),
+                            actual_value=str(actual_allowed),
+                            description=f"Policy compliance mismatch for resubmission version {new_ver} vs max allowed {max_resub}.",
+                        )
+                    )
+
+    # 3. Appeal outcome and updated score consistency
+    for app in appeals:
+        app_id = app["appeal_id"]
+        status = app.get("status", "").strip()
+        updated_score_str = app.get("updated_score", "").strip()
+
+        if status in ("PENDING", "REJECTED") and updated_score_str != "":
+            violations.append(
+                BusinessRuleViolation(
+                    issue_type="APPEAL_UNRESOLVED_SCORE_MUTATION",
+                    entity_name="Appeal",
+                    record_id=app_id,
+                    field_name="updated_score",
+                    expected_value="",
+                    actual_value=updated_score_str,
+                    description=f"Appeal {app_id} has status {status} but defines an updated_score.",
+                )
+            )
+        elif status == "APPROVED" and updated_score_str == "":
+            violations.append(
+                BusinessRuleViolation(
+                    issue_type="APPEAL_APPROVED_MISSING_SCORE",
+                    entity_name="Appeal",
+                    record_id=app_id,
+                    field_name="updated_score",
+                    expected_value="<numeric_score>",
+                    actual_value="",
+                    description=f"Appeal {app_id} is APPROVED but lacks an updated_score.",
+                )
+            )
+
+    return violations

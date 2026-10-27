@@ -30,11 +30,15 @@ def test_generation_reproducibility(tmp_path: Path) -> None:
     run1_raw = run1_dir / "raw"
     run1_gt = run1_dir / "ground_truth.csv"
     run1_db = run1_dir / "database.sqlite"
+    run1_json = run1_dir / "json"
+    run1_manifest = run1_dir / "manifest.json"
 
     run2_dir = tmp_path / "run2"
     run2_raw = run2_dir / "raw"
     run2_gt = run2_dir / "ground_truth.csv"
     run2_db = run2_dir / "database.sqlite"
+    run2_json = run2_dir / "json"
+    run2_manifest = run2_dir / "manifest.json"
 
     # Execution 1
     run1_csvs, _ = run_pipeline(
@@ -43,6 +47,9 @@ def test_generation_reproducibility(tmp_path: Path) -> None:
         out_dir=run1_raw,
         ground_truth_path=run1_gt,
         sqlite_db_path=run1_db,
+        export_json=True,
+        json_out_dir=run1_json,
+        manifest_path=run1_manifest,
     )
 
     # Execution 2
@@ -52,6 +59,9 @@ def test_generation_reproducibility(tmp_path: Path) -> None:
         out_dir=run2_raw,
         ground_truth_path=run2_gt,
         sqlite_db_path=run2_db,
+        export_json=True,
+        json_out_dir=run2_json,
+        manifest_path=run2_manifest,
     )
 
     expected_files = [
@@ -84,6 +94,19 @@ def test_generation_reproducibility(tmp_path: Path) -> None:
         hash1 = compute_sha256(f1)
         hash2 = compute_sha256(f2)
         assert hash1 == hash2, f"SHA-256 checksum mismatch for {filename}:\nRun 1: {hash1}\nRun 2: {hash2}"
+
+    # Verify all operational JSON files
+    for filename in expected_files:
+        json_name = filename.replace(".csv", ".json")
+        jf1 = run1_json / json_name
+        jf2 = run2_json / json_name
+
+        assert jf1.exists(), f"JSON file {json_name} missing in run 1"
+        assert jf2.exists(), f"JSON file {json_name} missing in run 2"
+
+        jhash1 = compute_sha256(jf1)
+        jhash2 = compute_sha256(jf2)
+        assert jhash1 == jhash2, f"SHA-256 checksum mismatch for {json_name}"
 
     # Verify ground_truth.csv
     assert run1_gt.exists()

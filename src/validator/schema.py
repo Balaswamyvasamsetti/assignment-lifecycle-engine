@@ -139,3 +139,62 @@ def validate_enum_field(
             )
 
     return errors
+
+
+def validate_unique_field(
+    data: List[Dict[str, str]],
+    field_name: str,
+    entity_name: str,
+) -> List[SchemaValidationError]:
+    """Validates that values in a column with a uniqueness constraint are distinct."""
+    errors: List[SchemaValidationError] = []
+    seen: Set[str] = set()
+
+    for idx, row in enumerate(data):
+        val = row.get(field_name, "").strip()
+        pk_val = list(row.values())[0] if row else f"row-{idx+1}"
+
+        if val:
+            if val in seen:
+                errors.append(
+                    SchemaValidationError(
+                        entity=entity_name,
+                        record_id=pk_val,
+                        field=field_name,
+                        error_type="UNIQUE_FIELD_DUPLICATE",
+                        message=f"Duplicate value '{val}' found for unique field '{field_name}'.",
+                    )
+                )
+            else:
+                seen.add(val)
+
+    return errors
+
+
+def validate_unique_composite_key(
+    data: List[Dict[str, str]],
+    fields: List[str],
+    entity_name: str,
+) -> List[SchemaValidationError]:
+    """Validates that composite tuples across multiple fields are unique."""
+    errors: List[SchemaValidationError] = []
+    seen_tuples: Set[Tuple[str, ...]] = set()
+
+    for idx, row in enumerate(data):
+        key_tuple = tuple(row.get(f, "").strip() for f in fields)
+        pk_val = list(row.values())[0] if row else f"row-{idx+1}"
+
+        if key_tuple in seen_tuples:
+            errors.append(
+                SchemaValidationError(
+                    entity=entity_name,
+                    record_id=pk_val,
+                    field="+".join(fields),
+                    error_type="COMPOSITE_KEY_DUPLICATE",
+                    message=f"Duplicate composite key {key_tuple} detected on {entity_name}.",
+                )
+            )
+        else:
+            seen_tuples.add(key_tuple)
+
+    return errors

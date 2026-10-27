@@ -1,0 +1,4002 @@
+[
+  {
+    "learner_id": "LRN-2026-000001",
+    "full_name": "Jesse Lewis",
+    "email": "jesse.lewis.000001@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-12T10:17:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000002",
+    "full_name": "Chioma Chen",
+    "email": "chioma.chen.000002@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-16T05:53:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000003",
+    "full_name": "Elena Patel",
+    "email": "elena.patel.000003@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-24T14:12:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000004",
+    "full_name": "Sloan Ramirez",
+    "email": "sloan.ramirez.000004@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-11T02:25:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000005",
+    "full_name": "Fatima Campbell",
+    "email": "fatima.campbell.000005@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-10T00:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000006",
+    "full_name": "Finley Garcia",
+    "email": "finley.garcia.000006@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-26T21:29:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000007",
+    "full_name": "Hayden Kim",
+    "email": "hayden.kim.000007@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-10T09:25:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000008",
+    "full_name": "Mei Moore",
+    "email": "mei.moore.000008@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-26T06:36:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000009",
+    "full_name": "Sam Flores",
+    "email": "sam.flores.000009@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-10T17:29:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000010",
+    "full_name": "Parker Sanchez",
+    "email": "parker.sanchez.000010@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-07T16:57:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000011",
+    "full_name": "Jamie Sanchez",
+    "email": "jamie.sanchez.000011@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-24T16:23:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000012",
+    "full_name": "Peyton Perez",
+    "email": "peyton.perez.000012@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-22T11:44:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000013",
+    "full_name": "Aarav Green",
+    "email": "aarav.green.000013@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-04T17:36:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000014",
+    "full_name": "Morgan Jackson",
+    "email": "morgan.jackson.000014@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-19T02:19:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000015",
+    "full_name": "Finley Sanchez",
+    "email": "finley.sanchez.000015@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-05T06:21:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000016",
+    "full_name": "Casey Scott",
+    "email": "casey.scott.000016@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-26T03:26:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000017",
+    "full_name": "Sam Sanchez",
+    "email": "sam.sanchez.000017@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-30T16:19:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000018",
+    "full_name": "Sam Nelson",
+    "email": "sam.nelson.000018@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-03T17:52:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000019",
+    "full_name": "Sofia Scott",
+    "email": "sofia.scott.000019@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-12T05:13:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000020",
+    "full_name": "Logan King",
+    "email": "logan.king.000020@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-13T05:48:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000021",
+    "full_name": "Taylor Brown",
+    "email": "taylor.brown.000021@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-16T20:26:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000022",
+    "full_name": "Harper Thompson",
+    "email": "harper.thompson.000022@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-28T14:31:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000023",
+    "full_name": "Jamie Tanaka",
+    "email": "jamie.tanaka.000023@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-07T16:09:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000024",
+    "full_name": "Lina Lee",
+    "email": "lina.lee.000024@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-14T04:06:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000025",
+    "full_name": "Taylor Gonzalez",
+    "email": "taylor.gonzalez.000025@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-08T21:47:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000026",
+    "full_name": "Kai Thompson",
+    "email": "kai.thompson.000026@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-23T06:48:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000027",
+    "full_name": "Kai Garcia",
+    "email": "kai.garcia.000027@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-09T09:04:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000028",
+    "full_name": "Chioma Young",
+    "email": "chioma.young.000028@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-02T19:56:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000029",
+    "full_name": "Riley Perez",
+    "email": "riley.perez.000029@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-02T00:49:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000030",
+    "full_name": "Tenzin Harris",
+    "email": "tenzin.harris.000030@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-03T20:11:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000031",
+    "full_name": "Arjun Wright",
+    "email": "arjun.wright.000031@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-10T13:12:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000032",
+    "full_name": "Harper Singh",
+    "email": "harper.singh.000032@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-07T18:51:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000033",
+    "full_name": "Fatima Scott",
+    "email": "fatima.scott.000033@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-06T17:04:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000034",
+    "full_name": "Santiago Johnson",
+    "email": "santiago.johnson.000034@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-07T22:04:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000035",
+    "full_name": "Tenzin Robinson",
+    "email": "tenzin.robinson.000035@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-11T20:59:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000036",
+    "full_name": "Elena Brown",
+    "email": "elena.brown.000036@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-22T22:21:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000037",
+    "full_name": "Morgan Miller",
+    "email": "morgan.miller.000037@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-11T09:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000038",
+    "full_name": "Finley White",
+    "email": "finley.white.000038@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-13T21:41:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000039",
+    "full_name": "Taylor Anderson",
+    "email": "taylor.anderson.000039@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-27T17:11:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000040",
+    "full_name": "Kendall Allen",
+    "email": "kendall.allen.000040@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-15T23:35:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000041",
+    "full_name": "Rowan Zhang",
+    "email": "rowan.zhang.000041@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-28T14:06:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000042",
+    "full_name": "Dakota Robinson",
+    "email": "dakota.robinson.000042@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-27T10:08:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000043",
+    "full_name": "Morgan Green",
+    "email": "morgan.green.000043@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-21T21:22:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000044",
+    "full_name": "Chioma Hernandez",
+    "email": "chioma.hernandez.000044@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-30T06:00:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000045",
+    "full_name": "Jesse Kaur",
+    "email": "jesse.kaur.000045@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-11T06:47:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000046",
+    "full_name": "Sofia Clark",
+    "email": "sofia.clark.000046@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-11T22:54:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000047",
+    "full_name": "Kai Williams",
+    "email": "kai.williams.000047@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-01T15:23:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000048",
+    "full_name": "Mei Lee",
+    "email": "mei.lee.000048@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-08T11:50:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000049",
+    "full_name": "Kai Johnson",
+    "email": "kai.johnson.000049@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-17T19:49:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000050",
+    "full_name": "Tenzin Gonzalez",
+    "email": "tenzin.gonzalez.000050@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-17T13:02:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000051",
+    "full_name": "Lina Campbell",
+    "email": "lina.campbell.000051@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-09T01:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000052",
+    "full_name": "Adrian Lopez",
+    "email": "adrian.lopez.000052@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-21T14:39:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000053",
+    "full_name": "Fatima Jones",
+    "email": "fatima.jones.000053@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-11T17:24:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000054",
+    "full_name": "Emerson Williams",
+    "email": "emerson.williams.000054@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-27T15:42:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000055",
+    "full_name": "Avery Brown",
+    "email": "avery.brown.000055@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-27T18:27:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000056",
+    "full_name": "Kai Garcia",
+    "email": "kai.garcia.000056@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-11T17:17:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000057",
+    "full_name": "Kenji Flores",
+    "email": "kenji.flores.000057@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-13T18:01:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000058",
+    "full_name": "Quinn Torres",
+    "email": "quinn.torres.000058@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-12T19:49:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000059",
+    "full_name": "Morgan Campbell",
+    "email": "morgan.campbell.000059@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-18T19:08:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000060",
+    "full_name": "Blake Chen",
+    "email": "blake.chen.000060@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-11T20:49:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000061",
+    "full_name": "Rowan Hernandez",
+    "email": "rowan.hernandez.000061@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-05T13:04:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000062",
+    "full_name": "Skyler Gonzalez",
+    "email": "skyler.gonzalez.000062@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-30T14:18:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000063",
+    "full_name": "Chioma Walker",
+    "email": "chioma.walker.000063@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-20T14:56:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000064",
+    "full_name": "Sloan Garcia",
+    "email": "sloan.garcia.000064@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-01T22:25:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000065",
+    "full_name": "Hayden Thompson",
+    "email": "hayden.thompson.000065@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-26T21:33:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000066",
+    "full_name": "Fatima Scott",
+    "email": "fatima.scott.000066@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-09T16:30:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000067",
+    "full_name": "Alex Williams",
+    "email": "alex.williams.000067@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-09T09:47:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000068",
+    "full_name": "Amara Hill",
+    "email": "amara.hill.000068@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-18T12:52:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000069",
+    "full_name": "Dmitri Thomas",
+    "email": "dmitri.thomas.000069@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-25T14:54:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000070",
+    "full_name": "Taylor Torres",
+    "email": "taylor.torres.000070@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-18T15:51:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000071",
+    "full_name": "Cameron Harris",
+    "email": "cameron.harris.000071@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-11T10:44:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000072",
+    "full_name": "Avery Rodriguez",
+    "email": "avery.rodriguez.000072@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-29T08:09:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000073",
+    "full_name": "Dakota Baker",
+    "email": "dakota.baker.000073@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-09T22:06:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000074",
+    "full_name": "Morgan Thomas",
+    "email": "morgan.thomas.000074@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2026-01-01T02:45:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000075",
+    "full_name": "Avery King",
+    "email": "avery.king.000075@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-27T00:46:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000076",
+    "full_name": "Peyton Anderson",
+    "email": "peyton.anderson.000076@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-27T03:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000077",
+    "full_name": "Dakota Campbell",
+    "email": "dakota.campbell.000077@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-27T01:12:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000078",
+    "full_name": "Aarav Jones",
+    "email": "aarav.jones.000078@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-06T03:03:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000079",
+    "full_name": "Skyler Lewis",
+    "email": "skyler.lewis.000079@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-21T04:25:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000080",
+    "full_name": "Cameron Hill",
+    "email": "cameron.hill.000080@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-06T03:54:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000081",
+    "full_name": "Lina Taylor",
+    "email": "lina.taylor.000081@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-21T05:20:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000082",
+    "full_name": "Sofia Young",
+    "email": "sofia.young.000082@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-14T14:42:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000083",
+    "full_name": "Logan Jackson",
+    "email": "logan.jackson.000083@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-31T15:37:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000084",
+    "full_name": "Aarav Lopez",
+    "email": "aarav.lopez.000084@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-12T14:48:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000085",
+    "full_name": "Cameron Torres",
+    "email": "cameron.torres.000085@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-26T22:46:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000086",
+    "full_name": "Mateo Kim",
+    "email": "mateo.kim.000086@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-11T23:12:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000087",
+    "full_name": "Sloan Flores",
+    "email": "sloan.flores.000087@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-16T03:37:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000088",
+    "full_name": "Aarav Wright",
+    "email": "aarav.wright.000088@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-02T07:58:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000089",
+    "full_name": "Harper Wilson",
+    "email": "harper.wilson.000089@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-22T18:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000090",
+    "full_name": "Quinn Lopez",
+    "email": "quinn.lopez.000090@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-19T18:27:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000091",
+    "full_name": "Santiago Singh",
+    "email": "santiago.singh.000091@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-18T12:38:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000092",
+    "full_name": "Jesse Zhang",
+    "email": "jesse.zhang.000092@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2026-01-01T05:35:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000093",
+    "full_name": "Parker Zhang",
+    "email": "parker.zhang.000093@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-07T12:55:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000094",
+    "full_name": "Pat Taylor",
+    "email": "pat.taylor.000094@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-21T05:39:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000095",
+    "full_name": "Parker Williams",
+    "email": "parker.williams.000095@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-17T01:29:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000096",
+    "full_name": "Taylor Walker",
+    "email": "taylor.walker.000096@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-19T19:15:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000097",
+    "full_name": "Cameron Nguyen",
+    "email": "cameron.nguyen.000097@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-05T17:44:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000098",
+    "full_name": "Jordan Lewis",
+    "email": "jordan.lewis.000098@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-18T01:06:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000099",
+    "full_name": "Peyton Davis",
+    "email": "peyton.davis.000099@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-21T18:55:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000100",
+    "full_name": "Jamie Anderson",
+    "email": "jamie.anderson.000100@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-28T01:30:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000101",
+    "full_name": "Dakota Gonzalez",
+    "email": "dakota.gonzalez.000101@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-16T16:01:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000102",
+    "full_name": "Dmitri Singh",
+    "email": "dmitri.singh.000102@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-23T19:57:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000103",
+    "full_name": "River Chen",
+    "email": "river.chen.000103@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-22T18:03:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000104",
+    "full_name": "Jordan Tanaka",
+    "email": "jordan.tanaka.000104@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-03T02:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000105",
+    "full_name": "Dmitri Jackson",
+    "email": "dmitri.jackson.000105@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-26T16:36:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000106",
+    "full_name": "Parker Sharma",
+    "email": "parker.sharma.000106@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-10T14:36:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000107",
+    "full_name": "Santiago Young",
+    "email": "santiago.young.000107@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-11T11:11:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000108",
+    "full_name": "Casey Miller",
+    "email": "casey.miller.000108@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-01T21:32:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000109",
+    "full_name": "Sloan Taylor",
+    "email": "sloan.taylor.000109@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-06T08:08:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000110",
+    "full_name": "Blake Rodriguez",
+    "email": "blake.rodriguez.000110@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-07T04:19:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000111",
+    "full_name": "Taylor Jackson",
+    "email": "taylor.jackson.000111@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-06T16:28:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000112",
+    "full_name": "Dmitri Zhang",
+    "email": "dmitri.zhang.000112@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-10T23:42:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000113",
+    "full_name": "Fatima Brown",
+    "email": "fatima.brown.000113@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-22T12:29:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000114",
+    "full_name": "Chioma Chen",
+    "email": "chioma.chen.000114@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-31T16:12:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000115",
+    "full_name": "Alex Singh",
+    "email": "alex.singh.000115@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-23T12:08:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000116",
+    "full_name": "Avery Robinson",
+    "email": "avery.robinson.000116@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-03T23:55:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000117",
+    "full_name": "Jamie Nguyen",
+    "email": "jamie.nguyen.000117@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-16T17:50:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000118",
+    "full_name": "Avery Thomas",
+    "email": "avery.thomas.000118@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-01T14:52:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000119",
+    "full_name": "Jordan Lopez",
+    "email": "jordan.lopez.000119@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-14T10:23:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000120",
+    "full_name": "Santiago Campbell",
+    "email": "santiago.campbell.000120@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-08T07:09:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000121",
+    "full_name": "Casey Tanaka",
+    "email": "casey.tanaka.000121@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-26T22:48:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000122",
+    "full_name": "Jamie Wilson",
+    "email": "jamie.wilson.000122@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-01T11:38:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000123",
+    "full_name": "Mateo Thompson",
+    "email": "mateo.thompson.000123@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-24T03:21:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000124",
+    "full_name": "Chris Anderson",
+    "email": "chris.anderson.000124@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-12T14:35:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000125",
+    "full_name": "Kai Kim",
+    "email": "kai.kim.000125@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-19T10:45:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000126",
+    "full_name": "Riley Hernandez",
+    "email": "riley.hernandez.000126@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-26T12:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000127",
+    "full_name": "Alex Campbell",
+    "email": "alex.campbell.000127@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-14T15:56:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000128",
+    "full_name": "Lina Green",
+    "email": "lina.green.000128@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-06T00:41:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000129",
+    "full_name": "Aarav Smith",
+    "email": "aarav.smith.000129@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-28T08:28:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000130",
+    "full_name": "Jamie Hall",
+    "email": "jamie.hall.000130@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-14T18:51:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000131",
+    "full_name": "Kai Martinez",
+    "email": "kai.martinez.000131@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-15T18:20:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000132",
+    "full_name": "Aarav Patel",
+    "email": "aarav.patel.000132@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-17T10:46:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000133",
+    "full_name": "Peyton Rivera",
+    "email": "peyton.rivera.000133@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-03T03:42:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000134",
+    "full_name": "Skyler Gonzalez",
+    "email": "skyler.gonzalez.000134@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-22T08:58:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000135",
+    "full_name": "Logan Johnson",
+    "email": "logan.johnson.000135@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-13T10:05:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000136",
+    "full_name": "Sofia King",
+    "email": "sofia.king.000136@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-15T02:57:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000137",
+    "full_name": "Sam Kim",
+    "email": "sam.kim.000137@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-25T04:00:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000138",
+    "full_name": "Rowan Miller",
+    "email": "rowan.miller.000138@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-03T15:50:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000139",
+    "full_name": "Emerson Martinez",
+    "email": "emerson.martinez.000139@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-18T06:48:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000140",
+    "full_name": "Taylor Baker",
+    "email": "taylor.baker.000140@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-12T16:39:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000141",
+    "full_name": "Mateo Brown",
+    "email": "mateo.brown.000141@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-16T06:16:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000142",
+    "full_name": "Dmitri Chen",
+    "email": "dmitri.chen.000142@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-27T14:45:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000143",
+    "full_name": "River Thompson",
+    "email": "river.thompson.000143@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-06T13:17:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000144",
+    "full_name": "Rowan Mitchell",
+    "email": "rowan.mitchell.000144@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-20T01:27:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000145",
+    "full_name": "Peyton Thompson",
+    "email": "peyton.thompson.000145@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-27T18:04:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000146",
+    "full_name": "Jamie Campbell",
+    "email": "jamie.campbell.000146@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-08T09:30:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000147",
+    "full_name": "Reese Hill",
+    "email": "reese.hill.000147@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-29T12:29:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000148",
+    "full_name": "Skyler Young",
+    "email": "skyler.young.000148@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-16T00:50:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000149",
+    "full_name": "Elena Wright",
+    "email": "elena.wright.000149@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-29T18:17:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000150",
+    "full_name": "Logan Wright",
+    "email": "logan.wright.000150@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-05T02:31:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000151",
+    "full_name": "Rowan Anderson",
+    "email": "rowan.anderson.000151@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-25T17:37:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000152",
+    "full_name": "Peyton Chen",
+    "email": "peyton.chen.000152@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-18T10:02:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000153",
+    "full_name": "Wei Nguyen",
+    "email": "wei.nguyen.000153@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-16T06:56:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000154",
+    "full_name": "Aarav Martin",
+    "email": "aarav.martin.000154@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-08T06:13:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000155",
+    "full_name": "Wei Thompson",
+    "email": "wei.thompson.000155@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-28T22:05:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000156",
+    "full_name": "Kenji Harris",
+    "email": "kenji.harris.000156@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-14T08:44:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000157",
+    "full_name": "Emerson Thomas",
+    "email": "emerson.thomas.000157@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-14T04:46:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000158",
+    "full_name": "Tenzin Ramirez",
+    "email": "tenzin.ramirez.000158@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-12T12:10:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000159",
+    "full_name": "Casey Ramirez",
+    "email": "casey.ramirez.000159@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-17T03:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000160",
+    "full_name": "Hassan Garcia",
+    "email": "hassan.garcia.000160@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-18T17:13:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000161",
+    "full_name": "Parker Mitchell",
+    "email": "parker.mitchell.000161@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-08T08:07:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000162",
+    "full_name": "Hayden Lopez",
+    "email": "hayden.lopez.000162@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-26T15:10:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000163",
+    "full_name": "Lina Green",
+    "email": "lina.green.000163@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-16T00:44:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000164",
+    "full_name": "Wei Rodriguez",
+    "email": "wei.rodriguez.000164@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-16T14:55:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000165",
+    "full_name": "Parker Jones",
+    "email": "parker.jones.000165@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-24T16:42:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000166",
+    "full_name": "Wei Robinson",
+    "email": "wei.robinson.000166@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-03T15:28:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000167",
+    "full_name": "Pat Taylor",
+    "email": "pat.taylor.000167@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-01T19:33:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000168",
+    "full_name": "Mei Hill",
+    "email": "mei.hill.000168@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-29T12:46:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000169",
+    "full_name": "Pat Rodriguez",
+    "email": "pat.rodriguez.000169@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-13T14:40:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000170",
+    "full_name": "Jordan Martinez",
+    "email": "jordan.martinez.000170@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-03T07:01:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000171",
+    "full_name": "Morgan Perez",
+    "email": "morgan.perez.000171@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-11T01:41:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000172",
+    "full_name": "Amara Baker",
+    "email": "amara.baker.000172@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-30T11:32:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000173",
+    "full_name": "Sofia Nelson",
+    "email": "sofia.nelson.000173@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-05T09:24:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000174",
+    "full_name": "Hassan Perez",
+    "email": "hassan.perez.000174@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-11T18:19:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000175",
+    "full_name": "Kai Williams",
+    "email": "kai.williams.000175@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-29T01:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000176",
+    "full_name": "Tenzin Hernandez",
+    "email": "tenzin.hernandez.000176@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-25T09:34:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000177",
+    "full_name": "Logan Allen",
+    "email": "logan.allen.000177@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-19T16:45:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000178",
+    "full_name": "Skyler Lopez",
+    "email": "skyler.lopez.000178@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-27T02:08:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000179",
+    "full_name": "Santiago Wright",
+    "email": "santiago.wright.000179@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-27T09:50:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000180",
+    "full_name": "Morgan Tanaka",
+    "email": "morgan.tanaka.000180@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-20T16:51:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000181",
+    "full_name": "Sam Perez",
+    "email": "sam.perez.000181@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-29T16:36:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000182",
+    "full_name": "Alex Kim",
+    "email": "alex.kim.000182@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-28T20:45:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000183",
+    "full_name": "Avery Chen",
+    "email": "avery.chen.000183@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-02T15:07:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000184",
+    "full_name": "Mateo Chen",
+    "email": "mateo.chen.000184@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-24T09:48:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000185",
+    "full_name": "Reese Rodriguez",
+    "email": "reese.rodriguez.000185@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-01T03:47:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000186",
+    "full_name": "River Brown",
+    "email": "river.brown.000186@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-26T20:10:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000187",
+    "full_name": "Avery Kaur",
+    "email": "avery.kaur.000187@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-22T16:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000188",
+    "full_name": "Kenji Anderson",
+    "email": "kenji.anderson.000188@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-22T11:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000189",
+    "full_name": "Peyton Sharma",
+    "email": "peyton.sharma.000189@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-04T00:06:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000190",
+    "full_name": "Finley Singh",
+    "email": "finley.singh.000190@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-30T05:56:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000191",
+    "full_name": "Adrian Walker",
+    "email": "adrian.walker.000191@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-21T15:29:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000192",
+    "full_name": "Aarav Williams",
+    "email": "aarav.williams.000192@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-29T20:12:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000193",
+    "full_name": "Hassan Campbell",
+    "email": "hassan.campbell.000193@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-23T13:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000194",
+    "full_name": "Tenzin Nelson",
+    "email": "tenzin.nelson.000194@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-16T22:56:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000195",
+    "full_name": "River Wilson",
+    "email": "river.wilson.000195@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-25T07:10:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000196",
+    "full_name": "Lina Taylor",
+    "email": "lina.taylor.000196@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-21T22:56:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000197",
+    "full_name": "Jamie Lee",
+    "email": "jamie.lee.000197@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-09T19:20:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000198",
+    "full_name": "Logan Zhang",
+    "email": "logan.zhang.000198@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-15T06:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000199",
+    "full_name": "Tenzin Allen",
+    "email": "tenzin.allen.000199@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-01T02:20:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000200",
+    "full_name": "Quinn Wright",
+    "email": "quinn.wright.000200@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-29T02:16:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000201",
+    "full_name": "Elliott Walker",
+    "email": "elliott.walker.000201@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-26T15:02:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000202",
+    "full_name": "Arjun Williams",
+    "email": "arjun.williams.000202@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-26T12:37:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000203",
+    "full_name": "Elliott Green",
+    "email": "elliott.green.000203@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-10T02:20:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000204",
+    "full_name": "Kendall Wilson",
+    "email": "kendall.wilson.000204@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-04T14:28:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000205",
+    "full_name": "River Green",
+    "email": "river.green.000205@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-22T14:16:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000206",
+    "full_name": "Jordan Williams",
+    "email": "jordan.williams.000206@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-14T07:21:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000207",
+    "full_name": "Chioma Rivera",
+    "email": "chioma.rivera.000207@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-12T15:08:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000208",
+    "full_name": "Harper Green",
+    "email": "harper.green.000208@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-05T04:48:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000209",
+    "full_name": "Dmitri Sanchez",
+    "email": "dmitri.sanchez.000209@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-15T14:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000210",
+    "full_name": "Dakota Sanchez",
+    "email": "dakota.sanchez.000210@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-25T00:37:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000211",
+    "full_name": "Logan Campbell",
+    "email": "logan.campbell.000211@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-17T03:48:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000212",
+    "full_name": "Aarav Walker",
+    "email": "aarav.walker.000212@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-06T19:47:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000213",
+    "full_name": "Amara Mitchell",
+    "email": "amara.mitchell.000213@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-25T17:27:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000214",
+    "full_name": "Arjun Clark",
+    "email": "arjun.clark.000214@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-29T16:54:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000215",
+    "full_name": "Chris Jackson",
+    "email": "chris.jackson.000215@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-30T13:46:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000216",
+    "full_name": "Amara Wright",
+    "email": "amara.wright.000216@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-03T22:13:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000217",
+    "full_name": "Riley Martinez",
+    "email": "riley.martinez.000217@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-17T01:40:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000218",
+    "full_name": "Emerson Hall",
+    "email": "emerson.hall.000218@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-24T05:01:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000219",
+    "full_name": "Hassan Green",
+    "email": "hassan.green.000219@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-27T20:13:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000220",
+    "full_name": "Arjun Davis",
+    "email": "arjun.davis.000220@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-12T04:48:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000221",
+    "full_name": "Aarav Baker",
+    "email": "aarav.baker.000221@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-05T06:06:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000222",
+    "full_name": "Arjun Garcia",
+    "email": "arjun.garcia.000222@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-10T20:08:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000223",
+    "full_name": "Kenji Adams",
+    "email": "kenji.adams.000223@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-27T20:08:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000224",
+    "full_name": "Logan Torres",
+    "email": "logan.torres.000224@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-02T16:16:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000225",
+    "full_name": "Logan Anderson",
+    "email": "logan.anderson.000225@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-05T21:11:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000226",
+    "full_name": "Kendall Rodriguez",
+    "email": "kendall.rodriguez.000226@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-12T08:53:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000227",
+    "full_name": "Jesse Smith",
+    "email": "jesse.smith.000227@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-06T04:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000228",
+    "full_name": "Reese Flores",
+    "email": "reese.flores.000228@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-20T06:01:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000229",
+    "full_name": "Chris Johnson",
+    "email": "chris.johnson.000229@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-19T17:24:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000230",
+    "full_name": "Finley Jackson",
+    "email": "finley.jackson.000230@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-25T18:58:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000231",
+    "full_name": "Casey Anderson",
+    "email": "casey.anderson.000231@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-11T20:31:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000232",
+    "full_name": "Santiago Adams",
+    "email": "santiago.adams.000232@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-10T05:40:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000233",
+    "full_name": "Lina Kim",
+    "email": "lina.kim.000233@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-17T18:07:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000234",
+    "full_name": "Wei Gonzalez",
+    "email": "wei.gonzalez.000234@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-01T21:31:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000235",
+    "full_name": "Aarav Chen",
+    "email": "aarav.chen.000235@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-03T09:35:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000236",
+    "full_name": "Wei Gonzalez",
+    "email": "wei.gonzalez.000236@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-26T19:05:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000237",
+    "full_name": "Lina Martinez",
+    "email": "lina.martinez.000237@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-24T14:32:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000238",
+    "full_name": "Chioma Hill",
+    "email": "chioma.hill.000238@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-28T16:59:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000239",
+    "full_name": "Avery Moore",
+    "email": "avery.moore.000239@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-22T12:27:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000240",
+    "full_name": "Chris Wang",
+    "email": "chris.wang.000240@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-15T18:07:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000241",
+    "full_name": "Skyler Nguyen",
+    "email": "skyler.nguyen.000241@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-24T17:09:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000242",
+    "full_name": "Tenzin Patel",
+    "email": "tenzin.patel.000242@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-19T10:00:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000243",
+    "full_name": "Mateo Scott",
+    "email": "mateo.scott.000243@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-24T03:15:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000244",
+    "full_name": "Emerson Campbell",
+    "email": "emerson.campbell.000244@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-05T12:24:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000245",
+    "full_name": "Taylor Martin",
+    "email": "taylor.martin.000245@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-01T18:46:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000246",
+    "full_name": "Kendall Perez",
+    "email": "kendall.perez.000246@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-27T22:38:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000247",
+    "full_name": "Santiago Chen",
+    "email": "santiago.chen.000247@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-29T22:10:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000248",
+    "full_name": "Casey Hernandez",
+    "email": "casey.hernandez.000248@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-05T10:44:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000249",
+    "full_name": "Wei Torres",
+    "email": "wei.torres.000249@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-01T11:53:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000250",
+    "full_name": "Lina Jackson",
+    "email": "lina.jackson.000250@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-10T14:00:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000251",
+    "full_name": "Elliott Nelson",
+    "email": "elliott.nelson.000251@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-14T23:54:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000252",
+    "full_name": "Sofia Wang",
+    "email": "sofia.wang.000252@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-21T04:39:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000253",
+    "full_name": "Alex Williams",
+    "email": "alex.williams.000253@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-15T21:30:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000254",
+    "full_name": "Tenzin Zhang",
+    "email": "tenzin.zhang.000254@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-10T03:16:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000255",
+    "full_name": "Logan Taylor",
+    "email": "logan.taylor.000255@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-05T20:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000256",
+    "full_name": "Sofia Clark",
+    "email": "sofia.clark.000256@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-30T03:36:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000257",
+    "full_name": "Emerson White",
+    "email": "emerson.white.000257@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-13T05:19:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000258",
+    "full_name": "Blake Walker",
+    "email": "blake.walker.000258@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-18T19:23:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000259",
+    "full_name": "Chris Nelson",
+    "email": "chris.nelson.000259@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-22T20:52:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000260",
+    "full_name": "Reese Young",
+    "email": "reese.young.000260@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-18T08:15:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000261",
+    "full_name": "Riley Patel",
+    "email": "riley.patel.000261@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-19T17:24:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000262",
+    "full_name": "Morgan Allen",
+    "email": "morgan.allen.000262@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-15T18:33:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000263",
+    "full_name": "Morgan Harris",
+    "email": "morgan.harris.000263@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-05T00:45:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000264",
+    "full_name": "Hassan Kaur",
+    "email": "hassan.kaur.000264@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-27T21:20:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000265",
+    "full_name": "Dmitri Sanchez",
+    "email": "dmitri.sanchez.000265@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-29T18:01:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000266",
+    "full_name": "Elena Jones",
+    "email": "elena.jones.000266@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-10T04:07:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000267",
+    "full_name": "Elliott Young",
+    "email": "elliott.young.000267@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-27T08:47:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000268",
+    "full_name": "Fatima Hall",
+    "email": "fatima.hall.000268@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-28T04:13:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000269",
+    "full_name": "Lina Taylor",
+    "email": "lina.taylor.000269@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-09T22:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000270",
+    "full_name": "Fatima Hall",
+    "email": "fatima.hall.000270@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-30T00:06:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000271",
+    "full_name": "Wei Moore",
+    "email": "wei.moore.000271@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-11T15:51:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000272",
+    "full_name": "Morgan Lopez",
+    "email": "morgan.lopez.000272@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-26T05:28:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000273",
+    "full_name": "Elliott Gonzalez",
+    "email": "elliott.gonzalez.000273@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-02T23:04:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000274",
+    "full_name": "Kai Anderson",
+    "email": "kai.anderson.000274@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-31T14:34:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000275",
+    "full_name": "Arjun Tanaka",
+    "email": "arjun.tanaka.000275@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-06T23:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000276",
+    "full_name": "Wei Scott",
+    "email": "wei.scott.000276@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-07T02:35:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000277",
+    "full_name": "Sloan Lewis",
+    "email": "sloan.lewis.000277@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-29T00:28:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000278",
+    "full_name": "Casey Perez",
+    "email": "casey.perez.000278@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-22T03:37:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000279",
+    "full_name": "Quinn Perez",
+    "email": "quinn.perez.000279@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-11T06:18:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000280",
+    "full_name": "River Lee",
+    "email": "river.lee.000280@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-22T15:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000281",
+    "full_name": "Riley Clark",
+    "email": "riley.clark.000281@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-28T21:27:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000282",
+    "full_name": "Jamie Thompson",
+    "email": "jamie.thompson.000282@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-02T21:50:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000283",
+    "full_name": "Blake Garcia",
+    "email": "blake.garcia.000283@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-07T03:05:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000284",
+    "full_name": "Jamie Lopez",
+    "email": "jamie.lopez.000284@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-02T04:16:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000285",
+    "full_name": "Emerson Perez",
+    "email": "emerson.perez.000285@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-25T04:42:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000286",
+    "full_name": "Amara Mitchell",
+    "email": "amara.mitchell.000286@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-07T17:10:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000287",
+    "full_name": "Morgan Wright",
+    "email": "morgan.wright.000287@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-14T15:13:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000288",
+    "full_name": "Mateo Thomas",
+    "email": "mateo.thomas.000288@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-22T19:36:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000289",
+    "full_name": "Wei Kim",
+    "email": "wei.kim.000289@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-04T19:24:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000290",
+    "full_name": "Kai Hernandez",
+    "email": "kai.hernandez.000290@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-12T10:40:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000291",
+    "full_name": "Elena Baker",
+    "email": "elena.baker.000291@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-26T01:25:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000292",
+    "full_name": "Elliott Walker",
+    "email": "elliott.walker.000292@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-02T15:38:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000293",
+    "full_name": "Riley Davis",
+    "email": "riley.davis.000293@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-21T09:34:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000294",
+    "full_name": "Tenzin Allen",
+    "email": "tenzin.allen.000294@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-06T00:54:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000295",
+    "full_name": "Mateo Green",
+    "email": "mateo.green.000295@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-03T23:35:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000296",
+    "full_name": "Harper Rivera",
+    "email": "harper.rivera.000296@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-10T16:51:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000297",
+    "full_name": "Rowan Anderson",
+    "email": "rowan.anderson.000297@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-08T11:26:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000298",
+    "full_name": "River Baker",
+    "email": "river.baker.000298@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-23T21:37:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000299",
+    "full_name": "Aarav Scott",
+    "email": "aarav.scott.000299@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-27T02:57:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000300",
+    "full_name": "Taylor Sanchez",
+    "email": "taylor.sanchez.000300@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-25T09:01:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000301",
+    "full_name": "Reese Adams",
+    "email": "reese.adams.000301@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-29T22:21:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000302",
+    "full_name": "Lina Singh",
+    "email": "lina.singh.000302@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-23T03:16:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000303",
+    "full_name": "Kai Ramirez",
+    "email": "kai.ramirez.000303@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-14T19:03:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000304",
+    "full_name": "Logan Thompson",
+    "email": "logan.thompson.000304@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-16T08:19:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000305",
+    "full_name": "Kai Lopez",
+    "email": "kai.lopez.000305@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-16T02:40:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000306",
+    "full_name": "Riley Perez",
+    "email": "riley.perez.000306@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-20T19:07:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000307",
+    "full_name": "Alex Rodriguez",
+    "email": "alex.rodriguez.000307@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-30T16:53:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000308",
+    "full_name": "Amara Allen",
+    "email": "amara.allen.000308@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-14T23:28:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000309",
+    "full_name": "Jesse Wang",
+    "email": "jesse.wang.000309@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-25T19:39:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000310",
+    "full_name": "Cameron Jackson",
+    "email": "cameron.jackson.000310@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-16T04:46:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000311",
+    "full_name": "Riley Campbell",
+    "email": "riley.campbell.000311@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-29T11:49:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000312",
+    "full_name": "Blake Singh",
+    "email": "blake.singh.000312@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-22T13:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000313",
+    "full_name": "Parker Flores",
+    "email": "parker.flores.000313@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2026-01-01T07:50:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000314",
+    "full_name": "Rowan Zhang",
+    "email": "rowan.zhang.000314@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-01T16:42:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000315",
+    "full_name": "Casey Perez",
+    "email": "casey.perez.000315@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-16T23:19:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000316",
+    "full_name": "River White",
+    "email": "river.white.000316@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-27T13:50:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000317",
+    "full_name": "Harper White",
+    "email": "harper.white.000317@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-15T14:16:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000318",
+    "full_name": "Hayden Perez",
+    "email": "hayden.perez.000318@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-08T01:48:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000319",
+    "full_name": "Lina Taylor",
+    "email": "lina.taylor.000319@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-18T20:15:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000320",
+    "full_name": "Pat Davis",
+    "email": "pat.davis.000320@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-19T08:28:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000321",
+    "full_name": "Reese Lee",
+    "email": "reese.lee.000321@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-10T13:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000322",
+    "full_name": "Santiago Young",
+    "email": "santiago.young.000322@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-30T11:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000323",
+    "full_name": "Hassan Anderson",
+    "email": "hassan.anderson.000323@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-28T00:30:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000324",
+    "full_name": "Chris Sharma",
+    "email": "chris.sharma.000324@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-26T00:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000325",
+    "full_name": "Mateo Kaur",
+    "email": "mateo.kaur.000325@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-27T18:10:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000326",
+    "full_name": "Aarav Scott",
+    "email": "aarav.scott.000326@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-27T02:11:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000327",
+    "full_name": "Reese Lee",
+    "email": "reese.lee.000327@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-15T21:42:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000328",
+    "full_name": "Wei Hall",
+    "email": "wei.hall.000328@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-15T19:01:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000329",
+    "full_name": "Arjun Davis",
+    "email": "arjun.davis.000329@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-15T17:13:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000330",
+    "full_name": "River Lewis",
+    "email": "river.lewis.000330@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-23T21:22:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000331",
+    "full_name": "Rowan Green",
+    "email": "rowan.green.000331@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-02T00:18:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000332",
+    "full_name": "Harper Wilson",
+    "email": "harper.wilson.000332@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-12T10:37:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000333",
+    "full_name": "Peyton Martinez",
+    "email": "peyton.martinez.000333@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-10T16:58:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000334",
+    "full_name": "Logan Lee",
+    "email": "logan.lee.000334@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-16T00:28:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000335",
+    "full_name": "Fatima Harris",
+    "email": "fatima.harris.000335@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-29T20:21:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000336",
+    "full_name": "Kenji Hall",
+    "email": "kenji.hall.000336@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-17T14:24:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000337",
+    "full_name": "Skyler Robinson",
+    "email": "skyler.robinson.000337@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-07T02:17:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000338",
+    "full_name": "Chioma Patel",
+    "email": "chioma.patel.000338@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-10T18:35:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000339",
+    "full_name": "Riley Mitchell",
+    "email": "riley.mitchell.000339@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-01T11:45:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000340",
+    "full_name": "Elena Lee",
+    "email": "elena.lee.000340@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-27T06:29:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000341",
+    "full_name": "Mei Scott",
+    "email": "mei.scott.000341@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-26T09:08:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000342",
+    "full_name": "Sam Johnson",
+    "email": "sam.johnson.000342@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-18T20:10:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000343",
+    "full_name": "Hayden Robinson",
+    "email": "hayden.robinson.000343@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-27T16:47:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000344",
+    "full_name": "Morgan Campbell",
+    "email": "morgan.campbell.000344@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-24T10:16:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000345",
+    "full_name": "Kendall Ramirez",
+    "email": "kendall.ramirez.000345@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-01T22:09:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000346",
+    "full_name": "Skyler Robinson",
+    "email": "skyler.robinson.000346@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-26T19:16:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000347",
+    "full_name": "Lina Moore",
+    "email": "lina.moore.000347@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-14T15:11:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000348",
+    "full_name": "Jamie Wang",
+    "email": "jamie.wang.000348@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-05T18:59:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000349",
+    "full_name": "Wei Singh",
+    "email": "wei.singh.000349@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-15T19:23:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000350",
+    "full_name": "Skyler Jones",
+    "email": "skyler.jones.000350@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-28T14:54:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000351",
+    "full_name": "Casey Johnson",
+    "email": "casey.johnson.000351@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-13T19:04:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000352",
+    "full_name": "Cameron Nguyen",
+    "email": "cameron.nguyen.000352@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-10T02:16:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000353",
+    "full_name": "Blake Johnson",
+    "email": "blake.johnson.000353@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-08T20:51:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000354",
+    "full_name": "Skyler Flores",
+    "email": "skyler.flores.000354@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-12T15:41:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000355",
+    "full_name": "Finley Johnson",
+    "email": "finley.johnson.000355@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-18T01:08:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000356",
+    "full_name": "Blake Zhang",
+    "email": "blake.zhang.000356@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-01T11:25:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000357",
+    "full_name": "Skyler Kaur",
+    "email": "skyler.kaur.000357@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-31T13:47:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000358",
+    "full_name": "Parker Hernandez",
+    "email": "parker.hernandez.000358@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-17T12:00:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000359",
+    "full_name": "Skyler Allen",
+    "email": "skyler.allen.000359@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-03T10:30:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000360",
+    "full_name": "Hassan Walker",
+    "email": "hassan.walker.000360@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-23T23:45:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000361",
+    "full_name": "Riley Jackson",
+    "email": "riley.jackson.000361@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-06T17:21:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000362",
+    "full_name": "Tenzin Moore",
+    "email": "tenzin.moore.000362@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-10T09:32:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000363",
+    "full_name": "Casey Chen",
+    "email": "casey.chen.000363@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-05T03:38:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000364",
+    "full_name": "Chioma Gonzalez",
+    "email": "chioma.gonzalez.000364@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-10T01:32:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000365",
+    "full_name": "Jamie Campbell",
+    "email": "jamie.campbell.000365@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-07T12:34:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000366",
+    "full_name": "Parker Mitchell",
+    "email": "parker.mitchell.000366@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-01T21:25:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000367",
+    "full_name": "Jordan Clark",
+    "email": "jordan.clark.000367@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-29T10:55:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000368",
+    "full_name": "Aarav Hill",
+    "email": "aarav.hill.000368@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-28T15:22:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000369",
+    "full_name": "Tenzin Martin",
+    "email": "tenzin.martin.000369@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-24T16:03:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000370",
+    "full_name": "Amara Thompson",
+    "email": "amara.thompson.000370@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-24T06:31:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000371",
+    "full_name": "Emerson Sharma",
+    "email": "emerson.sharma.000371@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-28T08:01:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000372",
+    "full_name": "Blake Walker",
+    "email": "blake.walker.000372@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-01T00:37:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000373",
+    "full_name": "Finley Lewis",
+    "email": "finley.lewis.000373@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-12T05:42:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000374",
+    "full_name": "Casey Rodriguez",
+    "email": "casey.rodriguez.000374@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-27T07:49:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000375",
+    "full_name": "Parker Jones",
+    "email": "parker.jones.000375@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-30T08:38:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000376",
+    "full_name": "Quinn Lewis",
+    "email": "quinn.lewis.000376@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-31T21:39:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000377",
+    "full_name": "Kenji Patel",
+    "email": "kenji.patel.000377@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-10T00:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000378",
+    "full_name": "Adrian Miller",
+    "email": "adrian.miller.000378@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-27T04:01:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000379",
+    "full_name": "Skyler Scott",
+    "email": "skyler.scott.000379@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-05T02:21:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000380",
+    "full_name": "Skyler Wright",
+    "email": "skyler.wright.000380@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-18T17:02:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000381",
+    "full_name": "Chioma Sanchez",
+    "email": "chioma.sanchez.000381@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-05T22:51:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000382",
+    "full_name": "Sloan Wilson",
+    "email": "sloan.wilson.000382@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-26T09:49:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000383",
+    "full_name": "Elliott Martin",
+    "email": "elliott.martin.000383@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-01T14:39:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000384",
+    "full_name": "Fatima Sanchez",
+    "email": "fatima.sanchez.000384@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-30T05:10:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000385",
+    "full_name": "Mei Lee",
+    "email": "mei.lee.000385@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-02T23:51:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000386",
+    "full_name": "Cameron Baker",
+    "email": "cameron.baker.000386@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-04T17:51:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000387",
+    "full_name": "Chris Smith",
+    "email": "chris.smith.000387@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-03T10:25:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000388",
+    "full_name": "Arjun Torres",
+    "email": "arjun.torres.000388@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-28T01:44:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000389",
+    "full_name": "Aarav Rivera",
+    "email": "aarav.rivera.000389@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-25T01:26:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000390",
+    "full_name": "Avery Johnson",
+    "email": "avery.johnson.000390@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-15T15:44:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000391",
+    "full_name": "Amara Zhang",
+    "email": "amara.zhang.000391@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-14T21:07:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000392",
+    "full_name": "Fatima Ramirez",
+    "email": "fatima.ramirez.000392@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-28T18:51:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000393",
+    "full_name": "Kendall Garcia",
+    "email": "kendall.garcia.000393@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-17T16:08:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000394",
+    "full_name": "Dakota Adams",
+    "email": "dakota.adams.000394@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-06T08:26:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000395",
+    "full_name": "Elliott White",
+    "email": "elliott.white.000395@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-27T12:56:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000396",
+    "full_name": "Pat King",
+    "email": "pat.king.000396@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-02T13:47:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000397",
+    "full_name": "Alex Hill",
+    "email": "alex.hill.000397@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-08T15:50:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000398",
+    "full_name": "Santiago Johnson",
+    "email": "santiago.johnson.000398@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-22T09:27:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000399",
+    "full_name": "Hassan Adams",
+    "email": "hassan.adams.000399@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-15T04:13:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000400",
+    "full_name": "Kenji Allen",
+    "email": "kenji.allen.000400@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-31T06:48:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000401",
+    "full_name": "Emerson Garcia",
+    "email": "emerson.garcia.000401@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-10T03:03:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000402",
+    "full_name": "Dmitri Rivera",
+    "email": "dmitri.rivera.000402@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-29T21:04:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000403",
+    "full_name": "Adrian Smith",
+    "email": "adrian.smith.000403@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-28T23:54:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000404",
+    "full_name": "Blake Kaur",
+    "email": "blake.kaur.000404@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2026-01-01T08:40:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000405",
+    "full_name": "Sloan Rodriguez",
+    "email": "sloan.rodriguez.000405@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-10T00:54:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000406",
+    "full_name": "Sloan Mitchell",
+    "email": "sloan.mitchell.000406@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-12T19:34:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000407",
+    "full_name": "Chioma Brown",
+    "email": "chioma.brown.000407@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-05T02:16:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000408",
+    "full_name": "Casey Adams",
+    "email": "casey.adams.000408@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-04T01:55:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000409",
+    "full_name": "Pat Hernandez",
+    "email": "pat.hernandez.000409@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-08T15:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000410",
+    "full_name": "Parker Taylor",
+    "email": "parker.taylor.000410@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-21T05:09:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000411",
+    "full_name": "Sam Wright",
+    "email": "sam.wright.000411@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-24T20:33:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000412",
+    "full_name": "Harper Patel",
+    "email": "harper.patel.000412@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-10T04:45:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000413",
+    "full_name": "Elliott Perez",
+    "email": "elliott.perez.000413@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-12T02:51:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000414",
+    "full_name": "Santiago Sharma",
+    "email": "santiago.sharma.000414@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-11T03:23:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000415",
+    "full_name": "Skyler Harris",
+    "email": "skyler.harris.000415@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-16T09:18:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000416",
+    "full_name": "Reese Clark",
+    "email": "reese.clark.000416@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-07T12:28:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000417",
+    "full_name": "Dmitri Young",
+    "email": "dmitri.young.000417@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-02T01:41:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000418",
+    "full_name": "Arjun Rivera",
+    "email": "arjun.rivera.000418@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-29T06:56:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000419",
+    "full_name": "Elliott King",
+    "email": "elliott.king.000419@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-16T15:18:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000420",
+    "full_name": "Blake Gonzalez",
+    "email": "blake.gonzalez.000420@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-13T02:56:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000421",
+    "full_name": "Santiago Walker",
+    "email": "santiago.walker.000421@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-11T09:19:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000422",
+    "full_name": "Morgan Harris",
+    "email": "morgan.harris.000422@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-23T17:15:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000423",
+    "full_name": "Kendall Baker",
+    "email": "kendall.baker.000423@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-06T00:07:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000424",
+    "full_name": "Sofia Thompson",
+    "email": "sofia.thompson.000424@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-07T22:00:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000425",
+    "full_name": "Morgan Lopez",
+    "email": "morgan.lopez.000425@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-02T09:57:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000426",
+    "full_name": "Cameron Hernandez",
+    "email": "cameron.hernandez.000426@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-30T08:07:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000427",
+    "full_name": "Adrian Jones",
+    "email": "adrian.jones.000427@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-02T10:51:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000428",
+    "full_name": "Hassan Moore",
+    "email": "hassan.moore.000428@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-13T17:36:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000429",
+    "full_name": "Riley Robinson",
+    "email": "riley.robinson.000429@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-04T19:01:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000430",
+    "full_name": "Wei Patel",
+    "email": "wei.patel.000430@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-13T22:24:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000431",
+    "full_name": "Kenji Flores",
+    "email": "kenji.flores.000431@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-19T03:12:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000432",
+    "full_name": "Chioma Green",
+    "email": "chioma.green.000432@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-15T04:30:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000433",
+    "full_name": "Casey Tanaka",
+    "email": "casey.tanaka.000433@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-29T01:05:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000434",
+    "full_name": "Mei Nelson",
+    "email": "mei.nelson.000434@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-12T06:31:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000435",
+    "full_name": "Emerson White",
+    "email": "emerson.white.000435@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-29T06:09:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000436",
+    "full_name": "Hassan Robinson",
+    "email": "hassan.robinson.000436@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-22T08:13:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000437",
+    "full_name": "Casey Sharma",
+    "email": "casey.sharma.000437@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-07T00:39:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000438",
+    "full_name": "Kai Jones",
+    "email": "kai.jones.000438@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-11T03:42:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000439",
+    "full_name": "Hassan Jackson",
+    "email": "hassan.jackson.000439@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-19T21:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000440",
+    "full_name": "Rowan Martin",
+    "email": "rowan.martin.000440@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-12T02:28:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000441",
+    "full_name": "Lina Thomas",
+    "email": "lina.thomas.000441@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-30T13:54:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000442",
+    "full_name": "Casey Green",
+    "email": "casey.green.000442@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-09T14:40:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000443",
+    "full_name": "Avery Young",
+    "email": "avery.young.000443@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-26T00:52:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000444",
+    "full_name": "Sam Hill",
+    "email": "sam.hill.000444@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-13T10:55:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000445",
+    "full_name": "Sloan Anderson",
+    "email": "sloan.anderson.000445@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-14T01:41:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000446",
+    "full_name": "Emerson Green",
+    "email": "emerson.green.000446@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-21T17:03:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000447",
+    "full_name": "Adrian Tanaka",
+    "email": "adrian.tanaka.000447@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-26T22:08:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000448",
+    "full_name": "Kenji Nguyen",
+    "email": "kenji.nguyen.000448@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-17T07:54:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000449",
+    "full_name": "Dakota Patel",
+    "email": "dakota.patel.000449@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-20T09:24:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000450",
+    "full_name": "Lina Mitchell",
+    "email": "lina.mitchell.000450@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-13T03:21:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000451",
+    "full_name": "Casey Garcia",
+    "email": "casey.garcia.000451@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-31T16:57:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000452",
+    "full_name": "Cameron Wright",
+    "email": "cameron.wright.000452@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-21T22:03:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000453",
+    "full_name": "Sloan Tanaka",
+    "email": "sloan.tanaka.000453@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-27T12:32:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000454",
+    "full_name": "Emerson Martin",
+    "email": "emerson.martin.000454@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-29T05:39:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000455",
+    "full_name": "Sloan Green",
+    "email": "sloan.green.000455@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-03T23:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000456",
+    "full_name": "Arjun Tanaka",
+    "email": "arjun.tanaka.000456@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-29T23:17:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000457",
+    "full_name": "Pat Harris",
+    "email": "pat.harris.000457@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-08T19:36:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000458",
+    "full_name": "Tenzin Perez",
+    "email": "tenzin.perez.000458@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-30T18:07:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000459",
+    "full_name": "Reese Thompson",
+    "email": "reese.thompson.000459@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-12T07:14:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000460",
+    "full_name": "Amara Patel",
+    "email": "amara.patel.000460@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-03T01:41:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000461",
+    "full_name": "Kenji Flores",
+    "email": "kenji.flores.000461@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-19T11:10:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000462",
+    "full_name": "Kenji Martin",
+    "email": "kenji.martin.000462@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-02T00:56:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000463",
+    "full_name": "Quinn Nguyen",
+    "email": "quinn.nguyen.000463@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-02T09:37:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000464",
+    "full_name": "Elliott Kim",
+    "email": "elliott.kim.000464@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-29T17:22:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000465",
+    "full_name": "Harper Taylor",
+    "email": "harper.taylor.000465@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-24T14:10:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000466",
+    "full_name": "Mateo Martin",
+    "email": "mateo.martin.000466@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-15T11:40:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000467",
+    "full_name": "Skyler Scott",
+    "email": "skyler.scott.000467@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-11T13:58:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000468",
+    "full_name": "Cameron Martinez",
+    "email": "cameron.martinez.000468@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-09T11:58:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000469",
+    "full_name": "Lina Jones",
+    "email": "lina.jones.000469@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-20T18:54:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000470",
+    "full_name": "Adrian Hall",
+    "email": "adrian.hall.000470@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-19T23:53:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000471",
+    "full_name": "Sam Martinez",
+    "email": "sam.martinez.000471@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-25T00:03:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000472",
+    "full_name": "Arjun Jones",
+    "email": "arjun.jones.000472@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-23T01:43:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000473",
+    "full_name": "Skyler Williams",
+    "email": "skyler.williams.000473@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-23T17:45:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000474",
+    "full_name": "River Martin",
+    "email": "river.martin.000474@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-10T03:06:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000475",
+    "full_name": "Avery Lopez",
+    "email": "avery.lopez.000475@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-28T13:41:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000476",
+    "full_name": "Elena Hall",
+    "email": "elena.hall.000476@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-27T23:37:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000477",
+    "full_name": "Harper Wang",
+    "email": "harper.wang.000477@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-18T00:38:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000478",
+    "full_name": "Dakota Gonzalez",
+    "email": "dakota.gonzalez.000478@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-23T20:33:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000479",
+    "full_name": "Taylor Tanaka",
+    "email": "taylor.tanaka.000479@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-23T02:19:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000480",
+    "full_name": "Harper Nguyen",
+    "email": "harper.nguyen.000480@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-11T00:30:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000481",
+    "full_name": "Quinn Ramirez",
+    "email": "quinn.ramirez.000481@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-28T00:00:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000482",
+    "full_name": "Tenzin Lee",
+    "email": "tenzin.lee.000482@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-24T05:48:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000483",
+    "full_name": "Taylor Jackson",
+    "email": "taylor.jackson.000483@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-11-26T22:16:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000484",
+    "full_name": "Avery Lee",
+    "email": "avery.lee.000484@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-03T12:15:00Z",
+    "status": "SUSPENDED"
+  },
+  {
+    "learner_id": "LRN-2026-000485",
+    "full_name": "Jamie Tanaka",
+    "email": "jamie.tanaka.000485@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-16T12:38:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000486",
+    "full_name": "Blake Martin",
+    "email": "blake.martin.000486@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-19T02:36:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000487",
+    "full_name": "Jamie Flores",
+    "email": "jamie.flores.000487@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-13T08:09:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000488",
+    "full_name": "Rowan Johnson",
+    "email": "rowan.johnson.000488@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-12-12T14:38:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000489",
+    "full_name": "Finley Torres",
+    "email": "finley.torres.000489@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-03T12:42:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000490",
+    "full_name": "Logan Gonzalez",
+    "email": "logan.gonzalez.000490@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-28T15:26:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000491",
+    "full_name": "Elliott Torres",
+    "email": "elliott.torres.000491@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-13T13:38:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000492",
+    "full_name": "Sofia Jones",
+    "email": "sofia.jones.000492@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-05T10:40:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000493",
+    "full_name": "Sofia Zhang",
+    "email": "sofia.zhang.000493@university.edu",
+    "timezone": "UTC",
+    "enrolled_date_utc": "2025-12-08T13:40:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000494",
+    "full_name": "Chris Lee",
+    "email": "chris.lee.000494@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-11-14T20:26:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000495",
+    "full_name": "Chioma Sanchez",
+    "email": "chioma.sanchez.000495@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-11-22T15:17:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000496",
+    "full_name": "Riley Nelson",
+    "email": "riley.nelson.000496@university.edu",
+    "timezone": "America/New_York",
+    "enrolled_date_utc": "2025-11-20T12:32:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000497",
+    "full_name": "Casey Taylor",
+    "email": "casey.taylor.000497@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-22T09:11:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000498",
+    "full_name": "Elena Torres",
+    "email": "elena.torres.000498@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-07T10:08:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000499",
+    "full_name": "Hayden Harris",
+    "email": "hayden.harris.000499@university.edu",
+    "timezone": "Europe/London",
+    "enrolled_date_utc": "2025-12-15T06:03:00Z",
+    "status": "ACTIVE"
+  },
+  {
+    "learner_id": "LRN-2026-000500",
+    "full_name": "Sam Mitchell",
+    "email": "sam.mitchell.000500@university.edu",
+    "timezone": "Asia/Kolkata",
+    "enrolled_date_utc": "2025-12-15T05:39:00Z",
+    "status": "ACTIVE"
+  }
+]

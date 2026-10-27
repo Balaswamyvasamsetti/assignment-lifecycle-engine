@@ -1,0 +1,82 @@
+[
+  {
+    "issue_id": "ISSUE-2026-000001",
+    "issue_type": "UNENROLLED_LEARNER_SUBMISSION",
+    "entity_name": "Submission",
+    "record_id": "SUB-ASN-2026-000003-LRN-2026-000002-01",
+    "field_name": "learner_id",
+    "expected_value": "ACTIVE_ENROLLMENT_REQUIRED",
+    "actual_value": "LRN-2026-000002",
+    "description": "Submission SUB-ASN-2026-000003-LRN-2026-000002-01 submitted for assignment ASN-2026-000003 in course CRS-2026-000003, but learner LRN-2026-000002 has no active enrollment."
+  },
+  {
+    "issue_id": "ISSUE-2026-000002",
+    "issue_type": "UNENROLLED_LEARNER_SUBMISSION",
+    "entity_name": "Submission",
+    "record_id": "SUB-ASN-2026-000004-LRN-2026-000001-01",
+    "field_name": "learner_id",
+    "expected_value": "ACTIVE_ENROLLMENT_REQUIRED",
+    "actual_value": "LRN-2026-000001",
+    "description": "Submission SUB-ASN-2026-000004-LRN-2026-000001-01 submitted for assignment ASN-2026-000004 in course CRS-2026-000004, but learner LRN-2026-000001 has no active enrollment."
+  },
+  {
+    "issue_id": "ISSUE-2026-000003",
+    "issue_type": "GRADE_EXCEEDS_MAX",
+    "entity_name": "Grade",
+    "record_id": "GRD-SUB-ASN-2026-000001-LRN-2026-000470-01",
+    "field_name": "raw_score",
+    "expected_value": "<= 100.0",
+    "actual_value": "115.25",
+    "description": "Grade GRD-SUB-ASN-2026-000001-LRN-2026-000470-01 raw_score (115.25) and feedback points exceed rubric maximum total_points (100.0)."
+  },
+  {
+    "issue_id": "ISSUE-2026-000004",
+    "issue_type": "GRADE_EXCEEDS_MAX",
+    "entity_name": "Grade",
+    "record_id": "GRD-SUB-ASN-2026-000002-LRN-2026-000465-01",
+    "field_name": "raw_score",
+    "expected_value": "<= 100.0",
+    "actual_value": "121.65",
+    "description": "Grade GRD-SUB-ASN-2026-000002-LRN-2026-000465-01 raw_score (121.65) and feedback points exceed rubric maximum total_points (100.0)."
+  },
+  {
+    "issue_id": "ISSUE-2026-000005",
+    "issue_type": "GRADE_EXCEEDS_MAX",
+    "entity_name": "Grade",
+    "record_id": "GRD-SUB-ASN-2026-000003-LRN-2026-000002-01",
+    "field_name": "raw_score",
+    "expected_value": "<= 100.0",
+    "actual_value": "114.45",
+    "description": "Grade GRD-SUB-ASN-2026-000003-LRN-2026-000002-01 raw_score (114.45) and feedback points exceed rubric maximum total_points (100.0)."
+  },
+  {
+    "issue_id": "ISSUE-2026-000006",
+    "issue_type": "DOUBLE_LATE_PENALTY",
+    "entity_name": "Grade",
+    "record_id": "GRD-SUB-ASN-2026-000005-LRN-2026-000012-01",
+    "field_name": "late_penalty_applied",
+    "expected_value": "4.37",
+    "actual_value": "8.74",
+    "description": "Grade GRD-SUB-ASN-2026-000005-LRN-2026-000012-01 for late submission SUB-ASN-2026-000005-LRN-2026-000012-01 had late penalty deducted twice (8.74 instead of 4.37), corrupting final_score to 78.67."
+  },
+  {
+    "issue_id": "ISSUE-2026-000007",
+    "issue_type": "DOUBLE_LATE_PENALTY",
+    "entity_name": "Grade",
+    "record_id": "GRD-SUB-ASN-2026-000013-LRN-2026-000256-01",
+    "field_name": "late_penalty_applied",
+    "expected_value": "8.57",
+    "actual_value": "17.14",
+    "description": "Grade GRD-SUB-ASN-2026-000013-LRN-2026-000256-01 for late submission SUB-ASN-2026-000013-LRN-2026-000256-01 had late penalty deducted twice (17.14 instead of 8.57), corrupting final_score to 68.56."
+  },
+  {
+    "issue_id": "ISSUE-2026-000008",
+    "issue_type": "UNAUDITED_APPEAL_GRADE_CHANGE",
+    "entity_name": "Appeal",
+    "record_id": "APP-2026-000003",
+    "field_name": "audit_logged",
+    "expected_value": "True",
+    "actual_value": "False",
+    "description": "Appeal APP-2026-000003 was APPROVED with score change from 82.23 to 90.11, but audit_logged was set to False."
+  }
+]

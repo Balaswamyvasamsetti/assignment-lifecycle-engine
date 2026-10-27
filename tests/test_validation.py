@@ -158,3 +158,46 @@ def test_schema_validator_catches_synthetic_corruptions():
     data_invalid_enum = [{"status": "NOT_AN_ENUM_VALUE"}]
     errs = validate_enum_field(data_invalid_enum, "status", "Course", ["ACTIVE", "ARCHIVED"])
     assert any(e.error_type == "ENUM_INVALID_VALUE" for e in errs)
+
+    # 4. Duplicate Unique Field (e.g., email)
+    from src.validator.schema import validate_unique_field, validate_unique_composite_key
+    data_dup_email = [
+        {"learner_id": "LRN-01", "email": "test@univ.edu"},
+        {"learner_id": "LRN-02", "email": "test@univ.edu"},
+    ]
+    errs = validate_unique_field(data_dup_email, "email", "Learner")
+    assert any(e.error_type == "UNIQUE_FIELD_DUPLICATE" for e in errs)
+
+    # 5. Duplicate Composite Key (course_id + learner_id)
+    data_dup_enr = [
+        {"enrollment_id": "ENR-01", "course_id": "CRS-01", "learner_id": "LRN-01"},
+        {"enrollment_id": "ENR-02", "course_id": "CRS-01", "learner_id": "LRN-01"},
+    ]
+    errs = validate_unique_composite_key(data_dup_enr, ["course_id", "learner_id"], "Enrollment")
+    assert any(e.error_type == "COMPOSITE_KEY_DUPLICATE" for e in errs)
+
+
+def test_lifecycle_validator_catches_invalid_transitions():
+    """Unit test for lifecycle validator catching illegal status transitions and policy violations."""
+    from src.validator.business_rules import validate_lifecycle_transitions
+
+    # 1. Submission marked RESUBMITTED without resubmission record
+    bad_subs = [
+        {"submission_id": "SUB-01", "status": "RESUBMITTED"}
+    ]
+    violations = validate_lifecycle_transitions(bad_subs, [], [], [], [])
+    assert any(v.issue_type == "INVALID_LIFECYCLE_STATE_TRANSITION" for v in violations)
+
+    # 2. Resubmission violating policy
+    resubs = [
+        {
+            "resubmission_id": "RSB-01",
+            "previous_submission_id": "SUB-01",
+            "new_submission_id": "SUB-02",
+            "is_allowed_by_policy": "True",  # Claimed allowed, but version 3 on max_resub 0
+        }
+    ]
+    subs = [{"submission_id": "SUB-02", "assignment_id": "ASN-01", "version_number": "3"}]
+    asns = [{"assignment_id": "ASN-01", "max_resubmissions": "0"}]
+    violations = validate_lifecycle_transitions(subs, [], resubs, [], asns)
+    assert any(v.issue_type == "RESUBMISSION_POLICY_MISMATCH" for v in violations)

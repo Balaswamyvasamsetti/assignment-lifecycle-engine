@@ -130,12 +130,40 @@ pip install -r requirements.txt
 
 ---
 
+## Primary Actors & Roles
+
+The lifecycle engine models workflows and business logic across 5 primary roles:
+
+1. **Learner**: Matriculates into courses, uploads assignment drafts with artifact bundles, views graded criteria feedback, petitions resubmissions under policy limits, and files grade appeals.
+2. **Instructor**: Defines assignment deliverables, authors rubrics and criterion point weightings, evaluates submissions, records qualitative feedback, and arbitrates grade appeals.
+3. **Academic Administrator**: Oversees course catalogs, department schedules, term enrollment windows, and reviews grade alteration audit records.
+4. **Support Staff**: Triages LMS operational issues, diagnoses enrollment boundary exceptions (e.g. unenrolled learner submissions), and handles technical support requests.
+5. **Platform Administrator**: Manages system security policies, provisions academic term epochs, enforces database referential integrity, and validates event audit logging compliance.
+
+---
+
+## 10-Step End-to-End Implementation
+
+The solution strictly satisfies the 10-step synthesis and validation workflow:
+- **Step 1 — Schema & Data Dictionary**: Exhaustive documentation in [`docs/data_dictionary.md`](docs/data_dictionary.md) specifying data type, nullability, domain, units, key constraints, and validation rules.
+- **Step 2 — Hierarchical Master-to-Event Generation**: Generates parent tables first (`Course`, `Learner`), followed by dependent structures (`Enrollment`, `Assignment`, `Rubric`, `Criterion`), and event lifecycle records (`Submission`, `Artifact`, `Grade`, `Feedback`, `Resubmission`, `Appeal`).
+- **Step 3 — Deterministic Zero-Padded IDs**: Strict adherence to ID nomenclature (`ASN-2026-XXXXXX`, `RUB-<asn_id>-01`, `SUB-<asn_id>-<lrn_id>-<ver>`, `GRD-<sub_id>`, `APP-2026-XXXXXX`).
+- **Step 4 — Baseline Parameterized Volume**: Starter (50 courses / 500 learners / 100 assignments / ~300 submissions) and Full Benchmark (200 courses / 10,000 learners / 1,000 assignments / 30,000+ submissions).
+- **Step 5 — Controlled Anomaly Injection**: Valid baseline generation followed by targeted negative scenario injection (~1-2% rate) with complete cascade preservation.
+- **Step 6 — Source-Derived Value Calculations**: Lateness flags, overdue hours, criterion score sums, penalty amounts, and final scores calculated mathematically from source timestamps and weights.
+- **Step 7 — Strict Ground Truth Isolation**: Zero anomaly leakage into operational CSVs or JSON files.
+- **Step 8 — Multi-Tiered Validation**: Automatic PK uniqueness, FK referential integrity, Enum validation, chronological sanity, mathematical reconciliation, and lifecycle state transition checks.
+- **Step 9 — Multi-Format Export**: Generates CSV, JSON, SQLite database, and cryptographic `manifest.json`.
+- **Step 10 — Bit-for-Bit Deterministic Reproducibility**: Automated regression tests verify identical SHA-256 hashes across consecutive generations with seed `20261022`.
+
+---
+
 ## Command-Line Interface (CLI)
 
-The CLI supports data generation, validation benchmarking, and SQL exporting:
+The CLI supports data generation, validation benchmarking, and multi-format exporting:
 
 ### 1. Generate Synthetic Datasets
-Generates all operational CSVs, injects controlled anomalies, writes isolated `ground_truth.csv`, and builds `database.sqlite`:
+Generates all operational CSVs, injects controlled anomalies, writes isolated `ground_truth.csv`, exports JSON files, creates `data/manifest.json`, and builds `database.sqlite`:
 
 ```bash
 # Starter scale (50 courses, 500 learners, 100 assignments, ~300 submissions)
@@ -146,7 +174,7 @@ python -m src.cli generate --scale full --seed 20261022 --out data/raw
 ```
 
 ### 2. Validate Operational Data & Benchmark Anomalies
-Runs all schema checks, referential integrity tests, and business rules; reconciles detected anomalies against `ground_truth.csv`:
+Runs all schema checks, referential integrity tests, lifecycle transitions, and business rules; reconciles detected anomalies against `ground_truth.csv`:
 
 ```bash
 python -m src.cli validate --data-dir data/raw --ground-truth data/ground_truth.csv
@@ -157,6 +185,13 @@ Seeds the relational SQLite database with indexed tables directly from operation
 
 ```bash
 python -m src.cli export-sql --data-dir data/raw --db-path data/database.sqlite
+```
+
+### 4. Export to JSON
+Exports all operational tables and ground truth into JSON format:
+
+```bash
+python -m src.cli export-json --data-dir data/raw --out-dir data/json
 ```
 
 ---

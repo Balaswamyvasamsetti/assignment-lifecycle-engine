@@ -30,12 +30,15 @@ from src.validator.business_rules import (
     validate_chronology_and_lateness,
     validate_enrollment_integrity,
     validate_grading_and_penalties,
+    validate_lifecycle_transitions,
 )
 from src.validator.schema import (
     SchemaValidationError,
     validate_enum_field,
     validate_fk_integrity,
     validate_pk_uniqueness,
+    validate_unique_composite_key,
+    validate_unique_field,
 )
 
 
@@ -139,6 +142,12 @@ def run_validations(
     schema_errors.extend(validate_enum_field(artifacts, "file_type", "SubmissionArtifact", FILE_TYPES))
     schema_errors.extend(validate_enum_field(appeals, "status", "Appeal", APPEAL_STATUSES))
 
+    # Uniqueness constraints (email, 1:1 rubric, 1:1 grade, composite enrollment)
+    schema_errors.extend(validate_unique_field(learners, "email", "Learner"))
+    schema_errors.extend(validate_unique_field(rubrics, "assignment_id", "Rubric"))
+    schema_errors.extend(validate_unique_field(grades, "submission_id", "Grade"))
+    schema_errors.extend(validate_unique_composite_key(enrollments, ["course_id", "learner_id"], "Enrollment"))
+
     # 3. Business Rule Validations
     rule_violations: List[BusinessRuleViolation] = []
     
@@ -153,6 +162,9 @@ def run_validations(
 
     # Check 4: Appeal audit compliance (Flags UNAUDITED_APPEAL_GRADE_CHANGE)
     rule_violations.extend(validate_appeal_audit_compliance(appeals))
+
+    # Check 5: Lifecycle transitions and policy limits
+    rule_violations.extend(validate_lifecycle_transitions(submissions, grades, resubmissions, appeals, assignments))
 
     # 4. Ground Truth Evaluation
     detected_anomalies: List[Dict[str, str]] = []

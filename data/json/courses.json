@@ -1,0 +1,452 @@
+[
+  {
+    "course_id": "CRS-2026-000001",
+    "title": "Distributed Systems (Sec 01)",
+    "department": "Information Systems",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000002",
+    "title": "Machine Learning Systems (Sec 01)",
+    "department": "Electrical Engineering",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000003",
+    "title": "Advanced Operating Systems (Sec 01)",
+    "department": "Mathematics",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000004",
+    "title": "Deep Learning Fundamentals (Sec 01)",
+    "department": "Computer Science",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000005",
+    "title": "Applied Cryptography & Network Security (Sec 01)",
+    "department": "Electrical Engineering",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000006",
+    "title": "Database Management Systems Architecture (Sec 01)",
+    "department": "Mathematics",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000007",
+    "title": "Statistical Computing & Inference (Sec 01)",
+    "department": "Data Science",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000008",
+    "title": "High Performance Parallel Computing (Sec 01)",
+    "department": "Electrical Engineering",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000009",
+    "title": "Computer Vision & Pattern Recognition (Sec 01)",
+    "department": "Mathematics",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000010",
+    "title": "Natural Language Processing at Scale (Sec 01)",
+    "department": "Computer Science",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000011",
+    "title": "Digital Signal Processing (Sec 01)",
+    "department": "Information Systems",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000012",
+    "title": "Embedded Microcontroller Systems (Sec 01)",
+    "department": "Information Systems",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000013",
+    "title": "Linear Algebra & Numerical Optimization (Sec 01)",
+    "department": "Computer Science",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000014",
+    "title": "Robotics & Autonomous Navigation (Sec 01)",
+    "department": "Electrical Engineering",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000015",
+    "title": "Data Engineering & Pipeline Systems (Sec 01)",
+    "department": "Data Science",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ARCHIVED"
+  },
+  {
+    "course_id": "CRS-2026-000016",
+    "title": "Cloud Computing Architecture & DevOps (Sec 01)",
+    "department": "Mathematics",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000017",
+    "title": "Bioinformatics & Computational Genomics (Sec 01)",
+    "department": "Information Systems",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000018",
+    "title": "Econometrics & Quantitative Modeling (Sec 01)",
+    "department": "Electrical Engineering",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000019",
+    "title": "Software Architecture & Design Patterns (Sec 01)",
+    "department": "Bioinformatics",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ARCHIVED"
+  },
+  {
+    "course_id": "CRS-2026-000020",
+    "title": "Reinforcement Learning & Decision Making (Sec 01)",
+    "department": "Bioinformatics",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000021",
+    "title": "Quantum Computing Algorithms (Sec 01)",
+    "department": "Computer Science",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000022",
+    "title": "Cyber-Physical Systems Security (Sec 01)",
+    "department": "Bioinformatics",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ARCHIVED"
+  },
+  {
+    "course_id": "CRS-2026-000023",
+    "title": "Distributed Systems (Sec 02)",
+    "department": "Mathematics",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000024",
+    "title": "Machine Learning Systems (Sec 02)",
+    "department": "Data Science",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000025",
+    "title": "Advanced Operating Systems (Sec 02)",
+    "department": "Mechanical Engineering",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000026",
+    "title": "Deep Learning Fundamentals (Sec 02)",
+    "department": "Computer Science",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000027",
+    "title": "Applied Cryptography & Network Security (Sec 02)",
+    "department": "Bioinformatics",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000028",
+    "title": "Database Management Systems Architecture (Sec 02)",
+    "department": "Economics",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000029",
+    "title": "Statistical Computing & Inference (Sec 02)",
+    "department": "Data Science",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000030",
+    "title": "High Performance Parallel Computing (Sec 02)",
+    "department": "Computer Science",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000031",
+    "title": "Computer Vision & Pattern Recognition (Sec 02)",
+    "department": "Bioinformatics",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000032",
+    "title": "Natural Language Processing at Scale (Sec 02)",
+    "department": "Economics",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000033",
+    "title": "Digital Signal Processing (Sec 02)",
+    "department": "Computer Science",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000034",
+    "title": "Embedded Microcontroller Systems (Sec 02)",
+    "department": "Electrical Engineering",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000035",
+    "title": "Linear Algebra & Numerical Optimization (Sec 02)",
+    "department": "Information Systems",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000036",
+    "title": "Robotics & Autonomous Navigation (Sec 02)",
+    "department": "Mechanical Engineering",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000037",
+    "title": "Data Engineering & Pipeline Systems (Sec 02)",
+    "department": "Data Science",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000038",
+    "title": "Cloud Computing Architecture & DevOps (Sec 02)",
+    "department": "Mechanical Engineering",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000039",
+    "title": "Bioinformatics & Computational Genomics (Sec 02)",
+    "department": "Computer Science",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ARCHIVED"
+  },
+  {
+    "course_id": "CRS-2026-000040",
+    "title": "Econometrics & Quantitative Modeling (Sec 02)",
+    "department": "Computer Science",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000041",
+    "title": "Software Architecture & Design Patterns (Sec 02)",
+    "department": "Mechanical Engineering",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000042",
+    "title": "Reinforcement Learning & Decision Making (Sec 02)",
+    "department": "Economics",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000043",
+    "title": "Quantum Computing Algorithms (Sec 02)",
+    "department": "Mathematics",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000044",
+    "title": "Cyber-Physical Systems Security (Sec 02)",
+    "department": "Information Systems",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000045",
+    "title": "Distributed Systems (Sec 03)",
+    "department": "Economics",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000046",
+    "title": "Machine Learning Systems (Sec 03)",
+    "department": "Mechanical Engineering",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000047",
+    "title": "Advanced Operating Systems (Sec 03)",
+    "department": "Bioinformatics",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000048",
+    "title": "Deep Learning Fundamentals (Sec 03)",
+    "department": "Information Systems",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000049",
+    "title": "Applied Cryptography & Network Security (Sec 03)",
+    "department": "Information Systems",
+    "term": "Fall 2026",
+    "start_date_utc": "2026-08-25T00:00:00Z",
+    "end_date_utc": "2026-12-20T23:59:59Z",
+    "status": "ACTIVE"
+  },
+  {
+    "course_id": "CRS-2026-000050",
+    "title": "Database Management Systems Architecture (Sec 03)",
+    "department": "Electrical Engineering",
+    "term": "Spring 2026",
+    "start_date_utc": "2026-01-15T00:00:00Z",
+    "end_date_utc": "2026-05-15T23:59:59Z",
+    "status": "ACTIVE"
+  }
+]

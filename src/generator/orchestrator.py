@@ -5,7 +5,12 @@ from pathlib import Path
 from typing import Dict, Tuple
 
 from src.config import DEFAULT_SEED, SCALES, ScaleConfig
-from src.exporter import export_all_csvs, export_csvs_to_sqlite
+from src.exporter import (
+    export_all_csvs,
+    export_all_json,
+    export_csvs_to_sqlite,
+    generate_source_manifest,
+)
 from src.generator.anomalies import inject_anomalies
 from src.generator.lifecycle import generate_lifecycle_data
 from src.generator.master import generate_master_data
@@ -18,6 +23,9 @@ def run_pipeline(
     out_dir: Path = Path("data/raw"),
     ground_truth_path: Path = Path("data/ground_truth.csv"),
     sqlite_db_path: Path = Path("data/database.sqlite"),
+    export_json: bool = True,
+    json_out_dir: Path = Path("data/json"),
+    manifest_path: Path = Path("data/manifest.json"),
 ) -> Tuple[Dict[str, Path], Path]:
     """Executes the complete generation pipeline deterministically and exports all artifacts."""
     
@@ -80,7 +88,37 @@ def run_pipeline(
         ground_truth,
     )
 
-    # 6. Seed SQLite database
+    # 6. Optionally export all JSON seed files
+    if export_json:
+        export_all_json(
+            json_out_dir,
+            ground_truth_path.with_suffix(".json"),
+            courses,
+            learners,
+            enrollments,
+            assignments,
+            rubrics,
+            rubric_criteria,
+            submissions,
+            artifacts,
+            grades,
+            feedbacks,
+            resubmissions,
+            appeals,
+            ground_truth,
+        )
+
+    # 7. Seed SQLite database
     export_csvs_to_sqlite(out_dir, sqlite_db_path)
+
+    # 8. Generate source manifest documenting lawful provenance & checksums
+    generate_source_manifest(
+        manifest_path=manifest_path,
+        seed=seed,
+        scale_name=config.name,
+        operational_csv_paths=csv_paths,
+        ground_truth_path=ground_truth_path,
+        sqlite_db_path=sqlite_db_path,
+    )
 
     return csv_paths, sqlite_db_path

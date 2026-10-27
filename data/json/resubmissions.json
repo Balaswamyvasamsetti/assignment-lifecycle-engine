@@ -1,0 +1,186 @@
+[
+  {
+    "resubmission_id": "RSB-2026-000001",
+    "previous_submission_id": "SUB-ASN-2026-000001-LRN-2026-000470-01",
+    "new_submission_id": "SUB-ASN-2026-000001-LRN-2026-000470-02",
+    "requested_at_utc": "2026-10-31T20:51:11Z",
+    "reason": "Resolved linting warnings and updated README API documentation.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000002",
+    "previous_submission_id": "SUB-ASN-2026-000002-LRN-2026-000465-01",
+    "new_submission_id": "SUB-ASN-2026-000002-LRN-2026-000465-02",
+    "requested_at_utc": "2026-02-02T05:59:43Z",
+    "reason": "Incorporated instructor feedback on architecture and refactored core classes.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000003",
+    "previous_submission_id": "SUB-ASN-2026-000003-LRN-2026-000002-01",
+    "new_submission_id": "SUB-ASN-2026-000003-LRN-2026-000369-02",
+    "requested_at_utc": "2026-09-17T06:34:04Z",
+    "reason": "Resolved linting warnings and updated README API documentation.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000004",
+    "previous_submission_id": "SUB-ASN-2026-000004-LRN-2026-000001-01",
+    "new_submission_id": "SUB-ASN-2026-000004-LRN-2026-000013-02",
+    "requested_at_utc": "2026-03-25T06:42:28Z",
+    "reason": "Resolved linting warnings and updated README API documentation.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000005",
+    "previous_submission_id": "SUB-ASN-2026-000005-LRN-2026-000012-01",
+    "new_submission_id": "SUB-ASN-2026-000005-LRN-2026-000012-02",
+    "requested_at_utc": "2026-10-14T08:27:02Z",
+    "reason": "Incorporated instructor feedback on architecture and refactored core classes.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000006",
+    "previous_submission_id": "SUB-ASN-2026-000007-LRN-2026-000182-01",
+    "new_submission_id": "SUB-ASN-2026-000007-LRN-2026-000182-02",
+    "requested_at_utc": "2026-11-04T23:16:17Z",
+    "reason": "Resolved linting warnings and updated README API documentation.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000007",
+    "previous_submission_id": "SUB-ASN-2026-000008-LRN-2026-000397-01",
+    "new_submission_id": "SUB-ASN-2026-000008-LRN-2026-000397-02",
+    "requested_at_utc": "2026-02-24T14:00:58Z",
+    "reason": "Fixed memory leak in concurrency worker thread.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000008",
+    "previous_submission_id": "SUB-ASN-2026-000009-LRN-2026-000294-01",
+    "new_submission_id": "SUB-ASN-2026-000009-LRN-2026-000294-02",
+    "requested_at_utc": "2026-10-01T23:48:39Z",
+    "reason": "Fixed memory leak in concurrency worker thread.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000009",
+    "previous_submission_id": "SUB-ASN-2026-000011-LRN-2026-000178-01",
+    "new_submission_id": "SUB-ASN-2026-000011-LRN-2026-000178-02",
+    "requested_at_utc": "2026-10-05T04:19:01Z",
+    "reason": "Corrected edge case bug identified in criterion 1 feedback.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000010",
+    "previous_submission_id": "SUB-ASN-2026-000012-LRN-2026-000197-01",
+    "new_submission_id": "SUB-ASN-2026-000012-LRN-2026-000197-02",
+    "requested_at_utc": "2026-02-09T06:52:10Z",
+    "reason": "Corrected edge case bug identified in criterion 1 feedback.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000011",
+    "previous_submission_id": "SUB-ASN-2026-000013-LRN-2026-000256-01",
+    "new_submission_id": "SUB-ASN-2026-000013-LRN-2026-000256-02",
+    "requested_at_utc": "2026-12-05T10:15:26Z",
+    "reason": "Added additional integration test suites to address test coverage remarks.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000012",
+    "previous_submission_id": "SUB-ASN-2026-000015-LRN-2026-000211-01",
+    "new_submission_id": "SUB-ASN-2026-000015-LRN-2026-000211-02",
+    "requested_at_utc": "2026-10-06T20:56:22Z",
+    "reason": "Added additional integration test suites to address test coverage remarks.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000013",
+    "previous_submission_id": "SUB-ASN-2026-000016-LRN-2026-000030-01",
+    "new_submission_id": "SUB-ASN-2026-000016-LRN-2026-000030-02",
+    "requested_at_utc": "2026-05-02T00:49:04Z",
+    "reason": "Fixed memory leak in concurrency worker thread.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000014",
+    "previous_submission_id": "SUB-ASN-2026-000017-LRN-2026-000246-01",
+    "new_submission_id": "SUB-ASN-2026-000017-LRN-2026-000246-02",
+    "requested_at_utc": "2026-09-18T17:46:37Z",
+    "reason": "Added additional integration test suites to address test coverage remarks.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000015",
+    "previous_submission_id": "SUB-ASN-2026-000018-LRN-2026-000120-01",
+    "new_submission_id": "SUB-ASN-2026-000018-LRN-2026-000120-02",
+    "requested_at_utc": "2026-03-31T19:40:06Z",
+    "reason": "Added additional integration test suites to address test coverage remarks.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000016",
+    "previous_submission_id": "SUB-ASN-2026-000020-LRN-2026-000442-01",
+    "new_submission_id": "SUB-ASN-2026-000020-LRN-2026-000442-02",
+    "requested_at_utc": "2026-02-18T06:55:37Z",
+    "reason": "Resolved linting warnings and updated README API documentation.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000017",
+    "previous_submission_id": "SUB-ASN-2026-000021-LRN-2026-000438-01",
+    "new_submission_id": "SUB-ASN-2026-000021-LRN-2026-000438-02",
+    "requested_at_utc": "2026-10-28T09:18:19Z",
+    "reason": "Incorporated instructor feedback on architecture and refactored core classes.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000018",
+    "previous_submission_id": "SUB-ASN-2026-000022-LRN-2026-000242-01",
+    "new_submission_id": "SUB-ASN-2026-000022-LRN-2026-000242-02",
+    "requested_at_utc": "2026-04-11T09:47:33Z",
+    "reason": "Resolved linting warnings and updated README API documentation.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000019",
+    "previous_submission_id": "SUB-ASN-2026-000023-LRN-2026-000460-01",
+    "new_submission_id": "SUB-ASN-2026-000023-LRN-2026-000460-02",
+    "requested_at_utc": "2026-11-11T16:00:29Z",
+    "reason": "Resolved linting warnings and updated README API documentation.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000020",
+    "previous_submission_id": "SUB-ASN-2026-000026-LRN-2026-000379-01",
+    "new_submission_id": "SUB-ASN-2026-000026-LRN-2026-000379-02",
+    "requested_at_utc": "2026-02-09T09:14:48Z",
+    "reason": "Corrected edge case bug identified in criterion 1 feedback.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000021",
+    "previous_submission_id": "SUB-ASN-2026-000028-LRN-2026-000497-01",
+    "new_submission_id": "SUB-ASN-2026-000028-LRN-2026-000497-02",
+    "requested_at_utc": "2026-03-03T15:39:00Z",
+    "reason": "Resolved linting warnings and updated README API documentation.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000022",
+    "previous_submission_id": "SUB-ASN-2026-000029-LRN-2026-000427-01",
+    "new_submission_id": "SUB-ASN-2026-000029-LRN-2026-000427-02",
+    "requested_at_utc": "2026-10-01T13:34:59Z",
+    "reason": "Added additional integration test suites to address test coverage remarks.",
+    "is_allowed_by_policy": "True"
+  },
+  {
+    "resubmission_id": "RSB-2026-000023",
+    "previous_submission_id": "SUB-ASN-2026-000031-LRN-2026-000011-01",
+    "new_submission_id": "SUB-ASN-2026-000031-LRN-2026-000011-02",
+    "requested_at_utc": "2026-09-08T14:56:57Z",
+    "reason": "Fixed memory leak in concurrency worker thread.",
+    "is_allowed_by_policy": "True"
+  }
+]

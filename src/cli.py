@@ -81,6 +81,21 @@ def build_parser() -> argparse.ArgumentParser:
         help="Destination SQLite database file (default: data/database.sqlite).",
     )
 
+    # Command: export-json
+    json_parser = subparsers.add_parser("export-json", help="Export operational CSV files to JSON format.")
+    json_parser.add_argument(
+        "--data-dir",
+        type=str,
+        default=str(RAW_DATA_DIR),
+        help="Directory containing operational CSV files (default: data/raw).",
+    )
+    json_parser.add_argument(
+        "--out-dir",
+        type=str,
+        default="data/json",
+        help="Target output directory for JSON files (default: data/json).",
+    )
+
     return parser
 
 
@@ -104,6 +119,7 @@ def main() -> None:
         print(f"Operational CSV files successfully written to {out_dir}")
         print(f"Ground truth labels written to {gt_path}")
         print(f"SQLite database created at {exported_db}")
+        print(f"Source provenance manifest created at data/manifest.json")
 
     elif args.command == "validate":
         data_dir = Path(args.data_dir)
@@ -123,6 +139,22 @@ def main() -> None:
         print(f"Seeding SQLite database from CSV files in {data_dir} into {db_path}...")
         export_csvs_to_sqlite(data_dir=data_dir, db_path=db_path)
         print(f"SQLite export completed successfully at {db_path}.")
+
+    elif args.command == "export-json":
+        import json
+        from src.validator.runner import load_csv
+
+        data_dir = Path(args.data_dir)
+        out_dir = Path(args.out_dir)
+        out_dir.mkdir(parents=True, exist_ok=True)
+
+        for csv_file in data_dir.glob("*.csv"):
+            json_file = out_dir / csv_file.with_suffix(".json").name
+            rows = load_csv(csv_file)
+            with open(json_file, "w", encoding="utf-8") as f:
+                json.dump(rows, f, indent=2)
+
+        print(f"JSON export completed successfully at {out_dir}.")
 
 
 if __name__ == "__main__":
