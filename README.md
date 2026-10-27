@@ -243,7 +243,23 @@ pytest tests/ -v
 
 ---
 
-## Documentation Links
+## YottaFlex AI Submission Compliance
 
-- [Complete Data Dictionary](docs/data_dictionary.md): Comprehensive schema specifications, data types, constraints, and descriptions for all 12 entities and ground truth.
-- [System Architecture & Design](docs/architecture.md): Architectural design, Mermaid ERD diagrams, lifecycle event flows, and determinism proofs.
+This repository satisfies all 4 candidate recruitment guidelines:
+
+| Guideline | Requirement | Project Evidence | Documentation |
+| :--- | :--- | :--- | :--- |
+| **01 Make It Run** | Working, executable code with clear installation and verification steps | Pip installable, sub-second CLI generator, SQLite seeder, and automated test suite | [Setup Guide](#installation--setup) |
+| **02 Show Your Work** | Public GitHub repository with clean commit history | Tracked on `main` branch with descriptive, atomic commit messages | [GitHub Repository](https://github.com/Balaswamyvasamsetti/assignment-lifecycle-engine) |
+| **03 Use LLMs Transparently** | Disclose AI tools, submit prompt history, explain acceleration vs human review | Full prompt history, human architectural decisions, cascading FK fixes | [AI Transparency & Prompts](docs/ai_transparency_and_prompt_history.md) |
+| **04 Make Reasoning Visible** | Explain problem, key trade-offs, assumptions, and how you know it works | In-depth engineering rationale: dataclasses vs Pydantic, PRNG isolation, SQLite trade-offs | [Engineering Reasoning](docs/solution_walkthrough_and_reasoning.md) |
+
+---
+
+## Documentation Index
+
+- [Solution Walkthrough & Engineering Reasoning](docs/solution_walkthrough_and_reasoning.md): Comprehensive architectural rationale, trade-off evaluations, testing methodology, and roadmap.
+- [AI Transparency & Prompt History](docs/ai_transparency_and_prompt_history.md): Full prompt logs, areas of AI acceleration, human engineering interventions, and verification audits.
+- [Complete Data Dictionary](docs/data_dictionary.md): Field-level schema specifications, data types, nullability, domain rules, units, keys, and sample values across all 12 entities.
+- [System Architecture & Design](docs/architecture.md): High-level system architecture, Mermaid ERD, and lifecycle state machines.
+- [Cryptographic Source Manifest](data/manifest.json): Lawful provenance disclosure, seed configuration, file SHA-256 hashes, and actor authorization matrix.
