@@ -1,0 +1,51 @@
+course_id,title,department,term,start_date_utc,end_date_utc,status
+CRS-2026-000001,Distributed Systems (Sec 01),Information Systems,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000002,Machine Learning Systems (Sec 01),Electrical Engineering,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000003,Advanced Operating Systems (Sec 01),Mathematics,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000004,Deep Learning Fundamentals (Sec 01),Computer Science,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000005,Applied Cryptography & Network Security (Sec 01),Electrical Engineering,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000006,Database Management Systems Architecture (Sec 01),Mathematics,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000007,Statistical Computing & Inference (Sec 01),Data Science,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000008,High Performance Parallel Computing (Sec 01),Electrical Engineering,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000009,Computer Vision & Pattern Recognition (Sec 01),Mathematics,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000010,Natural Language Processing at Scale (Sec 01),Computer Science,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000011,Digital Signal Processing (Sec 01),Information Systems,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000012,Embedded Microcontroller Systems (Sec 01),Information Systems,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000013,Linear Algebra & Numerical Optimization (Sec 01),Computer Science,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000014,Robotics & Autonomous Navigation (Sec 01),Electrical Engineering,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000015,Data Engineering & Pipeline Systems (Sec 01),Data Science,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ARCHIVED
+CRS-2026-000016,Cloud Computing Architecture & DevOps (Sec 01),Mathematics,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000017,Bioinformatics & Computational Genomics (Sec 01),Information Systems,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000018,Econometrics & Quantitative Modeling (Sec 01),Electrical Engineering,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000019,Software Architecture & Design Patterns (Sec 01),Bioinformatics,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ARCHIVED
+CRS-2026-000020,Reinforcement Learning & Decision Making (Sec 01),Bioinformatics,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000021,Quantum Computing Algorithms (Sec 01),Computer Science,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000022,Cyber-Physical Systems Security (Sec 01),Bioinformatics,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ARCHIVED
+CRS-2026-000023,Distributed Systems (Sec 02),Mathematics,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000024,Machine Learning Systems (Sec 02),Data Science,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000025,Advanced Operating Systems (Sec 02),Mechanical Engineering,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000026,Deep Learning Fundamentals (Sec 02),Computer Science,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000027,Applied Cryptography & Network Security (Sec 02),Bioinformatics,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000028,Database Management Systems Architecture (Sec 02),Economics,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000029,Statistical Computing & Inference (Sec 02),Data Science,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000030,High Performance Parallel Computing (Sec 02),Computer Science,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000031,Computer Vision & Pattern Recognition (Sec 02),Bioinformatics,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000032,Natural Language Processing at Scale (Sec 02),Economics,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000033,Digital Signal Processing (Sec 02),Computer Science,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000034,Embedded Microcontroller Systems (Sec 02),Electrical Engineering,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000035,Linear Algebra & Numerical Optimization (Sec 02),Information Systems,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000036,Robotics & Autonomous Navigation (Sec 02),Mechanical Engineering,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000037,Data Engineering & Pipeline Systems (Sec 02),Data Science,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000038,Cloud Computing Architecture & DevOps (Sec 02),Mechanical Engineering,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000039,Bioinformatics & Computational Genomics (Sec 02),Computer Science,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ARCHIVED
+CRS-2026-000040,Econometrics & Quantitative Modeling (Sec 02),Computer Science,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000041,Software Architecture & Design Patterns (Sec 02),Mechanical Engineering,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000042,Reinforcement Learning & Decision Making (Sec 02),Economics,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000043,Quantum Computing Algorithms (Sec 02),Mathematics,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000044,Cyber-Physical Systems Security (Sec 02),Information Systems,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000045,Distributed Systems (Sec 03),Economics,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000046,Machine Learning Systems (Sec 03),Mechanical Engineering,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000047,Advanced Operating Systems (Sec 03),Bioinformatics,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000048,Deep Learning Fundamentals (Sec 03),Information Systems,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE
+CRS-2026-000049,Applied Cryptography & Network Security (Sec 03),Information Systems,Fall 2026,2026-08-25T00:00:00Z,2026-12-20T23:59:59Z,ACTIVE
+CRS-2026-000050,Database Management Systems Architecture (Sec 03),Electrical Engineering,Spring 2026,2026-01-15T00:00:00Z,2026-05-15T23:59:59Z,ACTIVE

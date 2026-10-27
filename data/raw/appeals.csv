@@ -1,0 +1,23 @@
+appeal_id,grade_id,learner_id,submitted_at_utc,reason,status,original_score,updated_score,audit_logged
+APP-2026-000001,GRD-SUB-ASN-2026-000001-LRN-2026-000470-01,LRN-2026-000470,2026-11-01T13:05:57Z,Submitted passing unit test logs demonstrating that the edge case was indeed handled.,REJECTED,85.46,,True
+APP-2026-000002,GRD-SUB-ASN-2026-000002-LRN-2026-000465-01,LRN-2026-000465,2026-02-04T12:29:05Z,"Pointed out that automated test runner timed out due to environment lag, manual run succeeds.",REJECTED,83.7,,True
+APP-2026-000003,GRD-SUB-ASN-2026-000003-LRN-2026-000002-01,LRN-2026-000002,2026-09-20T01:40:47Z,Submitted clarification regarding algorithmic complexity in the analysis write-up.,APPROVED,82.23,90.11,False
+APP-2026-000004,GRD-SUB-ASN-2026-000004-LRN-2026-000001-01,LRN-2026-000001,2026-03-26T10:10:25Z,Submitted clarification regarding algorithmic complexity in the analysis write-up.,APPROVED,80.63,91.88,True
+APP-2026-000005,GRD-SUB-ASN-2026-000005-LRN-2026-000012-01,LRN-2026-000012,2026-10-15T02:54:31Z,Submitted passing unit test logs demonstrating that the edge case was indeed handled.,APPROVED,83.04,95.01,True
+APP-2026-000006,GRD-SUB-ASN-2026-000006-LRN-2026-000383-01,LRN-2026-000383,2026-03-05T19:27:47Z,"Pointed out that automated test runner timed out due to environment lag, manual run succeeds.",APPROVED,82.77,92.31,True
+APP-2026-000007,GRD-SUB-ASN-2026-000007-LRN-2026-000182-01,LRN-2026-000182,2026-11-06T16:31:19Z,Requested re-evaluation of late penalty due to university LMS outage.,APPROVED,81.06,89.45,True
+APP-2026-000008,GRD-SUB-ASN-2026-000008-LRN-2026-000397-01,LRN-2026-000397,2026-02-28T06:50:48Z,"Pointed out that automated test runner timed out due to environment lag, manual run succeeds.",APPROVED,86.27,90.72,True
+APP-2026-000009,GRD-SUB-ASN-2026-000009-LRN-2026-000294-01,LRN-2026-000294,2026-10-01T10:15:05Z,Requested re-evaluation of late penalty due to university LMS outage.,REJECTED,94.33,,True
+APP-2026-000010,GRD-SUB-ASN-2026-000010-LRN-2026-000094-01,LRN-2026-000094,2026-03-19T09:08:10Z,Requested re-evaluation of late penalty due to university LMS outage.,APPROVED,83.61,93.3,True
+APP-2026-000011,GRD-SUB-ASN-2026-000011-LRN-2026-000178-01,LRN-2026-000178,2026-10-07T02:49:35Z,Submitted clarification regarding algorithmic complexity in the analysis write-up.,APPROVED,89.3,95.84,True
+APP-2026-000012,GRD-SUB-ASN-2026-000012-LRN-2026-000197-01,LRN-2026-000197,2026-02-08T13:25:12Z,"Pointed out that automated test runner timed out due to environment lag, manual run succeeds.",APPROVED,89.19,100.0,True
+APP-2026-000013,GRD-SUB-ASN-2026-000013-LRN-2026-000256-01,LRN-2026-000256,2026-12-09T07:20:40Z,Submitted passing unit test logs demonstrating that the edge case was indeed handled.,APPROVED,77.13,83.51,True
+APP-2026-000014,GRD-SUB-ASN-2026-000014-LRN-2026-000350-01,LRN-2026-000350,2026-02-21T11:39:12Z,Requested re-evaluation of late penalty due to university LMS outage.,APPROVED,77.49,87.68,True
+APP-2026-000015,GRD-SUB-ASN-2026-000015-LRN-2026-000211-01,LRN-2026-000211,2026-10-09T12:39:18Z,Requested re-evaluation of late penalty due to university LMS outage.,PENDING,75.19,,True
+APP-2026-000016,GRD-SUB-ASN-2026-000016-LRN-2026-000030-01,LRN-2026-000030,2026-05-02T08:44:20Z,"Pointed out that automated test runner timed out due to environment lag, manual run succeeds.",REJECTED,74.9,,True
+APP-2026-000017,GRD-SUB-ASN-2026-000017-LRN-2026-000246-01,LRN-2026-000246,2026-09-20T12:38:26Z,Clarified architecture documentation in section 4.2 which addresses criterion 2 deductions.,APPROVED,81.62,88.55,True
+APP-2026-000018,GRD-SUB-ASN-2026-000018-LRN-2026-000120-01,LRN-2026-000120,2026-03-31T09:34:23Z,Requested re-evaluation of late penalty due to university LMS outage.,REJECTED,79.0,,True
+APP-2026-000019,GRD-SUB-ASN-2026-000019-LRN-2026-000479-01,LRN-2026-000479,2026-10-22T15:38:05Z,Requested re-evaluation of late penalty due to university LMS outage.,APPROVED,71.38,82.79,True
+APP-2026-000020,GRD-SUB-ASN-2026-000020-LRN-2026-000442-01,LRN-2026-000442,2026-02-19T18:02:10Z,Requested re-evaluation of late penalty due to university LMS outage.,APPROVED,85.1,92.2,True
+APP-2026-000021,GRD-SUB-ASN-2026-000021-LRN-2026-000438-01,LRN-2026-000438,2026-10-31T03:30:24Z,Submitted clarification regarding algorithmic complexity in the analysis write-up.,PENDING,76.12,,True
+APP-2026-000022,GRD-SUB-ASN-2026-000022-LRN-2026-000242-01,LRN-2026-000242,2026-04-12T19:30:05Z,Submitted passing unit test logs demonstrating that the edge case was indeed handled.,APPROVED,75.94,82.5,True
