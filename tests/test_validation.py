@@ -29,6 +29,8 @@ def generated_data(tmp_path_factory):
     raw_dir = temp_dir / "raw"
     gt_file = temp_dir / "ground_truth.csv"
     sqlite_file = temp_dir / "database.sqlite"
+    json_dir = temp_dir / "json"
+    manifest_file = temp_dir / "manifest.json"
 
     run_pipeline(
         scale="starter",
@@ -36,6 +38,9 @@ def generated_data(tmp_path_factory):
         out_dir=raw_dir,
         ground_truth_path=gt_file,
         sqlite_db_path=sqlite_file,
+        export_json=True,
+        json_out_dir=json_dir,
+        manifest_path=manifest_file,
     )
     return {
         "raw_dir": raw_dir,

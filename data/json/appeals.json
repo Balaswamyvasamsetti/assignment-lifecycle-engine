@@ -6,7 +6,7 @@
     "submitted_at_utc": "2026-11-01T13:05:57Z",
     "reason": "Submitted passing unit test logs demonstrating that the edge case was indeed handled.",
     "status": "REJECTED",
-    "original_score": 85.46,
+    "original_score": "85.46",
     "updated_score": "",
     "audit_logged": "True"
   },
@@ -17,7 +17,7 @@
     "submitted_at_utc": "2026-02-04T12:29:05Z",
     "reason": "Pointed out that automated test runner timed out due to environment lag, manual run succeeds.",
     "status": "REJECTED",
-    "original_score": 83.7,
+    "original_score": "83.7",
     "updated_score": "",
     "audit_logged": "True"
   },
@@ -28,8 +28,8 @@
     "submitted_at_utc": "2026-09-20T01:40:47Z",
     "reason": "Submitted clarification regarding algorithmic complexity in the analysis write-up.",
     "status": "APPROVED",
-    "original_score": 82.23,
-    "updated_score": 90.11,
+    "original_score": "82.23",
+    "updated_score": "90.11",
     "audit_logged": "False"
   },
   {
@@ -39,8 +39,8 @@
     "submitted_at_utc": "2026-03-26T10:10:25Z",
     "reason": "Submitted clarification regarding algorithmic complexity in the analysis write-up.",
     "status": "APPROVED",
-    "original_score": 80.63,
-    "updated_score": 91.88,
+    "original_score": "80.63",
+    "updated_score": "91.88",
     "audit_logged": "True"
   },
   {
@@ -50,8 +50,8 @@
     "submitted_at_utc": "2026-10-15T02:54:31Z",
     "reason": "Submitted passing unit test logs demonstrating that the edge case was indeed handled.",
     "status": "APPROVED",
-    "original_score": 83.04,
-    "updated_score": 95.01,
+    "original_score": "83.04",
+    "updated_score": "95.01",
     "audit_logged": "True"
   },
   {
@@ -61,8 +61,8 @@
     "submitted_at_utc": "2026-03-05T19:27:47Z",
     "reason": "Pointed out that automated test runner timed out due to environment lag, manual run succeeds.",
     "status": "APPROVED",
-    "original_score": 82.77,
-    "updated_score": 92.31,
+    "original_score": "82.77",
+    "updated_score": "92.31",
     "audit_logged": "True"
   },
   {
@@ -72,8 +72,8 @@
     "submitted_at_utc": "2026-11-06T16:31:19Z",
     "reason": "Requested re-evaluation of late penalty due to university LMS outage.",
     "status": "APPROVED",
-    "original_score": 81.06,
-    "updated_score": 89.45,
+    "original_score": "81.06",
+    "updated_score": "89.45",
     "audit_logged": "True"
   },
   {
@@ -83,8 +83,8 @@
     "submitted_at_utc": "2026-02-28T06:50:48Z",
     "reason": "Pointed out that automated test runner timed out due to environment lag, manual run succeeds.",
     "status": "APPROVED",
-    "original_score": 86.27,
-    "updated_score": 90.72,
+    "original_score": "86.27",
+    "updated_score": "90.72",
     "audit_logged": "True"
   },
   {
@@ -94,7 +94,7 @@
     "submitted_at_utc": "2026-10-01T10:15:05Z",
     "reason": "Requested re-evaluation of late penalty due to university LMS outage.",
     "status": "REJECTED",
-    "original_score": 94.33,
+    "original_score": "94.33",
     "updated_score": "",
     "audit_logged": "True"
   },
@@ -105,8 +105,8 @@
     "submitted_at_utc": "2026-03-19T09:08:10Z",
     "reason": "Requested re-evaluation of late penalty due to university LMS outage.",
     "status": "APPROVED",
-    "original_score": 83.61,
-    "updated_score": 93.3,
+    "original_score": "83.61",
+    "updated_score": "93.3",
     "audit_logged": "True"
   },
   {
@@ -116,8 +116,8 @@
     "submitted_at_utc": "2026-10-07T02:49:35Z",
     "reason": "Submitted clarification regarding algorithmic complexity in the analysis write-up.",
     "status": "APPROVED",
-    "original_score": 89.3,
-    "updated_score": 95.84,
+    "original_score": "89.3",
+    "updated_score": "95.84",
     "audit_logged": "True"
   },
   {
@@ -127,8 +127,8 @@
     "submitted_at_utc": "2026-02-08T13:25:12Z",
     "reason": "Pointed out that automated test runner timed out due to environment lag, manual run succeeds.",
     "status": "APPROVED",
-    "original_score": 89.19,
-    "updated_score": 100.0,
+    "original_score": "89.19",
+    "updated_score": "100.0",
     "audit_logged": "True"
   },
   {
@@ -138,8 +138,8 @@
     "submitted_at_utc": "2026-12-09T07:20:40Z",
     "reason": "Submitted passing unit test logs demonstrating that the edge case was indeed handled.",
     "status": "APPROVED",
-    "original_score": 77.13,
-    "updated_score": 83.51,
+    "original_score": "77.13",
+    "updated_score": "83.51",
     "audit_logged": "True"
   },
   {
@@ -149,8 +149,8 @@
     "submitted_at_utc": "2026-02-21T11:39:12Z",
     "reason": "Requested re-evaluation of late penalty due to university LMS outage.",
     "status": "APPROVED",
-    "original_score": 77.49,
-    "updated_score": 87.68,
+    "original_score": "77.49",
+    "updated_score": "87.68",
     "audit_logged": "True"
   },
   {
@@ -160,7 +160,7 @@
     "submitted_at_utc": "2026-10-09T12:39:18Z",
     "reason": "Requested re-evaluation of late penalty due to university LMS outage.",
     "status": "PENDING",
-    "original_score": 75.19,
+    "original_score": "75.19",
     "updated_score": "",
     "audit_logged": "True"
   },
@@ -171,7 +171,7 @@
     "submitted_at_utc": "2026-05-02T08:44:20Z",
     "reason": "Pointed out that automated test runner timed out due to environment lag, manual run succeeds.",
     "status": "REJECTED",
-    "original_score": 74.9,
+    "original_score": "74.9",
     "updated_score": "",
     "audit_logged": "True"
   },
@@ -182,8 +182,8 @@
     "submitted_at_utc": "2026-09-20T12:38:26Z",
     "reason": "Clarified architecture documentation in section 4.2 which addresses criterion 2 deductions.",
     "status": "APPROVED",
-    "original_score": 81.62,
-    "updated_score": 88.55,
+    "original_score": "81.62",
+    "updated_score": "88.55",
     "audit_logged": "True"
   },
   {
@@ -193,7 +193,7 @@
     "submitted_at_utc": "2026-03-31T09:34:23Z",
     "reason": "Requested re-evaluation of late penalty due to university LMS outage.",
     "status": "REJECTED",
-    "original_score": 79.0,
+    "original_score": "79.0",
     "updated_score": "",
     "audit_logged": "True"
   },
@@ -204,8 +204,8 @@
     "submitted_at_utc": "2026-10-22T15:38:05Z",
     "reason": "Requested re-evaluation of late penalty due to university LMS outage.",
     "status": "APPROVED",
-    "original_score": 71.38,
-    "updated_score": 82.79,
+    "original_score": "71.38",
+    "updated_score": "82.79",
     "audit_logged": "True"
   },
   {
@@ -215,8 +215,8 @@
     "submitted_at_utc": "2026-02-19T18:02:10Z",
     "reason": "Requested re-evaluation of late penalty due to university LMS outage.",
     "status": "APPROVED",
-    "original_score": 85.1,
-    "updated_score": 92.2,
+    "original_score": "85.1",
+    "updated_score": "92.2",
     "audit_logged": "True"
   },
   {
@@ -226,7 +226,7 @@
     "submitted_at_utc": "2026-10-31T03:30:24Z",
     "reason": "Submitted clarification regarding algorithmic complexity in the analysis write-up.",
     "status": "PENDING",
-    "original_score": 76.12,
+    "original_score": "76.12",
     "updated_score": "",
     "audit_logged": "True"
   },
@@ -237,8 +237,8 @@
     "submitted_at_utc": "2026-04-12T19:30:05Z",
     "reason": "Submitted passing unit test logs demonstrating that the edge case was indeed handled.",
     "status": "APPROVED",
-    "original_score": 75.94,
-    "updated_score": 82.5,
+    "original_score": "75.94",
+    "updated_score": "82.5",
     "audit_logged": "True"
   }
 ]

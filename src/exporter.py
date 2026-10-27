@@ -307,7 +307,11 @@ def generate_source_manifest(
         },
         "files_and_checksums": checksums,
         "sqlite_database": {
-            "path": str(sqlite_db_path),
+            "path": (
+                str(sqlite_db_path.relative_to(Path.cwd())).replace("\\", "/")
+                if sqlite_db_path.is_absolute() and Path.cwd() in sqlite_db_path.parents
+                else str(sqlite_db_path).replace("\\", "/")
+            ),
             "status": "Available with active foreign key enforcement and relational indexes",
         },
     }
