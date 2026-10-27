@@ -63,12 +63,26 @@ def inject_anomalies(
 
     all_learner_ids = [l.learner_id for l in learners]
 
+    # Set of grades and submissions involved in appeals and resubmissions to prevent multi-rule collision
+    appealed_grade_ids: Set[str] = {a.grade_id for a in appeals}
+    appealed_sub_ids: Set[str] = {g.submission_id for g in grades if g.grade_id in appealed_grade_ids}
+    resubmitted_sub_ids: Set[str] = (
+        {r.previous_submission_id for r in resubmissions} | {r.new_submission_id for r in resubmissions}
+        if resubmissions else set()
+    )
+
     # -------------------------------------------------------------------------
     # 1. UNENROLLED_LEARNER_SUBMISSION
     # A submission is created for an assignment where the learner has NO active enrollment in that course.
     # -------------------------------------------------------------------------
-    # Pick submissions that are NOT resubmitted to keep versioning clean
-    eligible_subs = [s for s in submissions if s.version_number == 1 and s.status != "RESUBMITTED"]
+    # Pick submissions that are clean (not resubmitted and not appealed)
+    eligible_subs = [
+        s for s in submissions
+        if s.version_number == 1
+        and s.status != "RESUBMITTED"
+        and s.submission_id not in resubmitted_sub_ids
+        and s.submission_id not in appealed_sub_ids
+    ]
     count_unenrolled = max(2, int(len(eligible_subs) * (config.anomaly_rate * 0.5)))
     unenrolled_sample_subs = eligible_subs[:count_unenrolled]
 
@@ -151,7 +165,13 @@ def inject_anomalies(
     for f in feedbacks:
         feedbacks_by_grade[f.grade_id].append(f)
 
-    eligible_grades = [g for g in grades if g.raw_score < 100.0 and len(feedbacks_by_grade[g.grade_id]) > 0]
+    # Must not be an appealed grade so that it does not collide with appeal reconciliation rules
+    eligible_grades = [
+        g for g in grades
+        if g.raw_score < 100.0
+        and len(feedbacks_by_grade[g.grade_id]) > 0
+        and g.grade_id not in appealed_grade_ids
+    ]
     count_exceeds = max(2, int(len(eligible_grades) * (config.anomaly_rate * 0.5)))
     exceeds_sample_grades = eligible_grades[:count_exceeds]
 
@@ -196,7 +216,10 @@ def inject_anomalies(
     sub_by_id = {s.submission_id: s for s in submissions}
     late_grades = [
         g for g in grades
-        if sub_by_id.get(g.submission_id) and sub_by_id[g.submission_id].is_late and g.late_penalty_applied > 0.0
+        if sub_by_id.get(g.submission_id)
+        and sub_by_id[g.submission_id].is_late
+        and g.late_penalty_applied > 0.0
+        and g.grade_id not in appealed_grade_ids
     ]
     count_double_penalty = max(2, int(len(late_grades) * (config.anomaly_rate * 0.6)))
     double_penalty_sample = late_grades[:count_double_penalty]

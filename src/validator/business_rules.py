@@ -241,9 +241,9 @@ def validate_grading_and_penalties(
     for f in feedbacks:
         fdb_sum_by_grade[f["grade_id"]] += float(f["points_awarded"])
 
-    # Approved appeals mapping to ignore normal final_score discrepancy if updated
-    approved_appeal_grades: Set[str] = {
-        app["grade_id"]
+    # Map grade_id to approved appeal updated_score
+    approved_appeal_scores: Dict[str, float] = {
+        app["grade_id"]: float(app["updated_score"])
         for app in appeals
         if app["status"] == "APPROVED" and app.get("updated_score") not in ("", None)
     }
@@ -326,8 +326,22 @@ def validate_grading_and_penalties(
                     )
                 )
 
-        # Check 4: Final score reconciliation (for grades not updated by approved appeal)
-        if g_id not in approved_appeal_grades:
+        # Check 4: Final score reconciliation
+        if g_id in approved_appeal_scores:
+            expected_approved_score = approved_appeal_scores[g_id]
+            if abs(final_score - expected_approved_score) > 0.05:
+                violations.append(
+                    BusinessRuleViolation(
+                        issue_type="APPROVED_APPEAL_SCORE_MISMATCH",
+                        entity_name="Grade",
+                        record_id=g_id,
+                        field_name="final_score",
+                        expected_value=f"{expected_approved_score:.2f}",
+                        actual_value=f"{final_score:.2f}",
+                        description=f"Final score does not match approved appeal updated_score.",
+                    )
+                )
+        else:
             expected_final = round(max(0.0, raw_score - late_penalty_applied), 2)
             if abs(final_score - expected_final) > 0.05:
                 violations.append(

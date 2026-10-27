@@ -1,7 +1,7 @@
 {
   "dataset_name": "assignment-lifecycle-synthetic-benchmark",
   "version": "1.0.0",
-  "generated_at_utc": "2026-10-27T05:30:19Z",
+  "generated_at_utc": "2026-10-27T05:38:52Z",
   "seed": 20261022,
   "scale_profile": "starter",
   "provenance": {
@@ -24,13 +24,13 @@
     "assignments.csv": "9348c7bbc874c8909eb16d1d4af0e00352b800436c2c0015de7a7d420c10f454",
     "rubrics.csv": "4b7424162893e2ad8693976873034217c1b7db5e40b93dcf3310ffd97b2acc83",
     "rubric_criteria.csv": "965ddcbc2b4523fc767b5d2c493a87cb42a3ee7d08949f3c98ca37ebe7ef2499",
-    "submissions.csv": "2da18e21604101e943290584e09b3d58f3b0b61ef20ad04eb771fe4001cb1892",
-    "submission_artifacts.csv": "5b1132a9692c061955ae4e15db0f02bd966a0caa95e5d91a7f2afc0adeefe087",
-    "grades.csv": "eb56735273094887c87e91a1093434a3bb0008486b3837da55c0aa9620e275dc",
-    "feedback.csv": "ad98dd4edcd9b635608c9dc0d828114cb76fdf4844557789df0d9462a664d5e2",
-    "resubmissions.csv": "6b1e8c04e12ee26c0811e94f4904ee8e52f5fa667ab009d877c4a565c7bd5a40",
-    "appeals.csv": "a9b11f2027b6c06645cb521fcfe589118f36c16b04320fa31466ec58c1ea7532",
-    "ground_truth.csv": "10200906cd99d7c845e81e36e1b0994b38c448bef0f59212170bbcf9eab881e6"
+    "submissions.csv": "704fdbedf4cc26374f1e735e609542957ccc65b257ae5ff01feb016638771dd5",
+    "submission_artifacts.csv": "30d0e418fd6ace633af2e25346eecd20b3bdf574c1153f82e437655f7dd8ad14",
+    "grades.csv": "dd9a98da70df01bb709ff12220e8ee078953c80c10304ecafbe1f5d4aef3f528",
+    "feedback.csv": "4225f3c5959784ec00adeb3eefef0c01381e7488621a710788d4d4fcd1f47cf8",
+    "resubmissions.csv": "a458ddbed239a5096fb0e4f35bc741a0e965522efec01fffff567647f71e71cc",
+    "appeals.csv": "8ca0bca62f3bb5f6c301b8691970279fa35ef3ecc809b6a00aa02fd61e597583",
+    "ground_truth.csv": "68ff0efbdc54082329f8f3359fc8af3a1be798b46d341f86fa67e6b12f9cf662"
   },
   "sqlite_database": {
     "path": "data/database.sqlite",

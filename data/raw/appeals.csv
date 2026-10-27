@@ -1,8 +1,8 @@
 appeal_id,grade_id,learner_id,submitted_at_utc,reason,status,original_score,updated_score,audit_logged
 APP-2026-000001,GRD-SUB-ASN-2026-000001-LRN-2026-000470-01,LRN-2026-000470,2026-11-01T13:05:57Z,Submitted passing unit test logs demonstrating that the edge case was indeed handled.,REJECTED,85.46,,True
 APP-2026-000002,GRD-SUB-ASN-2026-000002-LRN-2026-000465-01,LRN-2026-000465,2026-02-04T12:29:05Z,"Pointed out that automated test runner timed out due to environment lag, manual run succeeds.",REJECTED,83.7,,True
-APP-2026-000003,GRD-SUB-ASN-2026-000003-LRN-2026-000002-01,LRN-2026-000002,2026-09-20T01:40:47Z,Submitted clarification regarding algorithmic complexity in the analysis write-up.,APPROVED,82.23,90.11,False
-APP-2026-000004,GRD-SUB-ASN-2026-000004-LRN-2026-000001-01,LRN-2026-000001,2026-03-26T10:10:25Z,Submitted clarification regarding algorithmic complexity in the analysis write-up.,APPROVED,80.63,91.88,True
+APP-2026-000003,GRD-SUB-ASN-2026-000003-LRN-2026-000369-01,LRN-2026-000369,2026-09-20T01:40:47Z,Submitted clarification regarding algorithmic complexity in the analysis write-up.,APPROVED,82.23,90.11,False
+APP-2026-000004,GRD-SUB-ASN-2026-000004-LRN-2026-000013-01,LRN-2026-000013,2026-03-26T10:10:25Z,Submitted clarification regarding algorithmic complexity in the analysis write-up.,APPROVED,80.63,91.88,True
 APP-2026-000005,GRD-SUB-ASN-2026-000005-LRN-2026-000012-01,LRN-2026-000012,2026-10-15T02:54:31Z,Submitted passing unit test logs demonstrating that the edge case was indeed handled.,APPROVED,83.04,95.01,True
 APP-2026-000006,GRD-SUB-ASN-2026-000006-LRN-2026-000383-01,LRN-2026-000383,2026-03-05T19:27:47Z,"Pointed out that automated test runner timed out due to environment lag, manual run succeeds.",APPROVED,82.77,92.31,True
 APP-2026-000007,GRD-SUB-ASN-2026-000007-LRN-2026-000182-01,LRN-2026-000182,2026-11-06T16:31:19Z,Requested re-evaluation of late penalty due to university LMS outage.,APPROVED,81.06,89.45,True

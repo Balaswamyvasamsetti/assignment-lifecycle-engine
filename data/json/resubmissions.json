@@ -17,7 +17,7 @@
   },
   {
     "resubmission_id": "RSB-2026-000003",
-    "previous_submission_id": "SUB-ASN-2026-000003-LRN-2026-000002-01",
+    "previous_submission_id": "SUB-ASN-2026-000003-LRN-2026-000369-01",
     "new_submission_id": "SUB-ASN-2026-000003-LRN-2026-000369-02",
     "requested_at_utc": "2026-09-17T06:34:04Z",
     "reason": "Resolved linting warnings and updated README API documentation.",
@@ -25,7 +25,7 @@
   },
   {
     "resubmission_id": "RSB-2026-000004",
-    "previous_submission_id": "SUB-ASN-2026-000004-LRN-2026-000001-01",
+    "previous_submission_id": "SUB-ASN-2026-000004-LRN-2026-000013-01",
     "new_submission_id": "SUB-ASN-2026-000004-LRN-2026-000013-02",
     "requested_at_utc": "2026-03-25T06:42:28Z",
     "reason": "Resolved linting warnings and updated README API documentation.",

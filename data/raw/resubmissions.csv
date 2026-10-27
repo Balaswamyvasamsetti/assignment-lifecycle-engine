@@ -1,8 +1,8 @@
 resubmission_id,previous_submission_id,new_submission_id,requested_at_utc,reason,is_allowed_by_policy
 RSB-2026-000001,SUB-ASN-2026-000001-LRN-2026-000470-01,SUB-ASN-2026-000001-LRN-2026-000470-02,2026-10-31T20:51:11Z,Resolved linting warnings and updated README API documentation.,True
 RSB-2026-000002,SUB-ASN-2026-000002-LRN-2026-000465-01,SUB-ASN-2026-000002-LRN-2026-000465-02,2026-02-02T05:59:43Z,Incorporated instructor feedback on architecture and refactored core classes.,True
-RSB-2026-000003,SUB-ASN-2026-000003-LRN-2026-000002-01,SUB-ASN-2026-000003-LRN-2026-000369-02,2026-09-17T06:34:04Z,Resolved linting warnings and updated README API documentation.,True
-RSB-2026-000004,SUB-ASN-2026-000004-LRN-2026-000001-01,SUB-ASN-2026-000004-LRN-2026-000013-02,2026-03-25T06:42:28Z,Resolved linting warnings and updated README API documentation.,True
+RSB-2026-000003,SUB-ASN-2026-000003-LRN-2026-000369-01,SUB-ASN-2026-000003-LRN-2026-000369-02,2026-09-17T06:34:04Z,Resolved linting warnings and updated README API documentation.,True
+RSB-2026-000004,SUB-ASN-2026-000004-LRN-2026-000013-01,SUB-ASN-2026-000004-LRN-2026-000013-02,2026-03-25T06:42:28Z,Resolved linting warnings and updated README API documentation.,True
 RSB-2026-000005,SUB-ASN-2026-000005-LRN-2026-000012-01,SUB-ASN-2026-000005-LRN-2026-000012-02,2026-10-14T08:27:02Z,Incorporated instructor feedback on architecture and refactored core classes.,True
 RSB-2026-000006,SUB-ASN-2026-000007-LRN-2026-000182-01,SUB-ASN-2026-000007-LRN-2026-000182-02,2026-11-04T23:16:17Z,Resolved linting warnings and updated README API documentation.,True
 RSB-2026-000007,SUB-ASN-2026-000008-LRN-2026-000397-01,SUB-ASN-2026-000008-LRN-2026-000397-02,2026-02-24T14:00:58Z,Fixed memory leak in concurrency worker thread.,True

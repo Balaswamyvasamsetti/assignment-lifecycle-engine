@@ -1,7 +1,7 @@
 """Schema validation: Primary Key uniqueness, Foreign Key integrity, Enum domains, and format contracts."""
 
 import re
-from typing import Any, Dict, List, Set
+from typing import Any, Dict, List, Optional, Set, Tuple
 
 
 class SchemaValidationError:

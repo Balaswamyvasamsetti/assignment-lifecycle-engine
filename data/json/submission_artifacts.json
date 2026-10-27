@@ -4,7 +4,7 @@
     "submission_id": "SUB-ASN-2026-000001-LRN-2026-000470-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "8746",
+    "file_size_kb": 8746,
     "file_sha256": "7253544db9b31286f2383a4d606a12c28db4d90d5993f1f559da3015078579bb"
   },
   {
@@ -12,39 +12,39 @@
     "submission_id": "SUB-ASN-2026-000002-LRN-2026-000465-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "9030",
+    "file_size_kb": 9030,
     "file_sha256": "6d994b54b0eea990377573b7e9aca28649a5352174e850f7c0fee5a481205f03"
   },
   {
     "artifact_id": "ART-2026-000003",
-    "submission_id": "SUB-ASN-2026-000003-LRN-2026-000002-01",
+    "submission_id": "SUB-ASN-2026-000003-LRN-2026-000369-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "11929",
+    "file_size_kb": 11929,
     "file_sha256": "65e589f3e96aba35397bada94f56d5f327ccdbb711b2ef970af335a81211617a"
   },
   {
     "artifact_id": "ART-2026-000004",
-    "submission_id": "SUB-ASN-2026-000003-LRN-2026-000002-01",
+    "submission_id": "SUB-ASN-2026-000003-LRN-2026-000369-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "7540",
+    "file_size_kb": 7540,
     "file_sha256": "bf2ebd75727ac8011a57659bbd963e0745b82392c242208dd157f8244d6339d2"
   },
   {
     "artifact_id": "ART-2026-000005",
-    "submission_id": "SUB-ASN-2026-000004-LRN-2026-000001-01",
+    "submission_id": "SUB-ASN-2026-000004-LRN-2026-000013-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "6793",
+    "file_size_kb": 6793,
     "file_sha256": "741e3d95d48b9a93ba14b973de499ed9eb6bc956dc1cbe3f86bb4e7ddabf448d"
   },
   {
     "artifact_id": "ART-2026-000006",
-    "submission_id": "SUB-ASN-2026-000004-LRN-2026-000001-01",
+    "submission_id": "SUB-ASN-2026-000004-LRN-2026-000013-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "3647",
+    "file_size_kb": 3647,
     "file_sha256": "6fc71e28be92c6f661dc710716ab8b722f6410d131d724e6d6c2fd419bcd84f8"
   },
   {
@@ -52,7 +52,7 @@
     "submission_id": "SUB-ASN-2026-000005-LRN-2026-000012-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "6625",
+    "file_size_kb": 6625,
     "file_sha256": "aa6cfd3e5838a706550412213cf8069fdcb406e0844482f2d09e82e8a9717edc"
   },
   {
@@ -60,7 +60,7 @@
     "submission_id": "SUB-ASN-2026-000005-LRN-2026-000012-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "568",
+    "file_size_kb": 568,
     "file_sha256": "3c0f21af95172d07dfa80a3a3858a8ca6c43c11d546e237174915ddbaa0b9e34"
   },
   {
@@ -68,7 +68,7 @@
     "submission_id": "SUB-ASN-2026-000006-LRN-2026-000383-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "12108",
+    "file_size_kb": 12108,
     "file_sha256": "ef6c2f54a6298c8a6d9ae810bd626df7bb33ea686a3604324021af0e8b3f0d90"
   },
   {
@@ -76,7 +76,7 @@
     "submission_id": "SUB-ASN-2026-000007-LRN-2026-000182-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "4060",
+    "file_size_kb": 4060,
     "file_sha256": "49f932150e75c70ae6b9258b43f51289b303c63abc4da4541f7e5a5a47b98e91"
   },
   {
@@ -84,7 +84,7 @@
     "submission_id": "SUB-ASN-2026-000008-LRN-2026-000397-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "657",
+    "file_size_kb": 657,
     "file_sha256": "d8743de81f01626d8fe961d1e1f6536497d41fc3371273fa23f4d3f78fa4b88e"
   },
   {
@@ -92,7 +92,7 @@
     "submission_id": "SUB-ASN-2026-000008-LRN-2026-000397-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1650",
+    "file_size_kb": 1650,
     "file_sha256": "25a57fe65c2091b9b8ef047ff4873d07ee4678235dd0bbb9fe07ef9b02d2956a"
   },
   {
@@ -100,7 +100,7 @@
     "submission_id": "SUB-ASN-2026-000009-LRN-2026-000294-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "6918",
+    "file_size_kb": 6918,
     "file_sha256": "db64532229ad5343f21214a4eadb8878d6aa1235f9bddd500c3d123cde0d97a4"
   },
   {
@@ -108,7 +108,7 @@
     "submission_id": "SUB-ASN-2026-000010-LRN-2026-000094-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "6626",
+    "file_size_kb": 6626,
     "file_sha256": "9850d3d1df605d000be377c101364f5cbd8d2bec2d423c2bdb016cbaf9e278b6"
   },
   {
@@ -116,7 +116,7 @@
     "submission_id": "SUB-ASN-2026-000010-LRN-2026-000094-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "4588",
+    "file_size_kb": 4588,
     "file_sha256": "4204cc1a0ef070cea6645d0229fded635240c3d82e6ba3c66a72df00f552ca89"
   },
   {
@@ -124,7 +124,7 @@
     "submission_id": "SUB-ASN-2026-000011-LRN-2026-000178-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "932",
+    "file_size_kb": 932,
     "file_sha256": "0c5f002422b905748694cf3f8602ce49142b97efbfd5eda0b4c2a143273711fa"
   },
   {
@@ -132,7 +132,7 @@
     "submission_id": "SUB-ASN-2026-000012-LRN-2026-000197-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "7367",
+    "file_size_kb": 7367,
     "file_sha256": "e074ad2a2c7cc81aa0246e485f285e34e2acd272ed4a45e801c15cfb87b3bb3d"
   },
   {
@@ -140,7 +140,7 @@
     "submission_id": "SUB-ASN-2026-000013-LRN-2026-000256-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "10220",
+    "file_size_kb": 10220,
     "file_sha256": "180690d4db511b870ee1bb981c234e6e43fa01723d34ce6d4ad3b5519365f453"
   },
   {
@@ -148,7 +148,7 @@
     "submission_id": "SUB-ASN-2026-000013-LRN-2026-000256-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "2783",
+    "file_size_kb": 2783,
     "file_sha256": "d0b8a2948ddcf0fc5c312c7e6f07062ae79637fdb5f435edb393427eaa723cd0"
   },
   {
@@ -156,7 +156,7 @@
     "submission_id": "SUB-ASN-2026-000014-LRN-2026-000350-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "10458",
+    "file_size_kb": 10458,
     "file_sha256": "1802fb6410ee70b7d23b70c1dc5854c413129af694aa7979f40d56aa854e5dd5"
   },
   {
@@ -164,7 +164,7 @@
     "submission_id": "SUB-ASN-2026-000015-LRN-2026-000211-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "788",
+    "file_size_kb": 788,
     "file_sha256": "d0fb93f3408f010bd84ab6332b9470fbd9b6a2dccfe02f70ba1249f794a49b0e"
   },
   {
@@ -172,7 +172,7 @@
     "submission_id": "SUB-ASN-2026-000016-LRN-2026-000030-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "296",
+    "file_size_kb": 296,
     "file_sha256": "5490e971b84bf8d1503aad1415329f4e9ec29592a812bd5b1a0347bdc4a1aa91"
   },
   {
@@ -180,7 +180,7 @@
     "submission_id": "SUB-ASN-2026-000017-LRN-2026-000246-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "3644",
+    "file_size_kb": 3644,
     "file_sha256": "ba72fa86c312f4e8bd54f8f55944dd8968721073187416b677b36babcd4577bc"
   },
   {
@@ -188,7 +188,7 @@
     "submission_id": "SUB-ASN-2026-000018-LRN-2026-000120-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "11878",
+    "file_size_kb": 11878,
     "file_sha256": "65a5d717abb3be2f1525000865f652481be4e3911d1e0f29d399bded98527942"
   },
   {
@@ -196,7 +196,7 @@
     "submission_id": "SUB-ASN-2026-000019-LRN-2026-000479-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "10708",
+    "file_size_kb": 10708,
     "file_sha256": "4dcc47597ad3d1ff8d01b847e55991eef5e6ec3c2fe9287fb8a0a6dd3d0423da"
   },
   {
@@ -204,7 +204,7 @@
     "submission_id": "SUB-ASN-2026-000020-LRN-2026-000442-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "4389",
+    "file_size_kb": 4389,
     "file_sha256": "9f470d912bdb9dfeaa06c4a1892f322fb17b9a61758635236595affa897a430b"
   },
   {
@@ -212,7 +212,7 @@
     "submission_id": "SUB-ASN-2026-000020-LRN-2026-000442-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "12351",
+    "file_size_kb": 12351,
     "file_sha256": "09b9d2402f3ce84cb5cfe38e168d77309575423b2e6ce72ab5cd7b547fab17a3"
   },
   {
@@ -220,7 +220,7 @@
     "submission_id": "SUB-ASN-2026-000021-LRN-2026-000438-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "4271",
+    "file_size_kb": 4271,
     "file_sha256": "b1f96c99f9db484e94ebee0be44639a3530ed6732721863f9fd5652c3370f427"
   },
   {
@@ -228,7 +228,7 @@
     "submission_id": "SUB-ASN-2026-000021-LRN-2026-000438-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "3150",
+    "file_size_kb": 3150,
     "file_sha256": "0d0f3a3eb2ac06fe75996aed346d262d3c0dd1ef6c607514dbad34eceac41308"
   },
   {
@@ -236,7 +236,7 @@
     "submission_id": "SUB-ASN-2026-000022-LRN-2026-000242-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "12300",
+    "file_size_kb": 12300,
     "file_sha256": "127ea5ebe7bca9be9d4514e0b5c7a9c09ba5e77dc17d7c9017adee1e1cf19571"
   },
   {
@@ -244,31 +244,31 @@
     "submission_id": "SUB-ASN-2026-000023-LRN-2026-000460-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "1361",
+    "file_size_kb": 1361,
     "file_sha256": "05d695740a2e42ab3b174a7e3c5dbd1f45bbe63c12e2c0e427d7c86b38e5e4a0"
   },
   {
     "artifact_id": "ART-2026-000032",
-    "submission_id": "SUB-ASN-2026-000024-LRN-2026-000460-01",
+    "submission_id": "SUB-ASN-2026-000024-LRN-2026-000001-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "7348",
+    "file_size_kb": 7348,
     "file_sha256": "8e7a9b3c5b2d28a2e96e2c1f6276c1381773b46dc1360efc1104fbf6fd32dc56"
   },
   {
     "artifact_id": "ART-2026-000033",
-    "submission_id": "SUB-ASN-2026-000024-LRN-2026-000460-01",
+    "submission_id": "SUB-ASN-2026-000024-LRN-2026-000001-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1034",
+    "file_size_kb": 1034,
     "file_sha256": "336b43f1f5ac36fd68e2cb4aec7d3268e2884dfdf44bbe7b2a09a1df118421b4"
   },
   {
     "artifact_id": "ART-2026-000034",
-    "submission_id": "SUB-ASN-2026-000025-LRN-2026-000308-01",
+    "submission_id": "SUB-ASN-2026-000025-LRN-2026-000001-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "4955",
+    "file_size_kb": 4955,
     "file_sha256": "5ef901f38c637deb6a051596f471646525b9612951f1a1f5dbc0a17684f3b742"
   },
   {
@@ -276,7 +276,7 @@
     "submission_id": "SUB-ASN-2026-000026-LRN-2026-000379-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "4669",
+    "file_size_kb": 4669,
     "file_sha256": "ca6b3a521e9b992dc4095bed0c6ac727cee23b1e2841555fe5963ef52b864fb3"
   },
   {
@@ -284,7 +284,7 @@
     "submission_id": "SUB-ASN-2026-000027-LRN-2026-000358-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "9950",
+    "file_size_kb": 9950,
     "file_sha256": "af356ce79d4267bdcef4f2737a8b81ad462e0555d4679c0b743a7a8efd650177"
   },
   {
@@ -292,7 +292,7 @@
     "submission_id": "SUB-ASN-2026-000027-LRN-2026-000358-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "7111",
+    "file_size_kb": 7111,
     "file_sha256": "95829654f71ce49d9083999e66285245d3890725fc7e8e04392c52272654f766"
   },
   {
@@ -300,7 +300,7 @@
     "submission_id": "SUB-ASN-2026-000028-LRN-2026-000497-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "2626",
+    "file_size_kb": 2626,
     "file_sha256": "c66b96378e7cd6842bcc6d52208dde7ee8eeec138435414cf69b2b95166000b9"
   },
   {
@@ -308,7 +308,7 @@
     "submission_id": "SUB-ASN-2026-000029-LRN-2026-000427-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "10729",
+    "file_size_kb": 10729,
     "file_sha256": "ea5373045639af8f6a678b0473eb45d1b45ef019a67997bc2b855c5e894d8500"
   },
   {
@@ -316,7 +316,7 @@
     "submission_id": "SUB-ASN-2026-000029-LRN-2026-000427-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "8985",
+    "file_size_kb": 8985,
     "file_sha256": "40678fc3c4f0eccd0a8aed1c42e26a16fff6311a6f34ccf73e32dc4f1e8a057f"
   },
   {
@@ -324,7 +324,7 @@
     "submission_id": "SUB-ASN-2026-000030-LRN-2026-000359-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1816",
+    "file_size_kb": 1816,
     "file_sha256": "1fd03485bb34c42cbd10f5f4dbe6768c385011f7967b15add9c519b776eb2380"
   },
   {
@@ -332,7 +332,7 @@
     "submission_id": "SUB-ASN-2026-000030-LRN-2026-000359-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "9081",
+    "file_size_kb": 9081,
     "file_sha256": "1928b2742d91348387376cb5016e5f6485bf8350c3cc301bf6ca284da27cf41d"
   },
   {
@@ -340,7 +340,7 @@
     "submission_id": "SUB-ASN-2026-000031-LRN-2026-000011-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "7538",
+    "file_size_kb": 7538,
     "file_sha256": "3b8083fa2ce1cfbcfd57dea0638d7f47ba1f7be8685d40400de75cb574c8f59f"
   },
   {
@@ -348,7 +348,7 @@
     "submission_id": "SUB-ASN-2026-000031-LRN-2026-000011-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "5109",
+    "file_size_kb": 5109,
     "file_sha256": "633898712a21eb59e6ffed0432c8dc136c85570e73da230b549bf7239bceec4d"
   },
   {
@@ -356,7 +356,7 @@
     "submission_id": "SUB-ASN-2026-000032-LRN-2026-000062-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "199",
+    "file_size_kb": 199,
     "file_sha256": "ca10a0eca231ce1fe44adf7e83f2823e5e7c262e1af516cb20fd440c88221beb"
   },
   {
@@ -364,7 +364,7 @@
     "submission_id": "SUB-ASN-2026-000032-LRN-2026-000062-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "3994",
+    "file_size_kb": 3994,
     "file_sha256": "3d623513468db52cf1c659eb0c90e2104e7264ffe78473ba7c1f7faa7f50fb5d"
   },
   {
@@ -372,7 +372,7 @@
     "submission_id": "SUB-ASN-2026-000033-LRN-2026-000226-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "8271",
+    "file_size_kb": 8271,
     "file_sha256": "e68079c26310f23692c3b8d0084b647ddf46c1a3ed399cc754a046a4625c845a"
   },
   {
@@ -380,7 +380,7 @@
     "submission_id": "SUB-ASN-2026-000033-LRN-2026-000226-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1577",
+    "file_size_kb": 1577,
     "file_sha256": "633bad583e11ae12acab42dac40e7e75d56e2891ca14ac1923d0f8baedcae077"
   },
   {
@@ -388,7 +388,7 @@
     "submission_id": "SUB-ASN-2026-000034-LRN-2026-000444-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "10199",
+    "file_size_kb": 10199,
     "file_sha256": "10baf8ef3db40a728f500c4d3dabd134aaeaf30b362da131c8af8578f0a1d753"
   },
   {
@@ -396,7 +396,7 @@
     "submission_id": "SUB-ASN-2026-000035-LRN-2026-000203-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "2674",
+    "file_size_kb": 2674,
     "file_sha256": "5baeac0bb2dabbfa1cb0eff224673ee423fed785f45332ef5f62f2191c250e5d"
   },
   {
@@ -404,7 +404,7 @@
     "submission_id": "SUB-ASN-2026-000035-LRN-2026-000203-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "5227",
+    "file_size_kb": 5227,
     "file_sha256": "4c1b794fba5cde2b2ccef3f4512720e988af608dd3f898386f2db968c4a4a3c3"
   },
   {
@@ -412,7 +412,7 @@
     "submission_id": "SUB-ASN-2026-000036-LRN-2026-000259-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "2792",
+    "file_size_kb": 2792,
     "file_sha256": "e02bee668f8bb20054c34026df3cf88c8f144ad372cbf2cd3aebc99190f9eeaf"
   },
   {
@@ -420,7 +420,7 @@
     "submission_id": "SUB-ASN-2026-000037-LRN-2026-000092-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1982",
+    "file_size_kb": 1982,
     "file_sha256": "7fd4e513f17acb2ae80f02831214e8700829a541e06c437a327e5dacdb486da8"
   },
   {
@@ -428,7 +428,7 @@
     "submission_id": "SUB-ASN-2026-000037-LRN-2026-000092-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1863",
+    "file_size_kb": 1863,
     "file_sha256": "d415dadd8b169949f37e486bc5d9610d19939c0ca6b88c46fd0aa92991514104"
   },
   {
@@ -436,7 +436,7 @@
     "submission_id": "SUB-ASN-2026-000038-LRN-2026-000176-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "11980",
+    "file_size_kb": 11980,
     "file_sha256": "5cc8fac8cb2dab015851d71e9ea0245087f12626edaca85a9f2b26d97c936648"
   },
   {
@@ -444,7 +444,7 @@
     "submission_id": "SUB-ASN-2026-000038-LRN-2026-000176-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "6577",
+    "file_size_kb": 6577,
     "file_sha256": "e8bd58022f079b3fdd1a8e28f9e36a4af04c63d7d8a1683d28a6d5d78870a138"
   },
   {
@@ -452,7 +452,7 @@
     "submission_id": "SUB-ASN-2026-000039-LRN-2026-000232-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "3022",
+    "file_size_kb": 3022,
     "file_sha256": "970f92562d1e8b2da7caf2b4f7836b9acae822885b882a1721bc9984d845096d"
   },
   {
@@ -460,7 +460,7 @@
     "submission_id": "SUB-ASN-2026-000039-LRN-2026-000232-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "5877",
+    "file_size_kb": 5877,
     "file_sha256": "18ed7d963174ef3dc3517b8013c91434820b3b5a6a151e78ba0855cba83b1bf5"
   },
   {
@@ -468,7 +468,7 @@
     "submission_id": "SUB-ASN-2026-000040-LRN-2026-000251-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "7084",
+    "file_size_kb": 7084,
     "file_sha256": "caa8e57b1ff961972bbfcc84e4d77669642b2ce8559282bfd621a3fadf7e5d94"
   },
   {
@@ -476,7 +476,7 @@
     "submission_id": "SUB-ASN-2026-000041-LRN-2026-000357-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "5657",
+    "file_size_kb": 5657,
     "file_sha256": "2ec415eaeccfacce9eaf847d8e28416c0a06350d5d411cd8afef99b4ca4513b8"
   },
   {
@@ -484,7 +484,7 @@
     "submission_id": "SUB-ASN-2026-000042-LRN-2026-000172-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "4572",
+    "file_size_kb": 4572,
     "file_sha256": "8fdc9ba81b5f148845dd595f347f444762991b94d528fd7cd2314327d8461359"
   },
   {
@@ -492,7 +492,7 @@
     "submission_id": "SUB-ASN-2026-000042-LRN-2026-000172-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "6170",
+    "file_size_kb": 6170,
     "file_sha256": "923b107da275206fec7b566ea622e752a80709f64617c5c0318ee7a77ddc19d5"
   },
   {
@@ -500,7 +500,7 @@
     "submission_id": "SUB-ASN-2026-000043-LRN-2026-000015-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "11457",
+    "file_size_kb": 11457,
     "file_sha256": "d7355bd521cd88509fc20df13a19b6a2f0964938505a801c09dcc33805e2ab71"
   },
   {
@@ -508,7 +508,7 @@
     "submission_id": "SUB-ASN-2026-000043-LRN-2026-000015-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "3428",
+    "file_size_kb": 3428,
     "file_sha256": "9e816124aa15ed7b9729ac2ab748fce01a20899547e15f89e47be5e49420c24c"
   },
   {
@@ -516,7 +516,7 @@
     "submission_id": "SUB-ASN-2026-000044-LRN-2026-000463-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "3094",
+    "file_size_kb": 3094,
     "file_sha256": "6530dcd8fe90d66383bbd9ab640f927215800d2d3fc72a898d79e0847fd390d9"
   },
   {
@@ -524,7 +524,7 @@
     "submission_id": "SUB-ASN-2026-000044-LRN-2026-000463-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "5966",
+    "file_size_kb": 5966,
     "file_sha256": "b94f18b75f29d7770c94ef37af6e4446d74331fefd0fe0338ec88dc3254e119f"
   },
   {
@@ -532,7 +532,7 @@
     "submission_id": "SUB-ASN-2026-000045-LRN-2026-000174-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "7116",
+    "file_size_kb": 7116,
     "file_sha256": "e420f8ce6675634bc60fc66de722aa901313cd0ee49b3c077e378a5de9f9cc8e"
   },
   {
@@ -540,7 +540,7 @@
     "submission_id": "SUB-ASN-2026-000045-LRN-2026-000174-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1997",
+    "file_size_kb": 1997,
     "file_sha256": "09809320b462d282c4eacaf5bda99ad916e9d1d86a4d6f2814cae604dd88e23c"
   },
   {
@@ -548,7 +548,7 @@
     "submission_id": "SUB-ASN-2026-000046-LRN-2026-000234-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "5824",
+    "file_size_kb": 5824,
     "file_sha256": "19dc45c26c95a62c434e8a4d8b3dd30a00a7fd895c8bb72bf71f77788c6c3f63"
   },
   {
@@ -556,7 +556,7 @@
     "submission_id": "SUB-ASN-2026-000046-LRN-2026-000234-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "4558",
+    "file_size_kb": 4558,
     "file_sha256": "e62507fb65b61df23201c03c95715a77bad069ebe2410e09aa067c1b74b72478"
   },
   {
@@ -564,7 +564,7 @@
     "submission_id": "SUB-ASN-2026-000047-LRN-2026-000103-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "7352",
+    "file_size_kb": 7352,
     "file_sha256": "8ac7f8e05def2035efafe1bbb0647cd37beeecf96bfe0c594274f3933c57c0dc"
   },
   {
@@ -572,7 +572,7 @@
     "submission_id": "SUB-ASN-2026-000048-LRN-2026-000109-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "10834",
+    "file_size_kb": 10834,
     "file_sha256": "aa5103ef556bac62895396ac25b5e454236d818308aab8f30a7dc5715341fd05"
   },
   {
@@ -580,7 +580,7 @@
     "submission_id": "SUB-ASN-2026-000049-LRN-2026-000102-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "8607",
+    "file_size_kb": 8607,
     "file_sha256": "00ad78340fd3917f60c077a00dc4c1118f557b06cee50362d0aaadf755a9f56f"
   },
   {
@@ -588,7 +588,7 @@
     "submission_id": "SUB-ASN-2026-000049-LRN-2026-000102-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "4135",
+    "file_size_kb": 4135,
     "file_sha256": "d3d5d34707c1fe12e6d62c6d5d89757026236618b492c0ea0569ff9c8ef14f93"
   },
   {
@@ -596,7 +596,7 @@
     "submission_id": "SUB-ASN-2026-000050-LRN-2026-000032-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "5891",
+    "file_size_kb": 5891,
     "file_sha256": "2879cb274bf98466829128291e36a1e40ba21a307ebdecf07dbc775a6b03f97e"
   },
   {
@@ -604,7 +604,7 @@
     "submission_id": "SUB-ASN-2026-000051-LRN-2026-000140-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "5765",
+    "file_size_kb": 5765,
     "file_sha256": "266fa3de32dec60a6a3daabd1040ae5fd12667d4421e5ea9ad7492b34a745ffc"
   },
   {
@@ -612,7 +612,7 @@
     "submission_id": "SUB-ASN-2026-000051-LRN-2026-000140-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "3800",
+    "file_size_kb": 3800,
     "file_sha256": "3577325368541e09706769dcefe394fec58e7187c8de7c2e2bdcfd512647138d"
   },
   {
@@ -620,7 +620,7 @@
     "submission_id": "SUB-ASN-2026-000052-LRN-2026-000294-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "6491",
+    "file_size_kb": 6491,
     "file_sha256": "02f8edf5bb1e15fb5b6de144ceb6ce0958f729d636cc0a49c39efeade0573321"
   },
   {
@@ -628,7 +628,7 @@
     "submission_id": "SUB-ASN-2026-000053-LRN-2026-000369-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "4782",
+    "file_size_kb": 4782,
     "file_sha256": "6307e918a009b265284f3c85261bc31b58ee3bd946aedf70c9fa9ba8737290ee"
   },
   {
@@ -636,7 +636,7 @@
     "submission_id": "SUB-ASN-2026-000054-LRN-2026-000297-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "7929",
+    "file_size_kb": 7929,
     "file_sha256": "f1617eb4295ecbe97f7e56071c8da638bc5b6a7e029106daabe9c17e6d67a9ca"
   },
   {
@@ -644,7 +644,7 @@
     "submission_id": "SUB-ASN-2026-000055-LRN-2026-000084-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "3619",
+    "file_size_kb": 3619,
     "file_sha256": "48354a7f2a060836dc1db49f24f0fa34f3adb0be86b35659bfa3de58aa77d93a"
   },
   {
@@ -652,7 +652,7 @@
     "submission_id": "SUB-ASN-2026-000056-LRN-2026-000155-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "3063",
+    "file_size_kb": 3063,
     "file_sha256": "e043822e3044bf4fa00283d20fe058d7adebd078427801a42e4b027a3235dbb1"
   },
   {
@@ -660,7 +660,7 @@
     "submission_id": "SUB-ASN-2026-000057-LRN-2026-000227-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "3432",
+    "file_size_kb": 3432,
     "file_sha256": "6db74961e81feb7ea6db7c367394ef3dde6d033748b48a263199406742dc7e63"
   },
   {
@@ -668,7 +668,7 @@
     "submission_id": "SUB-ASN-2026-000058-LRN-2026-000427-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "5778",
+    "file_size_kb": 5778,
     "file_sha256": "530032533a51fe000e72c8cacc73329aa126c32c7970ab230f6cc34a834a8586"
   },
   {
@@ -676,7 +676,7 @@
     "submission_id": "SUB-ASN-2026-000059-LRN-2026-000370-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "6758",
+    "file_size_kb": 6758,
     "file_sha256": "b42316ab652d2373a9cada4e042322d69659eeb0a3a4698cc8a3e63ed7f63a47"
   },
   {
@@ -684,7 +684,7 @@
     "submission_id": "SUB-ASN-2026-000059-LRN-2026-000370-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1112",
+    "file_size_kb": 1112,
     "file_sha256": "2a7c966c6a5a01db8b2ded49d379102f5999cc3e751ea32ab7e93455deec7504"
   },
   {
@@ -692,7 +692,7 @@
     "submission_id": "SUB-ASN-2026-000060-LRN-2026-000270-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "367",
+    "file_size_kb": 367,
     "file_sha256": "842db7e4fb0013a62454e850e9719a8c7af7aeebaf944d62c3ac9d2530481d68"
   },
   {
@@ -700,7 +700,7 @@
     "submission_id": "SUB-ASN-2026-000060-LRN-2026-000270-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "7974",
+    "file_size_kb": 7974,
     "file_sha256": "68a57d21dccdba9328a069fe9c0ffea4477c1258cee7ff2d09d1b293815574ea"
   },
   {
@@ -708,7 +708,7 @@
     "submission_id": "SUB-ASN-2026-000061-LRN-2026-000125-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1796",
+    "file_size_kb": 1796,
     "file_sha256": "d1ad6ba784f89a4ab4e3991b34c804cbdf8aa600b309c9806e57bb6708f9949d"
   },
   {
@@ -716,7 +716,7 @@
     "submission_id": "SUB-ASN-2026-000061-LRN-2026-000125-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "3726",
+    "file_size_kb": 3726,
     "file_sha256": "f63d6d97a9521d3b04a851ac7ecb6608557f12d94480f3346396ed414b8a3fda"
   },
   {
@@ -724,7 +724,7 @@
     "submission_id": "SUB-ASN-2026-000062-LRN-2026-000451-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "4610",
+    "file_size_kb": 4610,
     "file_sha256": "78c0b94008f0448f031c3b00402afa6ea345628c0d41ca5f0a6bbf44ecada579"
   },
   {
@@ -732,7 +732,7 @@
     "submission_id": "SUB-ASN-2026-000063-LRN-2026-000242-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "10249",
+    "file_size_kb": 10249,
     "file_sha256": "defa56696eb89357269c5804331176d87e121d62355c52c8e3247226e9fa1b63"
   },
   {
@@ -740,7 +740,7 @@
     "submission_id": "SUB-ASN-2026-000064-LRN-2026-000242-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "604",
+    "file_size_kb": 604,
     "file_sha256": "7d6df3783dedb69c93c40e64194f5fdd06399111938472a6e08bac1c811e27b3"
   },
   {
@@ -748,7 +748,7 @@
     "submission_id": "SUB-ASN-2026-000064-LRN-2026-000242-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "1289",
+    "file_size_kb": 1289,
     "file_sha256": "61895d82729473081db6f5ad7b24a4e45074e6aadf28fa77f18490181397cc66"
   },
   {
@@ -756,7 +756,7 @@
     "submission_id": "SUB-ASN-2026-000065-LRN-2026-000028-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "10171",
+    "file_size_kb": 10171,
     "file_sha256": "9e54af87a034c6040d7cf758330f6e11dc29cf876a00a9466963b1fe265420e8"
   },
   {
@@ -764,7 +764,7 @@
     "submission_id": "SUB-ASN-2026-000065-LRN-2026-000028-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "2481",
+    "file_size_kb": 2481,
     "file_sha256": "39cab6524a619150c6bcce0c50b1f3aecbfc97e090799245d4a7d8b1e894bb61"
   },
   {
@@ -772,7 +772,7 @@
     "submission_id": "SUB-ASN-2026-000066-LRN-2026-000250-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "929",
+    "file_size_kb": 929,
     "file_sha256": "2bdafbb51b739bb2ba93774a4ffd1d3ea5b8f99b798670f1e1bc1ec2a6f7a260"
   },
   {
@@ -780,7 +780,7 @@
     "submission_id": "SUB-ASN-2026-000067-LRN-2026-000389-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "11701",
+    "file_size_kb": 11701,
     "file_sha256": "09696e803a348df92ff8b367be0a8f932837c2a2ad1b6055a2a982aee688deb5"
   },
   {
@@ -788,7 +788,7 @@
     "submission_id": "SUB-ASN-2026-000067-LRN-2026-000389-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "6699",
+    "file_size_kb": 6699,
     "file_sha256": "2741ef66891a0111809c2ce58c3b00895a4b6a9784690d891ea5b86a06b74b84"
   },
   {
@@ -796,7 +796,7 @@
     "submission_id": "SUB-ASN-2026-000068-LRN-2026-000157-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "6962",
+    "file_size_kb": 6962,
     "file_sha256": "e65484981e48f4fce54c0860f39cac18b7ba0bc9778f1da567c66335aedb1e10"
   },
   {
@@ -804,7 +804,7 @@
     "submission_id": "SUB-ASN-2026-000069-LRN-2026-000257-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "9251",
+    "file_size_kb": 9251,
     "file_sha256": "d565c63fc7a767cbe47b7b2ca325bbedf8f904bc1c7585d31ac8d79866cafdac"
   },
   {
@@ -812,7 +812,7 @@
     "submission_id": "SUB-ASN-2026-000069-LRN-2026-000257-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "4777",
+    "file_size_kb": 4777,
     "file_sha256": "aa34a16aea528c392bc8b43a82c9a93b17614af1870f2955bf573b007c4e893e"
   },
   {
@@ -820,7 +820,7 @@
     "submission_id": "SUB-ASN-2026-000070-LRN-2026-000214-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "4274",
+    "file_size_kb": 4274,
     "file_sha256": "4231ba6322be5c6d9c2e4d3b6a5263a3440c422748b139d87ff4e6921b65113d"
   },
   {
@@ -828,7 +828,7 @@
     "submission_id": "SUB-ASN-2026-000071-LRN-2026-000121-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "11304",
+    "file_size_kb": 11304,
     "file_sha256": "7b21e6b4caff99f37d7d57a046212167cbfd27e70bb9c9abce7afcf97324d5b6"
   },
   {
@@ -836,7 +836,7 @@
     "submission_id": "SUB-ASN-2026-000071-LRN-2026-000121-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "7738",
+    "file_size_kb": 7738,
     "file_sha256": "f0fdcb9860a9a8ed0d1abca6da912cb6a8b9f34ded57695432081ff80d959a16"
   },
   {
@@ -844,7 +844,7 @@
     "submission_id": "SUB-ASN-2026-000072-LRN-2026-000174-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "6273",
+    "file_size_kb": 6273,
     "file_sha256": "dd22c51894b1754440dfe7d445e16f5d3e0dc6bb556d549157c892a3daec6024"
   },
   {
@@ -852,7 +852,7 @@
     "submission_id": "SUB-ASN-2026-000072-LRN-2026-000174-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "5309",
+    "file_size_kb": 5309,
     "file_sha256": "7835f617de6d9cbb2bd040901fc165ebf621fce240c05312ac934d3f13d3560d"
   },
   {
@@ -860,7 +860,7 @@
     "submission_id": "SUB-ASN-2026-000073-LRN-2026-000184-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "1497",
+    "file_size_kb": 1497,
     "file_sha256": "a0b268b8e6067e1f6375d7ad70ce719931ebb0c6aeb39a6a0528cf18b666e9de"
   },
   {
@@ -868,7 +868,7 @@
     "submission_id": "SUB-ASN-2026-000073-LRN-2026-000184-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "9076",
+    "file_size_kb": 9076,
     "file_sha256": "77ab548369627f6b6b3ee46643bd09fc39d2410acbd50da699a7c5cd497ecf98"
   },
   {
@@ -876,7 +876,7 @@
     "submission_id": "SUB-ASN-2026-000074-LRN-2026-000328-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "3946",
+    "file_size_kb": 3946,
     "file_sha256": "be082b8fa0567def1d4f536ed0e22a1306cb337d1358b0b3a50503469e4405d4"
   },
   {
@@ -884,7 +884,7 @@
     "submission_id": "SUB-ASN-2026-000074-LRN-2026-000328-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "4975",
+    "file_size_kb": 4975,
     "file_sha256": "4eb911779f7c48805b847036fe0067981af4961fdea0c2946746175c80ffd9a5"
   },
   {
@@ -892,7 +892,7 @@
     "submission_id": "SUB-ASN-2026-000075-LRN-2026-000323-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "1140",
+    "file_size_kb": 1140,
     "file_sha256": "3fe8c4280e3b661ab1a8543bae8772172e40663c8b59296f3beabbb5f77f09ab"
   },
   {
@@ -900,7 +900,7 @@
     "submission_id": "SUB-ASN-2026-000076-LRN-2026-000306-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "7671",
+    "file_size_kb": 7671,
     "file_sha256": "73b01f999dbc63b1a28ca05d16bcae2ffb7e94cde0cd9079f8fc8a1bee44e5a0"
   },
   {
@@ -908,7 +908,7 @@
     "submission_id": "SUB-ASN-2026-000077-LRN-2026-000072-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "7051",
+    "file_size_kb": 7051,
     "file_sha256": "ba9fbc93df272e0f348db5dc432a94702813d9ae95b4d71979649fddc9041046"
   },
   {
@@ -916,7 +916,7 @@
     "submission_id": "SUB-ASN-2026-000078-LRN-2026-000472-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "5893",
+    "file_size_kb": 5893,
     "file_sha256": "538d19ce142187a3bbb7e5ff1f842742717914b7dc6315972a90804567aaea59"
   },
   {
@@ -924,7 +924,7 @@
     "submission_id": "SUB-ASN-2026-000079-LRN-2026-000058-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "6643",
+    "file_size_kb": 6643,
     "file_sha256": "f601b1bc357c3657893ec35898a32d2717d3c449a3e217176bd3c158caca21fc"
   },
   {
@@ -932,7 +932,7 @@
     "submission_id": "SUB-ASN-2026-000079-LRN-2026-000058-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "2055",
+    "file_size_kb": 2055,
     "file_sha256": "5fa77d75f4a646a64003902f8de1ba3c2dc0cda211194d27b282ff52f2be0ef1"
   },
   {
@@ -940,7 +940,7 @@
     "submission_id": "SUB-ASN-2026-000080-LRN-2026-000281-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "8588",
+    "file_size_kb": 8588,
     "file_sha256": "797a9a267880b8b495f6b3f1c50d66bd10ccf6e1287823ee3a8a3842e19a1910"
   },
   {
@@ -948,7 +948,7 @@
     "submission_id": "SUB-ASN-2026-000081-LRN-2026-000314-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "9597",
+    "file_size_kb": 9597,
     "file_sha256": "11a273e362af768c82ea6c3e013ad416483952b2597cafcdee0a70c4fd48d0b7"
   },
   {
@@ -956,7 +956,7 @@
     "submission_id": "SUB-ASN-2026-000082-LRN-2026-000053-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "11353",
+    "file_size_kb": 11353,
     "file_sha256": "59c0effffc63fa29a84e0735e677985594dad401b1a7470ad264ce00af461e78"
   },
   {
@@ -964,7 +964,7 @@
     "submission_id": "SUB-ASN-2026-000082-LRN-2026-000053-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "7325",
+    "file_size_kb": 7325,
     "file_sha256": "10232f884cf48a9bb91def478f9b96ac1e04bdd261557c2476c547a2d647128f"
   },
   {
@@ -972,7 +972,7 @@
     "submission_id": "SUB-ASN-2026-000083-LRN-2026-000008-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "4048",
+    "file_size_kb": 4048,
     "file_sha256": "326fbdf79a32de5c70a7034d2e0b0eea39d3566451a6159fad3db81f0e7c6bd4"
   },
   {
@@ -980,7 +980,7 @@
     "submission_id": "SUB-ASN-2026-000083-LRN-2026-000008-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "10846",
+    "file_size_kb": 10846,
     "file_sha256": "0448a1bdb8e73c7149e83e744e6ee771ccec771991515a207b40dcf5ab4a1690"
   },
   {
@@ -988,7 +988,7 @@
     "submission_id": "SUB-ASN-2026-000084-LRN-2026-000489-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "10760",
+    "file_size_kb": 10760,
     "file_sha256": "b473dbf270c8bf9679ed805f04b515b63dfc2bef5282d2ed4f456bcddb520035"
   },
   {
@@ -996,7 +996,7 @@
     "submission_id": "SUB-ASN-2026-000084-LRN-2026-000489-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "12213",
+    "file_size_kb": 12213,
     "file_sha256": "1d532de0b1da2e3be7f3e584ca0db061368479d37e0ed82ebb7b900c8b2d11e4"
   },
   {
@@ -1004,7 +1004,7 @@
     "submission_id": "SUB-ASN-2026-000085-LRN-2026-000215-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "6536",
+    "file_size_kb": 6536,
     "file_sha256": "952164bbd39d51c1300f6ed99c8937148cbf05630f47f44963c7eb24862e83ca"
   },
   {
@@ -1012,7 +1012,7 @@
     "submission_id": "SUB-ASN-2026-000085-LRN-2026-000215-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "8554",
+    "file_size_kb": 8554,
     "file_sha256": "7d8c0a766a05d76b2ff1e60117c6f51f9f465a4f09c6dd5ef62df0e2daa4ad65"
   },
   {
@@ -1020,7 +1020,7 @@
     "submission_id": "SUB-ASN-2026-000086-LRN-2026-000259-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "11869",
+    "file_size_kb": 11869,
     "file_sha256": "099c6a3edce09c354905c307731a0691ac12ef73842a04786f263a3173deb26b"
   },
   {
@@ -1028,7 +1028,7 @@
     "submission_id": "SUB-ASN-2026-000087-LRN-2026-000092-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "7823",
+    "file_size_kb": 7823,
     "file_sha256": "e80fe1da23093974df70458f63c88ba606cab36bb79b2a0a84db61a1a9a7d713"
   },
   {
@@ -1036,7 +1036,7 @@
     "submission_id": "SUB-ASN-2026-000088-LRN-2026-000055-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "10353",
+    "file_size_kb": 10353,
     "file_sha256": "0d5bc7305c1f29110790433782ef3a112dd5e0fc91f6785f2d0ae7c103e7d97f"
   },
   {
@@ -1044,7 +1044,7 @@
     "submission_id": "SUB-ASN-2026-000089-LRN-2026-000265-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "8152",
+    "file_size_kb": 8152,
     "file_sha256": "cd5bb4eaf4f2504718126de84e570e7719b4cfe0f29db871b5a5d4b394b4bde9"
   },
   {
@@ -1052,7 +1052,7 @@
     "submission_id": "SUB-ASN-2026-000090-LRN-2026-000162-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "3591",
+    "file_size_kb": 3591,
     "file_sha256": "9fde20b8934fc8f55d25fb7df2847ee8958fdc5a5b624ce1f4d4d75f9c794f46"
   },
   {
@@ -1060,7 +1060,7 @@
     "submission_id": "SUB-ASN-2026-000091-LRN-2026-000040-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "1265",
+    "file_size_kb": 1265,
     "file_sha256": "0f85618be17cd6870763ff126564c5f60504e0c0c2cb9996a70acddccd092abc"
   },
   {
@@ -1068,7 +1068,7 @@
     "submission_id": "SUB-ASN-2026-000092-LRN-2026-000269-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "3736",
+    "file_size_kb": 3736,
     "file_sha256": "a55326ec15380a6dd82fda00817bc6760f910db02b8c18884a533b9adec7932f"
   },
   {
@@ -1076,7 +1076,7 @@
     "submission_id": "SUB-ASN-2026-000092-LRN-2026-000269-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "3948",
+    "file_size_kb": 3948,
     "file_sha256": "787cfafeddb8349925844b814d504acf512e5da6155cbff1d106213567883352"
   },
   {
@@ -1084,7 +1084,7 @@
     "submission_id": "SUB-ASN-2026-000093-LRN-2026-000385-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "915",
+    "file_size_kb": 915,
     "file_sha256": "99356af2c04fb96d86bba29b87cbbcf52e3b60c0dc3384065064e839cd945526"
   },
   {
@@ -1092,7 +1092,7 @@
     "submission_id": "SUB-ASN-2026-000094-LRN-2026-000362-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "4269",
+    "file_size_kb": 4269,
     "file_sha256": "0f18cebe35bedafc5f398ada2350c6300e95e2d8ddcb66c398dc2e2a5898ed4b"
   },
   {
@@ -1100,7 +1100,7 @@
     "submission_id": "SUB-ASN-2026-000095-LRN-2026-000079-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "3653",
+    "file_size_kb": 3653,
     "file_sha256": "5ef9db6e326900939d281ac229af2a6866db01b54cf6511a7c627236c594b9f9"
   },
   {
@@ -1108,7 +1108,7 @@
     "submission_id": "SUB-ASN-2026-000096-LRN-2026-000481-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "4723",
+    "file_size_kb": 4723,
     "file_sha256": "782745abd2a642125f729ff20b75dbc5843980aa9ee6c0ba0e5e74a06f9fb311"
   },
   {
@@ -1116,7 +1116,7 @@
     "submission_id": "SUB-ASN-2026-000097-LRN-2026-000353-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "9961",
+    "file_size_kb": 9961,
     "file_sha256": "8f95c5571db7c0c4adab410708ca2ddd9ce1e5e88be9afeb578444b8a8823cb3"
   },
   {
@@ -1124,7 +1124,7 @@
     "submission_id": "SUB-ASN-2026-000098-LRN-2026-000194-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "425",
+    "file_size_kb": 425,
     "file_sha256": "90b450d9ac6fd40836cf9f0a2f391c520f9e9e166d34fe914d36310283a7f51d"
   },
   {
@@ -1132,7 +1132,7 @@
     "submission_id": "SUB-ASN-2026-000098-LRN-2026-000194-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "1669",
+    "file_size_kb": 1669,
     "file_sha256": "79a378717f48df623c674875eb9362ac59fe6300cc8f22bb6a04b0d5f374ceff"
   },
   {
@@ -1140,7 +1140,7 @@
     "submission_id": "SUB-ASN-2026-000099-LRN-2026-000264-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "11309",
+    "file_size_kb": 11309,
     "file_sha256": "3ee21d902e1b26e11241add37c8d35d37a9a3708d50fe620323edd03ada24e65"
   },
   {
@@ -1148,7 +1148,7 @@
     "submission_id": "SUB-ASN-2026-000100-LRN-2026-000169-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "2169",
+    "file_size_kb": 2169,
     "file_sha256": "d6d88007df47b2f72bf984fb8a5e28d9599abf4197bafd0187761565979bf8f2"
   },
   {
@@ -1156,7 +1156,7 @@
     "submission_id": "SUB-ASN-2026-000001-LRN-2026-000422-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "3446",
+    "file_size_kb": 3446,
     "file_sha256": "d2df4e5072d28e0832daefbadb53c12f8e04fdd0f5ef4c7814d76a4570551afb"
   },
   {
@@ -1164,7 +1164,7 @@
     "submission_id": "SUB-ASN-2026-000002-LRN-2026-000106-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "2695",
+    "file_size_kb": 2695,
     "file_sha256": "54992dd5605bd7cd41c51398098148a587f074032781fe8792f599af711a17a4"
   },
   {
@@ -1172,7 +1172,7 @@
     "submission_id": "SUB-ASN-2026-000002-LRN-2026-000106-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "6339",
+    "file_size_kb": 6339,
     "file_sha256": "f04fb0ea181edc4bfcffc89e5cac2cb4f74e19425ad67beb4bf3f3af9d3993f9"
   },
   {
@@ -1180,7 +1180,7 @@
     "submission_id": "SUB-ASN-2026-000003-LRN-2026-000384-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "9639",
+    "file_size_kb": 9639,
     "file_sha256": "6c742b76adf7eb034253d4d656d3c83aea6ce29bc9aa891173d7f7a470603cfd"
   },
   {
@@ -1188,7 +1188,7 @@
     "submission_id": "SUB-ASN-2026-000003-LRN-2026-000384-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "12418",
+    "file_size_kb": 12418,
     "file_sha256": "8cf7f8b2ab58f2a429f50ec04c1d2973526f25e6cdbd03ed1e216e395ecf517c"
   },
   {
@@ -1196,7 +1196,7 @@
     "submission_id": "SUB-ASN-2026-000004-LRN-2026-000313-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "7915",
+    "file_size_kb": 7915,
     "file_sha256": "0c7644382d692003193e47c0ffd2959cdee9b8a0bb62e8b3a2c94e708b1f54e4"
   },
   {
@@ -1204,7 +1204,7 @@
     "submission_id": "SUB-ASN-2026-000004-LRN-2026-000313-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "5409",
+    "file_size_kb": 5409,
     "file_sha256": "fb3c9e6c2f2e916e9328b7c0986d40ae72e5fa147f6f8c6b67d9de4318152256"
   },
   {
@@ -1212,7 +1212,7 @@
     "submission_id": "SUB-ASN-2026-000005-LRN-2026-000035-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "10209",
+    "file_size_kb": 10209,
     "file_sha256": "17583cc79a2d7b4d7a3638982916a447cf878536813d77bb1fbfb9c6b5fe0509"
   },
   {
@@ -1220,7 +1220,7 @@
     "submission_id": "SUB-ASN-2026-000005-LRN-2026-000035-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "6346",
+    "file_size_kb": 6346,
     "file_sha256": "8ad14514a3fad07dbaa401a9cbccbc654beabd85287527d9576dab32d2fc2c30"
   },
   {
@@ -1228,7 +1228,7 @@
     "submission_id": "SUB-ASN-2026-000006-LRN-2026-000401-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "7257",
+    "file_size_kb": 7257,
     "file_sha256": "a41b0bb41008702b306ebd8097a1fc67627feedd02d3c95a6c1b8d89836433b7"
   },
   {
@@ -1236,7 +1236,7 @@
     "submission_id": "SUB-ASN-2026-000006-LRN-2026-000401-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "8040",
+    "file_size_kb": 8040,
     "file_sha256": "9d62cb230d2b5a3cc18d9cebf94e75b69950539128c4c31bef4546dd22b39be6"
   },
   {
@@ -1244,7 +1244,7 @@
     "submission_id": "SUB-ASN-2026-000007-LRN-2026-000057-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "9193",
+    "file_size_kb": 9193,
     "file_sha256": "dc2da8f9c4fb4de65d2bee02782f7e29463eeed6f973d90a11b0ee807a378bfd"
   },
   {
@@ -1252,7 +1252,7 @@
     "submission_id": "SUB-ASN-2026-000008-LRN-2026-000402-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "6833",
+    "file_size_kb": 6833,
     "file_sha256": "6c414f2ce4090f4adb2b398fff4e8f4d0e7f9ccacab73a7d9b2641f0778058e5"
   },
   {
@@ -1260,7 +1260,7 @@
     "submission_id": "SUB-ASN-2026-000009-LRN-2026-000381-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "8901",
+    "file_size_kb": 8901,
     "file_sha256": "60b7879aa38c0c3322b6c02a3407d988c835cefc9fa264eaebc31fdb0b023038"
   },
   {
@@ -1268,7 +1268,7 @@
     "submission_id": "SUB-ASN-2026-000010-LRN-2026-000461-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "4467",
+    "file_size_kb": 4467,
     "file_sha256": "62cd90399f34fecd93bfc61650f19e56d9c8b1083478142748d1f7f40798edb0"
   },
   {
@@ -1276,7 +1276,7 @@
     "submission_id": "SUB-ASN-2026-000011-LRN-2026-000486-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "1512",
+    "file_size_kb": 1512,
     "file_sha256": "ab023501ef14c59021083876be48e60f3a49b02207d0af0b628ce628f097d30e"
   },
   {
@@ -1284,7 +1284,7 @@
     "submission_id": "SUB-ASN-2026-000012-LRN-2026-000010-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "11942",
+    "file_size_kb": 11942,
     "file_sha256": "3ad4da85aae05eb563722f6292bcc0e0d23aa627ab1d1d9a6f25891cd917ce16"
   },
   {
@@ -1292,7 +1292,7 @@
     "submission_id": "SUB-ASN-2026-000013-LRN-2026-000404-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1897",
+    "file_size_kb": 1897,
     "file_sha256": "2767f35637d6e873dbb0772bc4b1b16164260f527445b66fe95935d0c81c6743"
   },
   {
@@ -1300,7 +1300,7 @@
     "submission_id": "SUB-ASN-2026-000013-LRN-2026-000404-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "9271",
+    "file_size_kb": 9271,
     "file_sha256": "9236a1ab20c8f2c9198228512b3c7fe680f69a2613fc0ca64e22f479cf990df1"
   },
   {
@@ -1308,7 +1308,7 @@
     "submission_id": "SUB-ASN-2026-000014-LRN-2026-000423-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "4198",
+    "file_size_kb": 4198,
     "file_sha256": "9c7a370fca070039f22c8fa62a73049eab1d7e46e23ed2d6ee0cf56a8390e123"
   },
   {
@@ -1316,7 +1316,7 @@
     "submission_id": "SUB-ASN-2026-000015-LRN-2026-000156-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "8652",
+    "file_size_kb": 8652,
     "file_sha256": "263d5500b875c52ea2ee608c9a10b40d715a91c8268020ae3cd66363441a78b7"
   },
   {
@@ -1324,7 +1324,7 @@
     "submission_id": "SUB-ASN-2026-000016-LRN-2026-000173-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "9157",
+    "file_size_kb": 9157,
     "file_sha256": "2e3bed2ea82174db0a1622b9cdcf00352b3c96a03293ccded0a746e3dce84436"
   },
   {
@@ -1332,7 +1332,7 @@
     "submission_id": "SUB-ASN-2026-000017-LRN-2026-000248-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "11818",
+    "file_size_kb": 11818,
     "file_sha256": "480f4ad67790d66a2b4e7d46ed53a8ef49ca3c399712d746871deb767a0cdfee"
   },
   {
@@ -1340,7 +1340,7 @@
     "submission_id": "SUB-ASN-2026-000018-LRN-2026-000364-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "5981",
+    "file_size_kb": 5981,
     "file_sha256": "61413afb985e305c721f5b1173ba34346fdea8d2617b3810b6a2f8b15d48b87b"
   },
   {
@@ -1348,7 +1348,7 @@
     "submission_id": "SUB-ASN-2026-000019-LRN-2026-000017-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "141",
+    "file_size_kb": 141,
     "file_sha256": "b08e8a9b425c66c845a7b6907245b6aef64a4a9a60d4365fd4f37889372de896"
   },
   {
@@ -1356,7 +1356,7 @@
     "submission_id": "SUB-ASN-2026-000019-LRN-2026-000017-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "7128",
+    "file_size_kb": 7128,
     "file_sha256": "9a98c84400411cbb9a21b8aae67b785d325cad7e1573ce68ffbef271b0bd0cc2"
   },
   {
@@ -1364,7 +1364,7 @@
     "submission_id": "SUB-ASN-2026-000020-LRN-2026-000408-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "5640",
+    "file_size_kb": 5640,
     "file_sha256": "b66c05a355ea3bf3462a130a8d25a5bfbdaa6acda342de223ce0ff194ebc103c"
   },
   {
@@ -1372,7 +1372,7 @@
     "submission_id": "SUB-ASN-2026-000020-LRN-2026-000408-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "2275",
+    "file_size_kb": 2275,
     "file_sha256": "ac05cc8a2b826b4f2642cd55afcb8b3a3b06b791eba03b2e05f60a5024a36362"
   },
   {
@@ -1380,7 +1380,7 @@
     "submission_id": "SUB-ASN-2026-000021-LRN-2026-000495-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "6965",
+    "file_size_kb": 6965,
     "file_sha256": "6bc85d5504f0a2976c6ed864d15eeb250c53561f0254285ac0c5e567cc81264e"
   },
   {
@@ -1388,7 +1388,7 @@
     "submission_id": "SUB-ASN-2026-000022-LRN-2026-000196-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "673",
+    "file_size_kb": 673,
     "file_sha256": "8d137a3136c2754f1d6dced02d433e0a8fcb001ae5a9fe7c505c4d87a67d959c"
   },
   {
@@ -1396,7 +1396,7 @@
     "submission_id": "SUB-ASN-2026-000022-LRN-2026-000196-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "5681",
+    "file_size_kb": 5681,
     "file_sha256": "e20b2cfcae6a25b797437c5df3aad372ab077dfdee85964fa14965923e17cb60"
   },
   {
@@ -1404,7 +1404,7 @@
     "submission_id": "SUB-ASN-2026-000023-LRN-2026-000200-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "10854",
+    "file_size_kb": 10854,
     "file_sha256": "b16260684b7d504b45fc21a5332222b1c0669e29741cea680ca0b7011391a4fc"
   },
   {
@@ -1412,7 +1412,7 @@
     "submission_id": "SUB-ASN-2026-000024-LRN-2026-000148-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "4796",
+    "file_size_kb": 4796,
     "file_sha256": "94d5fbe524d3e18f6c296466cb95695c24bcca4b71005fcef1e090bc941ef66e"
   },
   {
@@ -1420,7 +1420,7 @@
     "submission_id": "SUB-ASN-2026-000025-LRN-2026-000350-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "8949",
+    "file_size_kb": 8949,
     "file_sha256": "b49c4b6846cd98d2af7169324cbcdb92950e99902f8108186d5d4e23b7e6b48e"
   },
   {
@@ -1428,7 +1428,7 @@
     "submission_id": "SUB-ASN-2026-000026-LRN-2026-000211-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "2863",
+    "file_size_kb": 2863,
     "file_sha256": "78f8b59efcf545caf16e8eb3d46f9e4913c834f6226c5e63776407c6dd8af3fe"
   },
   {
@@ -1436,7 +1436,7 @@
     "submission_id": "SUB-ASN-2026-000027-LRN-2026-000181-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1507",
+    "file_size_kb": 1507,
     "file_sha256": "9dc0719d4ad3e380ed5249e2aab6ea25128215bc6890154d39a02736a0ce5a97"
   },
   {
@@ -1444,7 +1444,7 @@
     "submission_id": "SUB-ASN-2026-000028-LRN-2026-000199-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "11348",
+    "file_size_kb": 11348,
     "file_sha256": "9fdc7dc936f5fe3457ae69abc15436cf2228cdda66cc7596f64d6fba426298b0"
   },
   {
@@ -1452,7 +1452,7 @@
     "submission_id": "SUB-ASN-2026-000029-LRN-2026-000231-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "7839",
+    "file_size_kb": 7839,
     "file_sha256": "df56d5142b82c8ce23df346e31260d2f007202059f81669a8a70a60498b7a2a6"
   },
   {
@@ -1460,7 +1460,7 @@
     "submission_id": "SUB-ASN-2026-000030-LRN-2026-000003-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "1193",
+    "file_size_kb": 1193,
     "file_sha256": "8f84d6ede542a9d673e73a3fabb15fe44bf89c4986a516b5e3af2056fb82025c"
   },
   {
@@ -1468,7 +1468,7 @@
     "submission_id": "SUB-ASN-2026-000030-LRN-2026-000003-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "2976",
+    "file_size_kb": 2976,
     "file_sha256": "32c40d89e655cdbcf72e2b0168f2a7fcb2228272a6bd8f4d18e2350870863d5b"
   },
   {
@@ -1476,7 +1476,7 @@
     "submission_id": "SUB-ASN-2026-000031-LRN-2026-000261-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "187",
+    "file_size_kb": 187,
     "file_sha256": "164cc8cffdc85b5964f475a6b2e9f34439fbd153f7cf4e5371071fb98c374717"
   },
   {
@@ -1484,7 +1484,7 @@
     "submission_id": "SUB-ASN-2026-000032-LRN-2026-000036-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "1590",
+    "file_size_kb": 1590,
     "file_sha256": "e78415c9aed26a22ee5aeb542b57e57936af2538425567aa21de273a0cd873bc"
   },
   {
@@ -1492,7 +1492,7 @@
     "submission_id": "SUB-ASN-2026-000033-LRN-2026-000068-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "9289",
+    "file_size_kb": 9289,
     "file_sha256": "f18a8121a077dc707c80964f94ed5a52defae5996b495c15ec94e6b516b36d2e"
   },
   {
@@ -1500,7 +1500,7 @@
     "submission_id": "SUB-ASN-2026-000034-LRN-2026-000394-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "10191",
+    "file_size_kb": 10191,
     "file_sha256": "4e490f89201f329ede379887f75aa8469cb342474c9908c2912d95ca74f6651f"
   },
   {
@@ -1508,7 +1508,7 @@
     "submission_id": "SUB-ASN-2026-000035-LRN-2026-000080-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "3655",
+    "file_size_kb": 3655,
     "file_sha256": "40190a107b82107b25c3b4ecffacfa1d8318d2e478e02e24c772764f26a5edfa"
   },
   {
@@ -1516,7 +1516,7 @@
     "submission_id": "SUB-ASN-2026-000035-LRN-2026-000080-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "4877",
+    "file_size_kb": 4877,
     "file_sha256": "5ec4d6a8b6366420722c2af97acdce59cb71693284aa400a17c00f241aa9af3e"
   },
   {
@@ -1524,7 +1524,7 @@
     "submission_id": "SUB-ASN-2026-000036-LRN-2026-000239-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "3385",
+    "file_size_kb": 3385,
     "file_sha256": "322fcbd51916b8550580bb9e212add14256c8cb3f909431c7e422e2f54ddc3d7"
   },
   {
@@ -1532,7 +1532,7 @@
     "submission_id": "SUB-ASN-2026-000037-LRN-2026-000047-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "11334",
+    "file_size_kb": 11334,
     "file_sha256": "d0a2455cbf21b2b13eecdb324ec39234ea61596fd815d556a6f9091bb60b65f9"
   },
   {
@@ -1540,7 +1540,7 @@
     "submission_id": "SUB-ASN-2026-000038-LRN-2026-000286-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "5780",
+    "file_size_kb": 5780,
     "file_sha256": "51479da59de8b46a090c45df83660352dd6a6cdd83446184ecee777c4e44ca3b"
   },
   {
@@ -1548,7 +1548,7 @@
     "submission_id": "SUB-ASN-2026-000039-LRN-2026-000191-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "4561",
+    "file_size_kb": 4561,
     "file_sha256": "8b3eaeabc80a3c3f74909002179941507c81a451a17d4b3c98234ebf4559f4c4"
   },
   {
@@ -1556,7 +1556,7 @@
     "submission_id": "SUB-ASN-2026-000039-LRN-2026-000191-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "4820",
+    "file_size_kb": 4820,
     "file_sha256": "45fcbc7370780324efafb4bf66e60d7f678dc30a66346ceedb843af9ae08a3e9"
   },
   {
@@ -1564,7 +1564,7 @@
     "submission_id": "SUB-ASN-2026-000040-LRN-2026-000478-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "2126",
+    "file_size_kb": 2126,
     "file_sha256": "87d87a60965f68debdd01cd211586813b10fe32fd0d732f93bb9f6b830393731"
   },
   {
@@ -1572,7 +1572,7 @@
     "submission_id": "SUB-ASN-2026-000041-LRN-2026-000128-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "11502",
+    "file_size_kb": 11502,
     "file_sha256": "2e071617ba49a9af0ab366f3bd481880978bca585c3abece0918eed779445e82"
   },
   {
@@ -1580,7 +1580,7 @@
     "submission_id": "SUB-ASN-2026-000042-LRN-2026-000305-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "4061",
+    "file_size_kb": 4061,
     "file_sha256": "7b830d018987d4ef4a3595ee54a8d53c44bbdb3ad70a79b864852191ab183482"
   },
   {
@@ -1588,7 +1588,7 @@
     "submission_id": "SUB-ASN-2026-000042-LRN-2026-000305-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "5513",
+    "file_size_kb": 5513,
     "file_sha256": "4233e0512ef20ce0da3e838356ec6223dac22eb31d0c963e0cdb7fd6ffd233c2"
   },
   {
@@ -1596,7 +1596,7 @@
     "submission_id": "SUB-ASN-2026-000043-LRN-2026-000319-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "12112",
+    "file_size_kb": 12112,
     "file_sha256": "83109df7cd520eadf1ed934a0effcec7706ac176080231f1881ad140dd673867"
   },
   {
@@ -1604,7 +1604,7 @@
     "submission_id": "SUB-ASN-2026-000044-LRN-2026-000326-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "7477",
+    "file_size_kb": 7477,
     "file_sha256": "6cc384d2893d1a9920653e8f4cc93872ad992a44276acfa5c254c52e27968a8a"
   },
   {
@@ -1612,7 +1612,7 @@
     "submission_id": "SUB-ASN-2026-000045-LRN-2026-000100-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "6557",
+    "file_size_kb": 6557,
     "file_sha256": "92b5489b904d12610f3db4604af91f47d4c0bab72401e32b749f6b0d65e67209"
   },
   {
@@ -1620,7 +1620,7 @@
     "submission_id": "SUB-ASN-2026-000046-LRN-2026-000274-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "545",
+    "file_size_kb": 545,
     "file_sha256": "a90cb0ae8563fcac92816e9f8e498d4379b54fdcac648f3c459d2faef6bf63fc"
   },
   {
@@ -1628,7 +1628,7 @@
     "submission_id": "SUB-ASN-2026-000047-LRN-2026-000299-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "1283",
+    "file_size_kb": 1283,
     "file_sha256": "235e0f92d55274f3250b2c4c9ca1f0d491088c2dfdc13241a0e664e433c7d000"
   },
   {
@@ -1636,7 +1636,7 @@
     "submission_id": "SUB-ASN-2026-000048-LRN-2026-000149-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "2175",
+    "file_size_kb": 2175,
     "file_sha256": "9d1b350718281eb43a129d31583a329d570505e42a7c506d965e5364bd2e2176"
   },
   {
@@ -1644,7 +1644,7 @@
     "submission_id": "SUB-ASN-2026-000049-LRN-2026-000271-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "4493",
+    "file_size_kb": 4493,
     "file_sha256": "af7a95d1fb56c2310bb7de4251289832dd35641d345b327fd62ed0db6da25fb3"
   },
   {
@@ -1652,7 +1652,7 @@
     "submission_id": "SUB-ASN-2026-000050-LRN-2026-000476-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "4618",
+    "file_size_kb": 4618,
     "file_sha256": "12c19cc67a648a5fac26ac7622bef5ff739c81c548fd85633134a1c3c258965a"
   },
   {
@@ -1660,7 +1660,7 @@
     "submission_id": "SUB-ASN-2026-000051-LRN-2026-000470-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "11688",
+    "file_size_kb": 11688,
     "file_sha256": "6c3fe2563135faa2b92ebd6171ceab1ca2238f3d892405ce667427780b4628bf"
   },
   {
@@ -1668,7 +1668,7 @@
     "submission_id": "SUB-ASN-2026-000052-LRN-2026-000194-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "9503",
+    "file_size_kb": 9503,
     "file_sha256": "26341f816f973c0d215b344b222965425bd49108f9b2526cb3b8632a6a947feb"
   },
   {
@@ -1676,7 +1676,7 @@
     "submission_id": "SUB-ASN-2026-000053-LRN-2026-000384-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "2578",
+    "file_size_kb": 2578,
     "file_sha256": "a19c4b9f2eb9b9f000fde1ced1866aa2e6dba8836ca0e4825d5b0b2c30413959"
   },
   {
@@ -1684,7 +1684,7 @@
     "submission_id": "SUB-ASN-2026-000054-LRN-2026-000408-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "9260",
+    "file_size_kb": 9260,
     "file_sha256": "473699fc70ae27ec8b640ab603b053f9ede551a36d0b7cc71fdb966ed77e89ad"
   },
   {
@@ -1692,7 +1692,7 @@
     "submission_id": "SUB-ASN-2026-000055-LRN-2026-000006-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "10615",
+    "file_size_kb": 10615,
     "file_sha256": "d96b5805a548b61120f643bcb304ced2ed1fa10721ab07ebb4fd710296cbe7c0"
   },
   {
@@ -1700,7 +1700,7 @@
     "submission_id": "SUB-ASN-2026-000055-LRN-2026-000006-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "5667",
+    "file_size_kb": 5667,
     "file_sha256": "be2f0dc1328fb105dc6712ca2761fceb2c002a14d95aa58865724004288f5547"
   },
   {
@@ -1708,7 +1708,7 @@
     "submission_id": "SUB-ASN-2026-000056-LRN-2026-000401-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "4041",
+    "file_size_kb": 4041,
     "file_sha256": "fcd2591c24816e7d17d9296ffca5433452fba8347a85e3d78d58a949d701ff61"
   },
   {
@@ -1716,7 +1716,7 @@
     "submission_id": "SUB-ASN-2026-000057-LRN-2026-000434-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "5775",
+    "file_size_kb": 5775,
     "file_sha256": "3fbddc673a2fded2ab6307682118969d7451c6cd07afda420f8b1298624883cf"
   },
   {
@@ -1724,7 +1724,7 @@
     "submission_id": "SUB-ASN-2026-000058-LRN-2026-000397-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "4124",
+    "file_size_kb": 4124,
     "file_sha256": "57d2450b379c219c850d9e91423639a69d2ec3c75f3f2c8a6b27859d1ca17129"
   },
   {
@@ -1732,7 +1732,7 @@
     "submission_id": "SUB-ASN-2026-000058-LRN-2026-000397-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "10043",
+    "file_size_kb": 10043,
     "file_sha256": "f6a20e3a7e50ea786e42dea9076cde20e6c682faf51186fbb01d8180fbf548fc"
   },
   {
@@ -1740,7 +1740,7 @@
     "submission_id": "SUB-ASN-2026-000059-LRN-2026-000180-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "1773",
+    "file_size_kb": 1773,
     "file_sha256": "9dc969b3c2c32fc2855c0611c4189fd33bf00bcb9fc789b5bb4dd551906edaf9"
   },
   {
@@ -1748,7 +1748,7 @@
     "submission_id": "SUB-ASN-2026-000059-LRN-2026-000180-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "7598",
+    "file_size_kb": 7598,
     "file_sha256": "4847317a71fea9ca7fc645b34ca52762509b822f931c7e0843e93fa15b0de5e6"
   },
   {
@@ -1756,7 +1756,7 @@
     "submission_id": "SUB-ASN-2026-000060-LRN-2026-000277-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "8165",
+    "file_size_kb": 8165,
     "file_sha256": "9fc78e7b6cf63230fdb429c423faf68e7e7553a40474c7b0bd03d75c5db02528"
   },
   {
@@ -1764,7 +1764,7 @@
     "submission_id": "SUB-ASN-2026-000060-LRN-2026-000277-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "11375",
+    "file_size_kb": 11375,
     "file_sha256": "ca25dbb1e7d143c2aaa2b0c779e424abf393ed8a97501241f50ec6c557d375e7"
   },
   {
@@ -1772,7 +1772,7 @@
     "submission_id": "SUB-ASN-2026-000061-LRN-2026-000196-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "4574",
+    "file_size_kb": 4574,
     "file_sha256": "5d1cd53e44bf368bdbc4c52c003ed3c1e1f5ea105708f6e131b3d878abd0b945"
   },
   {
@@ -1780,7 +1780,7 @@
     "submission_id": "SUB-ASN-2026-000061-LRN-2026-000196-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "786",
+    "file_size_kb": 786,
     "file_sha256": "dfcb7ebc9a41bfb3548d478d24c36aa9134eb3f14a6421acba290aec909d546d"
   },
   {
@@ -1788,7 +1788,7 @@
     "submission_id": "SUB-ASN-2026-000062-LRN-2026-000197-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "4459",
+    "file_size_kb": 4459,
     "file_sha256": "70d73ad51a75ad56973188d9e4ea278d58823d0fd2db4e9e194d389f8ef33035"
   },
   {
@@ -1796,7 +1796,7 @@
     "submission_id": "SUB-ASN-2026-000063-LRN-2026-000498-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "3407",
+    "file_size_kb": 3407,
     "file_sha256": "7280b120e0c731e97d81ec6996b30faf36adc27b76350c53bf2f8c2b6eb4cfb7"
   },
   {
@@ -1804,7 +1804,7 @@
     "submission_id": "SUB-ASN-2026-000063-LRN-2026-000498-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "1810",
+    "file_size_kb": 1810,
     "file_sha256": "2414dd67b5a5d8123d2d2229a56ab31200fefb1a8a56a3ca60054c39255b8e20"
   },
   {
@@ -1812,7 +1812,7 @@
     "submission_id": "SUB-ASN-2026-000064-LRN-2026-000410-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "7373",
+    "file_size_kb": 7373,
     "file_sha256": "fcb523adc149662d7210533d872420c4e638303c8a160e9af2180ed5aaabbf3a"
   },
   {
@@ -1820,7 +1820,7 @@
     "submission_id": "SUB-ASN-2026-000065-LRN-2026-000288-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "404",
+    "file_size_kb": 404,
     "file_sha256": "81c9daa2b93fd4324c3d5b793d0b1090d895cea5a4d14d4a0649eb92982c5e54"
   },
   {
@@ -1828,7 +1828,7 @@
     "submission_id": "SUB-ASN-2026-000066-LRN-2026-000475-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "2632",
+    "file_size_kb": 2632,
     "file_sha256": "b03751e3fc005366e15b9aedddbd5a25f86b076e28dc7d0586d9934cea503c30"
   },
   {
@@ -1836,7 +1836,7 @@
     "submission_id": "SUB-ASN-2026-000067-LRN-2026-000073-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "11913",
+    "file_size_kb": 11913,
     "file_sha256": "badcd19661009ca767fe5bede575e6cfc4d24c519f7ab8c5d8f1bfcc323adc50"
   },
   {
@@ -1844,7 +1844,7 @@
     "submission_id": "SUB-ASN-2026-000067-LRN-2026-000073-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "7806",
+    "file_size_kb": 7806,
     "file_sha256": "bf99cd4cfeb0fe926be186e924269529344a53258a4d75a7ffd9ef0fdf01d499"
   },
   {
@@ -1852,7 +1852,7 @@
     "submission_id": "SUB-ASN-2026-000068-LRN-2026-000120-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "10233",
+    "file_size_kb": 10233,
     "file_sha256": "6bf4de7abe58fb471dee6eedaf466620c331f4dc6610879b842413eb51f21fde"
   },
   {
@@ -1860,7 +1860,7 @@
     "submission_id": "SUB-ASN-2026-000068-LRN-2026-000120-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "5699",
+    "file_size_kb": 5699,
     "file_sha256": "62340c43237cd9328d5ef76d11c61e4f366575ad65ac297c5bddf0cdc15efd8e"
   },
   {
@@ -1868,7 +1868,7 @@
     "submission_id": "SUB-ASN-2026-000069-LRN-2026-000161-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "1434",
+    "file_size_kb": 1434,
     "file_sha256": "aee8325ec92915794ed4a184471284418377a7203c93d611a5592ac7bec5757f"
   },
   {
@@ -1876,7 +1876,7 @@
     "submission_id": "SUB-ASN-2026-000070-LRN-2026-000035-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "241",
+    "file_size_kb": 241,
     "file_sha256": "4a765a9b8c3487f9762e3eb30d78726c6652b1154423b5f454cde8050a3ace4c"
   },
   {
@@ -1884,7 +1884,7 @@
     "submission_id": "SUB-ASN-2026-000071-LRN-2026-000438-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "5075",
+    "file_size_kb": 5075,
     "file_sha256": "a38a690d0276a9172f73bece2dffc56bebafe1510ddd3795f20a6da15b40ae44"
   },
   {
@@ -1892,7 +1892,7 @@
     "submission_id": "SUB-ASN-2026-000072-LRN-2026-000359-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "11877",
+    "file_size_kb": 11877,
     "file_sha256": "ac77d799d21d340294de4f2394d0c7a436ec17b09706b6cb2873b83d4b2fcb69"
   },
   {
@@ -1900,7 +1900,7 @@
     "submission_id": "SUB-ASN-2026-000072-LRN-2026-000359-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "5083",
+    "file_size_kb": 5083,
     "file_sha256": "0fe81dbdc7af329303e054cfd5244af3a991388a0cb5048f98bad784af229860"
   },
   {
@@ -1908,7 +1908,7 @@
     "submission_id": "SUB-ASN-2026-000073-LRN-2026-000460-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "3424",
+    "file_size_kb": 3424,
     "file_sha256": "06d999348d3edfb69153da68646f75e45d6f811845b1cf0af429bbe98bccb2e0"
   },
   {
@@ -1916,7 +1916,7 @@
     "submission_id": "SUB-ASN-2026-000073-LRN-2026-000460-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "10987",
+    "file_size_kb": 10987,
     "file_sha256": "fc3e59a58fa6d53b4d06fde6c29d97e1ee2d2efb221c438cc1a4db40c44d7276"
   },
   {
@@ -1924,7 +1924,7 @@
     "submission_id": "SUB-ASN-2026-000074-LRN-2026-000003-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "3629",
+    "file_size_kb": 3629,
     "file_sha256": "6471ad2bdb49e8eaa2d7c5f01785b9d7e8e4a49947917fdbd15dd9d924c2ef9c"
   },
   {
@@ -1932,7 +1932,7 @@
     "submission_id": "SUB-ASN-2026-000075-LRN-2026-000104-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "9991",
+    "file_size_kb": 9991,
     "file_sha256": "020137096200cdd0a0e1305ba49ff8835aaff650781e86aa92349fb82b42bdeb"
   },
   {
@@ -1940,7 +1940,7 @@
     "submission_id": "SUB-ASN-2026-000076-LRN-2026-000231-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "8052",
+    "file_size_kb": 8052,
     "file_sha256": "4f6b184ef6f2e23ff203e4d899b66b867e731f8b0ed2ef39476823530eb8189a"
   },
   {
@@ -1948,7 +1948,7 @@
     "submission_id": "SUB-ASN-2026-000077-LRN-2026-000078-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "11738",
+    "file_size_kb": 11738,
     "file_sha256": "53f1cf5bb7206afe51b3c070fc5d0566e0e773970cc61ea346b7ae9f4e9848ed"
   },
   {
@@ -1956,7 +1956,7 @@
     "submission_id": "SUB-ASN-2026-000077-LRN-2026-000078-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "11783",
+    "file_size_kb": 11783,
     "file_sha256": "0c114a9474d651ffc6ad40580449c237fdab4b96f6c14f901a6f44d6b6ed6022"
   },
   {
@@ -1964,7 +1964,7 @@
     "submission_id": "SUB-ASN-2026-000078-LRN-2026-000497-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "10952",
+    "file_size_kb": 10952,
     "file_sha256": "355da5310f7381a1662d117b086223a689bd21ef45b4ba4536220d6b2077247a"
   },
   {
@@ -1972,7 +1972,7 @@
     "submission_id": "SUB-ASN-2026-000078-LRN-2026-000497-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "1062",
+    "file_size_kb": 1062,
     "file_sha256": "0678ad3e4338ba8dd110674e8b443cdb986177c21ff59efe9240d7bcea6e6a95"
   },
   {
@@ -1980,7 +1980,7 @@
     "submission_id": "SUB-ASN-2026-000079-LRN-2026-000286-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "5552",
+    "file_size_kb": 5552,
     "file_sha256": "646c614d61e47d7945b930c3306ca04700a9a43c9f248a9c54d72e793bbe0194"
   },
   {
@@ -1988,7 +1988,7 @@
     "submission_id": "SUB-ASN-2026-000080-LRN-2026-000012-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "10262",
+    "file_size_kb": 10262,
     "file_sha256": "96f39a5bee2c53d1bf4648414e668fdbb9d3c931bd687258d3a06f96d83f9a42"
   },
   {
@@ -1996,7 +1996,7 @@
     "submission_id": "SUB-ASN-2026-000081-LRN-2026-000342-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "1036",
+    "file_size_kb": 1036,
     "file_sha256": "709523e8802d172e193f5b7428b13a5da1cfaaf1824078a9b6fa6def550cbc46"
   },
   {
@@ -2004,7 +2004,7 @@
     "submission_id": "SUB-ASN-2026-000082-LRN-2026-000370-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "2942",
+    "file_size_kb": 2942,
     "file_sha256": "e0ed408b717437cd1b12f472a4a8d47024591befca9c21e291e1cffd2ebbf042"
   },
   {
@@ -2012,7 +2012,7 @@
     "submission_id": "SUB-ASN-2026-000082-LRN-2026-000370-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "8621",
+    "file_size_kb": 8621,
     "file_sha256": "5fef614d3658423f51b813e2d6365a40f7be1271ad5f937e13403bcf1a974411"
   },
   {
@@ -2020,7 +2020,7 @@
     "submission_id": "SUB-ASN-2026-000083-LRN-2026-000311-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "11425",
+    "file_size_kb": 11425,
     "file_sha256": "5ac45a6d5b09072d4d937fc699eb5d78ade8b116703149fdd663c404255090b9"
   },
   {
@@ -2028,7 +2028,7 @@
     "submission_id": "SUB-ASN-2026-000084-LRN-2026-000415-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "10584",
+    "file_size_kb": 10584,
     "file_sha256": "c03bbc165ac85df95682aed6f0284d24564e117ff14ade81ef295edb3baa4b15"
   },
   {
@@ -2036,7 +2036,7 @@
     "submission_id": "SUB-ASN-2026-000085-LRN-2026-000203-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "7166",
+    "file_size_kb": 7166,
     "file_sha256": "7af48268fd535e7462c27721bea6fbc9509bef902755972a63b359cba5d29a83"
   },
   {
@@ -2044,7 +2044,7 @@
     "submission_id": "SUB-ASN-2026-000086-LRN-2026-000239-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "2526",
+    "file_size_kb": 2526,
     "file_sha256": "40bb4601592e1d627edb8d077ff87396c8b5025f4d9df696e87f8064aece8cbd"
   },
   {
@@ -2052,7 +2052,7 @@
     "submission_id": "SUB-ASN-2026-000087-LRN-2026-000047-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "11070",
+    "file_size_kb": 11070,
     "file_sha256": "ba76e85cbbb9475f8edbb1e6c977ecb4b6f6957818ea9fea712bbf0e9e5d6855"
   },
   {
@@ -2060,7 +2060,7 @@
     "submission_id": "SUB-ASN-2026-000088-LRN-2026-000176-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "3855",
+    "file_size_kb": 3855,
     "file_sha256": "989b3d152ee99a8e676d4b831dedbc3690050979817d4d8a55f3b13a007a364d"
   },
   {
@@ -2068,7 +2068,7 @@
     "submission_id": "SUB-ASN-2026-000089-LRN-2026-000232-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1354",
+    "file_size_kb": 1354,
     "file_sha256": "126473f15287d4aeb45490c9751d75804a793a75156c9fd321be011b069637cf"
   },
   {
@@ -2076,7 +2076,7 @@
     "submission_id": "SUB-ASN-2026-000089-LRN-2026-000232-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "718",
+    "file_size_kb": 718,
     "file_sha256": "29572c282540757c133bc26be6993ef2d53b0645e4efc68141a6709159813c43"
   },
   {
@@ -2084,7 +2084,7 @@
     "submission_id": "SUB-ASN-2026-000090-LRN-2026-000435-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "12463",
+    "file_size_kb": 12463,
     "file_sha256": "e335ce80bcfaa1f4d086356fcd73dc1587ac20ae82d5eb0a4d6bfc2f3c0db072"
   },
   {
@@ -2092,7 +2092,7 @@
     "submission_id": "SUB-ASN-2026-000091-LRN-2026-000366-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "3890",
+    "file_size_kb": 3890,
     "file_sha256": "e89af0acdff89e30f45c6f7592982a823d43e38e36fa673e2b2956e7780e37d4"
   },
   {
@@ -2100,7 +2100,7 @@
     "submission_id": "SUB-ASN-2026-000091-LRN-2026-000366-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "3815",
+    "file_size_kb": 3815,
     "file_sha256": "f099291795fa5ed250e810ef34a383898a52b1b1b89138676bdc8afb5315e03f"
   },
   {
@@ -2108,7 +2108,7 @@
     "submission_id": "SUB-ASN-2026-000092-LRN-2026-000305-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "4320",
+    "file_size_kb": 4320,
     "file_sha256": "c84fa8cdf65221b413af3c392c19cf97892dd3879ead4d61625c6edbb9acd86d"
   },
   {
@@ -2116,7 +2116,7 @@
     "submission_id": "SUB-ASN-2026-000093-LRN-2026-000130-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "5966",
+    "file_size_kb": 5966,
     "file_sha256": "28490ee71b781979e3f84e9c4c31e9aa706da7a102401a090051ab272e8a98a7"
   },
   {
@@ -2124,7 +2124,7 @@
     "submission_id": "SUB-ASN-2026-000094-LRN-2026-000135-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "6374",
+    "file_size_kb": 6374,
     "file_sha256": "afc84e4a2ed7bddaeb13210b7702ff28359eecd1b4e173dcf095d43186b38c59"
   },
   {
@@ -2132,7 +2132,7 @@
     "submission_id": "SUB-ASN-2026-000094-LRN-2026-000135-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "1716",
+    "file_size_kb": 1716,
     "file_sha256": "5c7cfaa7c40928438c3a87275c14bd5a622c70bf5e3ba9c4acaf61af0109cac4"
   },
   {
@@ -2140,7 +2140,7 @@
     "submission_id": "SUB-ASN-2026-000095-LRN-2026-000150-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "10965",
+    "file_size_kb": 10965,
     "file_sha256": "8632c4ed3bf747d7d5b5c9d413f4962f0d64a800a549c0c361c5000b107a258b"
   },
   {
@@ -2148,7 +2148,7 @@
     "submission_id": "SUB-ASN-2026-000095-LRN-2026-000150-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "863",
+    "file_size_kb": 863,
     "file_sha256": "affddb36dac6137ddf4f987160b3e940bb8cafffdea496480a4a886ab70c396d"
   },
   {
@@ -2156,7 +2156,7 @@
     "submission_id": "SUB-ASN-2026-000096-LRN-2026-000239-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "3032",
+    "file_size_kb": 3032,
     "file_sha256": "e2fbbbcbd0dd0ac172bdfa839ad1724d292d9f5a9eb29f2d856a91efc17d7de3"
   },
   {
@@ -2164,7 +2164,7 @@
     "submission_id": "SUB-ASN-2026-000097-LRN-2026-000162-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "8652",
+    "file_size_kb": 8652,
     "file_sha256": "ec6016091cc6a9483d358f67a4faeb4aeec754c2cb18423cd688e2052657db1a"
   },
   {
@@ -2172,7 +2172,7 @@
     "submission_id": "SUB-ASN-2026-000097-LRN-2026-000162-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "7237",
+    "file_size_kb": 7237,
     "file_sha256": "bc27effaef1408ef4c1564dba8b5dbf07b5ec0fdfea72f67c339c0ce4664f4a8"
   },
   {
@@ -2180,7 +2180,7 @@
     "submission_id": "SUB-ASN-2026-000098-LRN-2026-000283-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "8915",
+    "file_size_kb": 8915,
     "file_sha256": "a37f31b53d2e2cce952944fe170825b7cc1ebb17817199bc237eb62388f6ada3"
   },
   {
@@ -2188,7 +2188,7 @@
     "submission_id": "SUB-ASN-2026-000098-LRN-2026-000283-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "4335",
+    "file_size_kb": 4335,
     "file_sha256": "1fa1586ae45f5def58d4bb55ae20fe5bca8f495487fc373213fb1ce385787a7f"
   },
   {
@@ -2196,7 +2196,7 @@
     "submission_id": "SUB-ASN-2026-000099-LRN-2026-000173-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "5632",
+    "file_size_kb": 5632,
     "file_sha256": "5f98319e2e45aa4a71c286a4805fe4a1fc8a22248cee5a12e9b8285471e3bada"
   },
   {
@@ -2204,7 +2204,7 @@
     "submission_id": "SUB-ASN-2026-000100-LRN-2026-000373-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "5797",
+    "file_size_kb": 5797,
     "file_sha256": "304511d6d643ae02abbebaef4c5b970e0b95979a524713c7d744cb0a1c7ac043"
   },
   {
@@ -2212,7 +2212,7 @@
     "submission_id": "SUB-ASN-2026-000001-LRN-2026-000140-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "3098",
+    "file_size_kb": 3098,
     "file_sha256": "f38a02340e26ab598f204be649891c31eba4061b48a1fa29cf5fefd7ac48c96f"
   },
   {
@@ -2220,7 +2220,7 @@
     "submission_id": "SUB-ASN-2026-000002-LRN-2026-000301-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "1578",
+    "file_size_kb": 1578,
     "file_sha256": "c76f7b6f9e240a22f9134445c12c1f87dd1e24567f9b07a9996296c6d78fcd12"
   },
   {
@@ -2228,7 +2228,7 @@
     "submission_id": "SUB-ASN-2026-000003-LRN-2026-000412-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "8661",
+    "file_size_kb": 8661,
     "file_sha256": "0d9f57a8656a632b35bce57d8ef03046b92587bcab14770392d77e98921187a3"
   },
   {
@@ -2236,7 +2236,7 @@
     "submission_id": "SUB-ASN-2026-000004-LRN-2026-000140-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "5155",
+    "file_size_kb": 5155,
     "file_sha256": "079b237291aa87317a62e04aa4e88184aa44459de89f841858bbb854682edb70"
   },
   {
@@ -2244,7 +2244,7 @@
     "submission_id": "SUB-ASN-2026-000005-LRN-2026-000103-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "8055",
+    "file_size_kb": 8055,
     "file_sha256": "3a3e52a3f5c1aaf632fc2a6d6abc652ac8ebb46bdb444c925dac9136ca1f7589"
   },
   {
@@ -2252,7 +2252,7 @@
     "submission_id": "SUB-ASN-2026-000006-LRN-2026-000088-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "7448",
+    "file_size_kb": 7448,
     "file_sha256": "afd1b5c54d1c8c84b79c0a89e681c736fb1e474c5ed7afb3b96486b611d77abf"
   },
   {
@@ -2260,7 +2260,7 @@
     "submission_id": "SUB-ASN-2026-000006-LRN-2026-000088-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "5535",
+    "file_size_kb": 5535,
     "file_sha256": "29a045176d2f67fd1c0bcec14e251cfb7d4fe6aeaa8c4212a236a2e423a0ceab"
   },
   {
@@ -2268,7 +2268,7 @@
     "submission_id": "SUB-ASN-2026-000007-LRN-2026-000355-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "5352",
+    "file_size_kb": 5352,
     "file_sha256": "a03a269f93158599dc8d9f294530af42636df89b82c73eb11e8f8d87ad544ca4"
   },
   {
@@ -2276,7 +2276,7 @@
     "submission_id": "SUB-ASN-2026-000007-LRN-2026-000355-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "9211",
+    "file_size_kb": 9211,
     "file_sha256": "99241ff6b1af5d878492d71ae516dbb5b01807f8381a33c3df379edb3ed4ae0b"
   },
   {
@@ -2284,7 +2284,7 @@
     "submission_id": "SUB-ASN-2026-000008-LRN-2026-000427-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "2798",
+    "file_size_kb": 2798,
     "file_sha256": "9e2269a874c79a9afd28ad5fd2a7c39aae4841669986a6dfa83d83be6ea991b0"
   },
   {
@@ -2292,7 +2292,7 @@
     "submission_id": "SUB-ASN-2026-000009-LRN-2026-000259-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "3503",
+    "file_size_kb": 3503,
     "file_sha256": "a112d9a1831f77e6893ecf8d8316c8cc23ab86d797f3c757a645db724b452056"
   },
   {
@@ -2300,7 +2300,7 @@
     "submission_id": "SUB-ASN-2026-000009-LRN-2026-000259-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "524",
+    "file_size_kb": 524,
     "file_sha256": "802da6912c2da1e1c5ca4bee394603d2fdb691519af58e6f407aee4b453f622e"
   },
   {
@@ -2308,7 +2308,7 @@
     "submission_id": "SUB-ASN-2026-000010-LRN-2026-000166-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "3642",
+    "file_size_kb": 3642,
     "file_sha256": "4a141751fb0d7b447f6597a951df75812035e8f6e5233d429e01934a2f81e820"
   },
   {
@@ -2316,7 +2316,7 @@
     "submission_id": "SUB-ASN-2026-000011-LRN-2026-000053-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "10762",
+    "file_size_kb": 10762,
     "file_sha256": "b77928fbd976f35c5ef3ee9a4ddfd6dc331e213faa290d418a4e3aeaa8789c70"
   },
   {
@@ -2324,7 +2324,7 @@
     "submission_id": "SUB-ASN-2026-000012-LRN-2026-000451-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "294",
+    "file_size_kb": 294,
     "file_sha256": "42d87e826b1a3f143e33496343e58b082be0851fa4d019ffebf68adfece7c283"
   },
   {
@@ -2332,7 +2332,7 @@
     "submission_id": "SUB-ASN-2026-000013-LRN-2026-000091-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "8489",
+    "file_size_kb": 8489,
     "file_sha256": "f1002b97aaec543119a75dab4be482042bf6b0fb4014f6c63fa031ff2ec232ff"
   },
   {
@@ -2340,7 +2340,7 @@
     "submission_id": "SUB-ASN-2026-000014-LRN-2026-000045-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "9515",
+    "file_size_kb": 9515,
     "file_sha256": "831a22681760a41dd854551b632dea011940e9585efcc130d8d362e19bdd8c2a"
   },
   {
@@ -2348,7 +2348,7 @@
     "submission_id": "SUB-ASN-2026-000015-LRN-2026-000163-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "8503",
+    "file_size_kb": 8503,
     "file_sha256": "b7db0dec9459aa338744e1e42cac3d8b2d8d744b8539d8f4bfc61539b658a8b5"
   },
   {
@@ -2356,7 +2356,7 @@
     "submission_id": "SUB-ASN-2026-000015-LRN-2026-000163-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "11862",
+    "file_size_kb": 11862,
     "file_sha256": "eeff8739cfe0c98cd487477a6e8165bb9a1496115713e5fa76042a02fde7298e"
   },
   {
@@ -2364,7 +2364,7 @@
     "submission_id": "SUB-ASN-2026-000016-LRN-2026-000288-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1259",
+    "file_size_kb": 1259,
     "file_sha256": "56f9a8ebe6d1e347f5cec830b4baf8113e6193b955dea7338248882768cea68b"
   },
   {
@@ -2372,7 +2372,7 @@
     "submission_id": "SUB-ASN-2026-000016-LRN-2026-000288-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "2557",
+    "file_size_kb": 2557,
     "file_sha256": "1f428a43aeccdbb9e912d709491aba0a4a6aa502bc40f94bd97bfbd98412c885"
   },
   {
@@ -2380,7 +2380,7 @@
     "submission_id": "SUB-ASN-2026-000017-LRN-2026-000234-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "6739",
+    "file_size_kb": 6739,
     "file_sha256": "3eb8c6ce84b2ea4bb392f83acfc8b6c7cc5316a2cc66f0f0e76067961f667e7d"
   },
   {
@@ -2388,7 +2388,7 @@
     "submission_id": "SUB-ASN-2026-000017-LRN-2026-000234-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "5568",
+    "file_size_kb": 5568,
     "file_sha256": "14f86e4891820249b13072ade55bba359598111bbe78395114539035fa2c0024"
   },
   {
@@ -2396,7 +2396,7 @@
     "submission_id": "SUB-ASN-2026-000018-LRN-2026-000157-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "4897",
+    "file_size_kb": 4897,
     "file_sha256": "46872574707415110e2917190a77d73bc487c14e8838fb82e321e6921d2f26ea"
   },
   {
@@ -2404,7 +2404,7 @@
     "submission_id": "SUB-ASN-2026-000019-LRN-2026-000414-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "1706",
+    "file_size_kb": 1706,
     "file_sha256": "3845b5e4fcad81cf0f03deec7303a98f9bed3d46a505231cfe5e4f481cedadcf"
   },
   {
@@ -2412,7 +2412,7 @@
     "submission_id": "SUB-ASN-2026-000019-LRN-2026-000414-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "8548",
+    "file_size_kb": 8548,
     "file_sha256": "28eb87f16082cb722c044f4b92e095750cd243e43288778b4b6ccbb4ba2d3f0e"
   },
   {
@@ -2420,7 +2420,7 @@
     "submission_id": "SUB-ASN-2026-000020-LRN-2026-000414-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "11493",
+    "file_size_kb": 11493,
     "file_sha256": "496a947450af4db6fa8e8c18c330147add79edfc4b2a3a48db55a05498d0259e"
   },
   {
@@ -2428,7 +2428,7 @@
     "submission_id": "SUB-ASN-2026-000020-LRN-2026-000414-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "5004",
+    "file_size_kb": 5004,
     "file_sha256": "b8657f46f165c6627b8d4e1690d296b284336d0683a9a52090df11da53e6dca6"
   },
   {
@@ -2436,7 +2436,7 @@
     "submission_id": "SUB-ASN-2026-000021-LRN-2026-000121-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "4124",
+    "file_size_kb": 4124,
     "file_sha256": "310898df2ce6b65c407247fc6955f01ae78314e263f87ab334ae39f3618b2276"
   },
   {
@@ -2444,7 +2444,7 @@
     "submission_id": "SUB-ASN-2026-000021-LRN-2026-000121-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "9110",
+    "file_size_kb": 9110,
     "file_sha256": "9cb2b1f36edc9e46cccd87b457a2c8e29cef88d0bc66cf2c904460505585894d"
   },
   {
@@ -2452,7 +2452,7 @@
     "submission_id": "SUB-ASN-2026-000022-LRN-2026-000285-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "5029",
+    "file_size_kb": 5029,
     "file_sha256": "d0498b48e6d45293051a3715b2bf638bb2e88dacddcf469f8e33b7c601a8631d"
   },
   {
@@ -2460,7 +2460,7 @@
     "submission_id": "SUB-ASN-2026-000023-LRN-2026-000184-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "10128",
+    "file_size_kb": 10128,
     "file_sha256": "b61c97bc1e9c35141a98faaf0657352045cb9a467ff4112caa64e53a8296dd75"
   },
   {
@@ -2468,7 +2468,7 @@
     "submission_id": "SUB-ASN-2026-000024-LRN-2026-000241-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "3660",
+    "file_size_kb": 3660,
     "file_sha256": "aacb24014de53a69e734d88b400caf01634da861a47865910d4aaae7e2e98154"
   },
   {
@@ -2476,7 +2476,7 @@
     "submission_id": "SUB-ASN-2026-000025-LRN-2026-000074-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "8043",
+    "file_size_kb": 8043,
     "file_sha256": "c54f98fbd637f6ded8e8db9fed751934512c8288ead394c87b1d6851d22b22f6"
   },
   {
@@ -2484,7 +2484,7 @@
     "submission_id": "SUB-ASN-2026-000026-LRN-2026-000218-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "3651",
+    "file_size_kb": 3651,
     "file_sha256": "9728d3ee38a6eda434b456bf5366239e0df058a90eb73994535faef078dbf9b5"
   },
   {
@@ -2492,7 +2492,7 @@
     "submission_id": "SUB-ASN-2026-000026-LRN-2026-000218-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "9738",
+    "file_size_kb": 9738,
     "file_sha256": "e795cc40a26e5378181720c336e7f2baa8a333c6a120d2c8f17a0cdbdca64b98"
   },
   {
@@ -2500,7 +2500,7 @@
     "submission_id": "SUB-ASN-2026-000027-LRN-2026-000338-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "4977",
+    "file_size_kb": 4977,
     "file_sha256": "c32cc7f3a91804abd19fbdd9a8702e1a96f1cbaf39575ac5db4947b084176e53"
   },
   {
@@ -2508,7 +2508,7 @@
     "submission_id": "SUB-ASN-2026-000027-LRN-2026-000338-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "12298",
+    "file_size_kb": 12298,
     "file_sha256": "629c490cba7c7cd545cb713ca086c8a7cfde1e434d18347d1409659172469d24"
   },
   {
@@ -2516,7 +2516,7 @@
     "submission_id": "SUB-ASN-2026-000028-LRN-2026-000472-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "4336",
+    "file_size_kb": 4336,
     "file_sha256": "740f84405a65919c4732a537465b8d328bea6b3ec76feb519f126f8d0662771c"
   },
   {
@@ -2524,7 +2524,7 @@
     "submission_id": "SUB-ASN-2026-000028-LRN-2026-000472-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "2937",
+    "file_size_kb": 2937,
     "file_sha256": "ae17aba230a8121cce142a0aeabad2d9307ddc5ba630b47821c241dde3723f7e"
   },
   {
@@ -2532,7 +2532,7 @@
     "submission_id": "SUB-ASN-2026-000029-LRN-2026-000498-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "8807",
+    "file_size_kb": 8807,
     "file_sha256": "64493c8bc9f9ea181eb393bc8b36a70a71275dc82cd107ad92b0b6f018902ecf"
   },
   {
@@ -2540,7 +2540,7 @@
     "submission_id": "SUB-ASN-2026-000030-LRN-2026-000190-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "7498",
+    "file_size_kb": 7498,
     "file_sha256": "7943b8d276e52b4e9cdbf25412e287ebf07b6384ef73845880287c0d842d5b35"
   },
   {
@@ -2548,7 +2548,7 @@
     "submission_id": "SUB-ASN-2026-000031-LRN-2026-000421-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "10923",
+    "file_size_kb": 10923,
     "file_sha256": "c0584dc3e1a7ec594a99f8ba310e21fe896c3a26b6f3e1863a5fa85843790d0e"
   },
   {
@@ -2556,7 +2556,7 @@
     "submission_id": "SUB-ASN-2026-000032-LRN-2026-000283-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "9996",
+    "file_size_kb": 9996,
     "file_sha256": "332568ec626bcc3a3e0f0d6d99ec970c9c8e0e6d3df6318458f4d0569864fe83"
   },
   {
@@ -2564,7 +2564,7 @@
     "submission_id": "SUB-ASN-2026-000033-LRN-2026-000303-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "8583",
+    "file_size_kb": 8583,
     "file_sha256": "19fffad3c3e770c40e18dfadb644ccbc1fcb32ccff3ffb72c631b285a0f5a216"
   },
   {
@@ -2572,7 +2572,7 @@
     "submission_id": "SUB-ASN-2026-000034-LRN-2026-000245-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "6376",
+    "file_size_kb": 6376,
     "file_sha256": "191152e1de2dd56e562f6565254227420a1001f99723813b88dab2e67d918916"
   },
   {
@@ -2580,7 +2580,7 @@
     "submission_id": "SUB-ASN-2026-000035-LRN-2026-000215-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "8615",
+    "file_size_kb": 8615,
     "file_sha256": "8c4541aaf30ec99fff1fcf79d004688df6705229d76c1b521123cdfd0a2f75e1"
   },
   {
@@ -2588,7 +2588,7 @@
     "submission_id": "SUB-ASN-2026-000035-LRN-2026-000215-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "12478",
+    "file_size_kb": 12478,
     "file_sha256": "a2161845e4cbaebdfdaeb3859b3a058222651a10c5b58d357c4733c59af7377a"
   },
   {
@@ -2596,7 +2596,7 @@
     "submission_id": "SUB-ASN-2026-000036-LRN-2026-000495-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "10962",
+    "file_size_kb": 10962,
     "file_sha256": "ff111931d7fcacea99b322d36d075053b410828e025fedb72f42fc7dac8b37ac"
   },
   {
@@ -2604,7 +2604,7 @@
     "submission_id": "SUB-ASN-2026-000037-LRN-2026-000307-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "6459",
+    "file_size_kb": 6459,
     "file_sha256": "93c4146b5786d54a6285f8f11e8b2bff884229cb99508555a58bbc80347cc83d"
   },
   {
@@ -2612,7 +2612,7 @@
     "submission_id": "SUB-ASN-2026-000038-LRN-2026-000055-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "2061",
+    "file_size_kb": 2061,
     "file_sha256": "335384076dfdd1a6a96973058407c2b54af2d060119537cdb089aaa825248386"
   },
   {
@@ -2620,7 +2620,7 @@
     "submission_id": "SUB-ASN-2026-000039-LRN-2026-000265-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "2533",
+    "file_size_kb": 2533,
     "file_sha256": "fd68b48de6d193e9bad895502594530fd69a71497509c83499262b5262e71a37"
   },
   {
@@ -2628,7 +2628,7 @@
     "submission_id": "SUB-ASN-2026-000039-LRN-2026-000265-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "1752",
+    "file_size_kb": 1752,
     "file_sha256": "cee32836e74aa2cdfe76c4a7772ba8ef02ad79a6f7775ee08244e1c07e9ff9bf"
   },
   {
@@ -2636,7 +2636,7 @@
     "submission_id": "SUB-ASN-2026-000040-LRN-2026-000449-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "6509",
+    "file_size_kb": 6509,
     "file_sha256": "6e5ce54aad34e1206f209a1a7943e85ca500642846757637ac811dfd604c16f2"
   },
   {
@@ -2644,7 +2644,7 @@
     "submission_id": "SUB-ASN-2026-000040-LRN-2026-000449-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "9609",
+    "file_size_kb": 9609,
     "file_sha256": "18bb90b4e7a558b5715cd0ae40edc72920b628a40018bdcad0b38db892cbb9ff"
   },
   {
@@ -2652,7 +2652,7 @@
     "submission_id": "SUB-ASN-2026-000041-LRN-2026-000046-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "3741",
+    "file_size_kb": 3741,
     "file_sha256": "e0cea888733932459e6f923a980271675d27bc5c53e86f0fa725d996e120ac72"
   },
   {
@@ -2660,7 +2660,7 @@
     "submission_id": "SUB-ASN-2026-000042-LRN-2026-000460-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "6456",
+    "file_size_kb": 6456,
     "file_sha256": "23ec1920373bf7165e546827d33ea0a89641950931d97f6598aaf9ffd43fa749"
   },
   {
@@ -2668,7 +2668,7 @@
     "submission_id": "SUB-ASN-2026-000042-LRN-2026-000460-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "661",
+    "file_size_kb": 661,
     "file_sha256": "e7a20385c51e45f0778f60a7f8de55dbda1b2ec66b9bf15bd515ccc78f654688"
   },
   {
@@ -2676,7 +2676,7 @@
     "submission_id": "SUB-ASN-2026-000043-LRN-2026-000094-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "8589",
+    "file_size_kb": 8589,
     "file_sha256": "e4aaf6d9bdae76e786efeeb60dabcd3466b6d3f59544e2b8550024ddf04e9586"
   },
   {
@@ -2684,7 +2684,7 @@
     "submission_id": "SUB-ASN-2026-000044-LRN-2026-000394-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "3218",
+    "file_size_kb": 3218,
     "file_sha256": "8a6a6b4b119f2e04fa5472d314bc287d1c9fafd998dcfbcc262aa273e2d283e6"
   },
   {
@@ -2692,7 +2692,7 @@
     "submission_id": "SUB-ASN-2026-000045-LRN-2026-000231-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "9123",
+    "file_size_kb": 9123,
     "file_sha256": "82ee97d3c50a1e897112cdc4396931cd5095b0ed5d9ac87e9c8524370a2afaa9"
   },
   {
@@ -2700,7 +2700,7 @@
     "submission_id": "SUB-ASN-2026-000046-LRN-2026-000428-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "9853",
+    "file_size_kb": 9853,
     "file_sha256": "8257832f0d59f5792f1caa1c74b27d27680f900b294ec1c6c838b52f3daf8dce"
   },
   {
@@ -2708,7 +2708,7 @@
     "submission_id": "SUB-ASN-2026-000047-LRN-2026-000041-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "4899",
+    "file_size_kb": 4899,
     "file_sha256": "f24db54fc7bba469ed4511d72cc61a9611ae3260c783907f5d76d4da6396b0dd"
   },
   {
@@ -2716,7 +2716,7 @@
     "submission_id": "SUB-ASN-2026-000047-LRN-2026-000041-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "3803",
+    "file_size_kb": 3803,
     "file_sha256": "0d8f9a7f86681d6287a623dc911aecd6ab50028865478de58e71b7bd37e94936"
   },
   {
@@ -2724,7 +2724,7 @@
     "submission_id": "SUB-ASN-2026-000048-LRN-2026-000412-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "3418",
+    "file_size_kb": 3418,
     "file_sha256": "6572c4fe49a49ca00c92f25152988853e34950353b5639954599fd9ee73fdbc7"
   },
   {
@@ -2732,7 +2732,7 @@
     "submission_id": "SUB-ASN-2026-000048-LRN-2026-000412-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "446",
+    "file_size_kb": 446,
     "file_sha256": "df53b11b14dd6f72100a024b4390e02cd363d6f5219efde7153d23cf0d7176e7"
   },
   {
@@ -2740,7 +2740,7 @@
     "submission_id": "SUB-ASN-2026-000049-LRN-2026-000353-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "1386",
+    "file_size_kb": 1386,
     "file_sha256": "8390fc3ae0132325c06b5f3af89c9bcf5b18b8001cd3d2ecdb55d29f9b50f7bb"
   },
   {
@@ -2748,7 +2748,7 @@
     "submission_id": "SUB-ASN-2026-000050-LRN-2026-000285-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "6611",
+    "file_size_kb": 6611,
     "file_sha256": "dd603840223eec432039a195620176dd6dc2ef68bf491f6249196cc075e97ec3"
   },
   {
@@ -2756,7 +2756,7 @@
     "submission_id": "SUB-ASN-2026-000051-LRN-2026-000422-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "10378",
+    "file_size_kb": 10378,
     "file_sha256": "be96bbfe3995b7df4e7a2fca8912fa4f70e155c58cfb1eb3ad3ddc241a2f3a07"
   },
   {
@@ -2764,7 +2764,7 @@
     "submission_id": "SUB-ASN-2026-000052-LRN-2026-000037-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "6286",
+    "file_size_kb": 6286,
     "file_sha256": "acfb8188a40c44534069053aae5f57844c8d8095b53ad6e69668d72e34a9e824"
   },
   {
@@ -2772,7 +2772,7 @@
     "submission_id": "SUB-ASN-2026-000052-LRN-2026-000037-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "10712",
+    "file_size_kb": 10712,
     "file_sha256": "95ecb67a537a061a2e4b2c7ff8e1e0d8e59aa8ed10d1949b012b3c94dcc3c109"
   },
   {
@@ -2780,7 +2780,7 @@
     "submission_id": "SUB-ASN-2026-000053-LRN-2026-000412-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "7958",
+    "file_size_kb": 7958,
     "file_sha256": "4469f5afe1bd8eda0f1aa5cda3b3cdeba8f016c1c8af85d0b02f42f3c563b68e"
   },
   {
@@ -2788,7 +2788,7 @@
     "submission_id": "SUB-ASN-2026-000054-LRN-2026-000471-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "3308",
+    "file_size_kb": 3308,
     "file_sha256": "7d602d677739b1b0a2dc0471c4e755e3d18026b61912c845b860552425e10597"
   },
   {
@@ -2796,7 +2796,7 @@
     "submission_id": "SUB-ASN-2026-000055-LRN-2026-000492-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "4920",
+    "file_size_kb": 4920,
     "file_sha256": "0c9e4e0e1258a835bd886d64c6b58f49f8a3a095138bd1e9811bf6b44ba32427"
   },
   {
@@ -2804,7 +2804,7 @@
     "submission_id": "SUB-ASN-2026-000055-LRN-2026-000492-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "11549",
+    "file_size_kb": 11549,
     "file_sha256": "a3805708745b30205a01ee67b8e78e880268d89d8849dfccde3268562434addd"
   },
   {
@@ -2812,7 +2812,7 @@
     "submission_id": "SUB-ASN-2026-000056-LRN-2026-000088-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "5362",
+    "file_size_kb": 5362,
     "file_sha256": "1af2c07f934936e7135febf657a16f55a9f0c828f1df9f50c6f640102965d323"
   },
   {
@@ -2820,7 +2820,7 @@
     "submission_id": "SUB-ASN-2026-000056-LRN-2026-000088-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "2637",
+    "file_size_kb": 2637,
     "file_sha256": "5311b42e50b2399f5cedd212332cddc8d0a16d7b880bd76339d05ffd2137910e"
   },
   {
@@ -2828,7 +2828,7 @@
     "submission_id": "SUB-ASN-2026-000057-LRN-2026-000005-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "10866",
+    "file_size_kb": 10866,
     "file_sha256": "4e7e8c15911f6c318c42eb552a709cb188cb7b9dded78d17921baaf1cbe6137c"
   },
   {
@@ -2836,7 +2836,7 @@
     "submission_id": "SUB-ASN-2026-000058-LRN-2026-000402-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "11106",
+    "file_size_kb": 11106,
     "file_sha256": "6424a3937036116b64e4f2ad4dd2ecf16df29dc36f31dbf0ae8a1575ffa5a832"
   },
   {
@@ -2844,7 +2844,7 @@
     "submission_id": "SUB-ASN-2026-000059-LRN-2026-000041-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "12208",
+    "file_size_kb": 12208,
     "file_sha256": "b1272439e982f03ae5046171b4489712cae1516ff1aab911771dd235ff095f00"
   },
   {
@@ -2852,7 +2852,7 @@
     "submission_id": "SUB-ASN-2026-000059-LRN-2026-000041-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "1645",
+    "file_size_kb": 1645,
     "file_sha256": "0ad702a319afdb5e1f6e9802ca9464f4946dc99553b25674336e79e812bbfe03"
   },
   {
@@ -2860,7 +2860,7 @@
     "submission_id": "SUB-ASN-2026-000060-LRN-2026-000394-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "7232",
+    "file_size_kb": 7232,
     "file_sha256": "a0b6d2f8fe255dc98761948aa7b58081cb3a6fe72319a9c8ebd3a967b3e768b1"
   },
   {
@@ -2868,7 +2868,7 @@
     "submission_id": "SUB-ASN-2026-000061-LRN-2026-000139-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "2033",
+    "file_size_kb": 2033,
     "file_sha256": "df8beb17de6a98ecbf5c8fd68b08a136616e36a6e422aa3edc03b4903d78c675"
   },
   {
@@ -2876,7 +2876,7 @@
     "submission_id": "SUB-ASN-2026-000061-LRN-2026-000139-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "9980",
+    "file_size_kb": 9980,
     "file_sha256": "badbdcca2803bc88d0d17b58e6a08def6a444de03c28200d9c54d575fee2059d"
   },
   {
@@ -2884,7 +2884,7 @@
     "submission_id": "SUB-ASN-2026-000062-LRN-2026-000010-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "7079",
+    "file_size_kb": 7079,
     "file_sha256": "ddaa013361ad14d770899cfcabe2c0954be49bd2bf0da2ac3f942df365e82f5a"
   },
   {
@@ -2892,7 +2892,7 @@
     "submission_id": "SUB-ASN-2026-000063-LRN-2026-000330-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "1537",
+    "file_size_kb": 1537,
     "file_sha256": "d2eff56f106ff2396b32b019669bcef66a55fc224dd99b26e9f1284546d28d61"
   },
   {
@@ -2900,7 +2900,7 @@
     "submission_id": "SUB-ASN-2026-000063-LRN-2026-000330-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "2202",
+    "file_size_kb": 2202,
     "file_sha256": "5580b6fc82a6c97abaaada074657e83b485ff851f8fcab74ce1f203118dcb3f4"
   },
   {
@@ -2908,7 +2908,7 @@
     "submission_id": "SUB-ASN-2026-000064-LRN-2026-000178-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "9002",
+    "file_size_kb": 9002,
     "file_sha256": "9903b10b2d7571be4baccfc4adef4ae45a14c9e832dc157eb63dd1a4abf4bd76"
   },
   {
@@ -2916,7 +2916,7 @@
     "submission_id": "SUB-ASN-2026-000065-LRN-2026-000240-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "6066",
+    "file_size_kb": 6066,
     "file_sha256": "e3be8a36cfa63425415aaa28c7860564d21842ab82a5f5c5894ba39801d4219f"
   },
   {
@@ -2924,7 +2924,7 @@
     "submission_id": "SUB-ASN-2026-000066-LRN-2026-000104-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "2047",
+    "file_size_kb": 2047,
     "file_sha256": "bc7e02c842d3bd08a9b06966ad004941ea110979c364b6cf8a9d6cca2494eacc"
   },
   {
@@ -2932,7 +2932,7 @@
     "submission_id": "SUB-ASN-2026-000067-LRN-2026-000170-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "6135",
+    "file_size_kb": 6135,
     "file_sha256": "7dd9cb3757c04843ae479b8d1a33c52fa0c61b0999c7f92cd00902b1814df103"
   },
   {
@@ -2940,7 +2940,7 @@
     "submission_id": "SUB-ASN-2026-000067-LRN-2026-000170-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "1898",
+    "file_size_kb": 1898,
     "file_sha256": "f559b40056b4587fc5e890ce5e1f334e53a0006cf71c4e0cdd569ec1b6baad92"
   },
   {
@@ -2948,7 +2948,7 @@
     "submission_id": "SUB-ASN-2026-000068-LRN-2026-000364-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "1096",
+    "file_size_kb": 1096,
     "file_sha256": "e5e6d668a89586d4d5404945653026397dd741f3df45861eed13272fb2238979"
   },
   {
@@ -2956,7 +2956,7 @@
     "submission_id": "SUB-ASN-2026-000069-LRN-2026-000397-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "4667",
+    "file_size_kb": 4667,
     "file_sha256": "ee5e96c790898230e5d6f49bf9a6131c281cd4d70af6bb83c808b8695d6ad333"
   },
   {
@@ -2964,7 +2964,7 @@
     "submission_id": "SUB-ASN-2026-000069-LRN-2026-000397-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "7170",
+    "file_size_kb": 7170,
     "file_sha256": "14a87d54ea1a733411bb9d16f01fb0993d5e5bf8863a8c207810f5404c36b1cf"
   },
   {
@@ -2972,7 +2972,7 @@
     "submission_id": "SUB-ASN-2026-000070-LRN-2026-000325-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "745",
+    "file_size_kb": 745,
     "file_sha256": "933148407153540eff37258ccb0df39b0c223e1210f0940cca51944be41a79a4"
   },
   {
@@ -2980,7 +2980,7 @@
     "submission_id": "SUB-ASN-2026-000071-LRN-2026-000495-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "9225",
+    "file_size_kb": 9225,
     "file_sha256": "56b8bac2fa9080d578a5c69294787800303d383788b3ec313822bf205e64b843"
   },
   {
@@ -2988,7 +2988,7 @@
     "submission_id": "SUB-ASN-2026-000071-LRN-2026-000495-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "6486",
+    "file_size_kb": 6486,
     "file_sha256": "9e1d4e640fcf4c307f3839a891c712d50d8c9449495dc66558db26cd7194bb66"
   },
   {
@@ -2996,7 +2996,7 @@
     "submission_id": "SUB-ASN-2026-000072-LRN-2026-000048-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "7106",
+    "file_size_kb": 7106,
     "file_sha256": "4f3a9564b4b573a81935960908a1aed37200e2facddbf4b92a4f43c6ccf963e1"
   },
   {
@@ -3004,7 +3004,7 @@
     "submission_id": "SUB-ASN-2026-000073-LRN-2026-000200-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "6639",
+    "file_size_kb": 6639,
     "file_sha256": "f177e7a9d8368bba5f1718cbf2ad15538009d74d25e56ffd5d0ad767d9a0c135"
   },
   {
@@ -3012,7 +3012,7 @@
     "submission_id": "SUB-ASN-2026-000074-LRN-2026-000226-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "233",
+    "file_size_kb": 233,
     "file_sha256": "c4c1d61cc63effad0a1574e136428f92b426bba8d6d6604edd07dc3dc229be24"
   },
   {
@@ -3020,7 +3020,7 @@
     "submission_id": "SUB-ASN-2026-000074-LRN-2026-000226-01",
     "file_name": "solution_v1_2.pdf",
     "file_type": "pdf",
-    "file_size_kb": "6972",
+    "file_size_kb": 6972,
     "file_sha256": "2453634e6b75d8e4f5d58307629b13a68ca8335398f878dfb2988035d6e7fefd"
   },
   {
@@ -3028,7 +3028,7 @@
     "submission_id": "SUB-ASN-2026-000075-LRN-2026-000261-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "9077",
+    "file_size_kb": 9077,
     "file_sha256": "5f4fefcabbdee29c793ab2948356d6dc7b5752010514326259c9385514fdd8f9"
   },
   {
@@ -3036,7 +3036,7 @@
     "submission_id": "SUB-ASN-2026-000076-LRN-2026-000332-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1197",
+    "file_size_kb": 1197,
     "file_sha256": "92cb7251c01424ec71ee87bb835a7471768385e32b661764fd6e0f7b9d42650d"
   },
   {
@@ -3044,7 +3044,7 @@
     "submission_id": "SUB-ASN-2026-000076-LRN-2026-000332-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "5152",
+    "file_size_kb": 5152,
     "file_sha256": "f354dac0793809cef51eea544d7584ef1fdbe4104bc31517626fd8a40ae8e6ea"
   },
   {
@@ -3052,7 +3052,7 @@
     "submission_id": "SUB-ASN-2026-000077-LRN-2026-000055-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "4180",
+    "file_size_kb": 4180,
     "file_sha256": "d170e5954da5ab29dbcd9d56fda71db33fb819f225d76a244ab387a1d7bd4a4b"
   },
   {
@@ -3060,7 +3060,7 @@
     "submission_id": "SUB-ASN-2026-000077-LRN-2026-000055-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "7297",
+    "file_size_kb": 7297,
     "file_sha256": "a436f240f036f8cf574887e3bacd5eb0cb110099574217bf5401869f937ce43e"
   },
   {
@@ -3068,7 +3068,7 @@
     "submission_id": "SUB-ASN-2026-000078-LRN-2026-000199-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "4543",
+    "file_size_kb": 4543,
     "file_sha256": "862ce0ad4e498604a73b22519b0d18d4d2c747497ec45bd0291ff14ae3eb7e8e"
   },
   {
@@ -3076,7 +3076,7 @@
     "submission_id": "SUB-ASN-2026-000079-LRN-2026-000392-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "4072",
+    "file_size_kb": 4072,
     "file_sha256": "70b7c8cfb4cb850b07b5af8bf2bd973cf6495ec0579588f31abb5787955536f4"
   },
   {
@@ -3084,7 +3084,7 @@
     "submission_id": "SUB-ASN-2026-000080-LRN-2026-000143-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "8086",
+    "file_size_kb": 8086,
     "file_sha256": "c9135b53aabc73d8d16e45bd187590eccd8476a08b2923c42527e74ef0671202"
   },
   {
@@ -3092,7 +3092,7 @@
     "submission_id": "SUB-ASN-2026-000081-LRN-2026-000390-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "9754",
+    "file_size_kb": 9754,
     "file_sha256": "25ad32650a19c4dad4eceb6d89e4bd09ba7d6566d19011514ceb873bb43c1bef"
   },
   {
@@ -3100,7 +3100,7 @@
     "submission_id": "SUB-ASN-2026-000081-LRN-2026-000390-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "6491",
+    "file_size_kb": 6491,
     "file_sha256": "c2a8d59c1c8ee54971657d4a0d1ef339c968f6ec927c9b71dea82a00ddc32742"
   },
   {
@@ -3108,7 +3108,7 @@
     "submission_id": "SUB-ASN-2026-000082-LRN-2026-000118-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "1476",
+    "file_size_kb": 1476,
     "file_sha256": "d608c982eca73b341f793c408c732d6913043c8a9237d13650c5393493a553f5"
   },
   {
@@ -3116,7 +3116,7 @@
     "submission_id": "SUB-ASN-2026-000082-LRN-2026-000118-01",
     "file_name": "solution_v1_2.py",
     "file_type": "py",
-    "file_size_kb": "12165",
+    "file_size_kb": 12165,
     "file_sha256": "49c7c17360ae2394f0a9ee2dc9ec5baca517980c01b692058803c324f60a8dfb"
   },
   {
@@ -3124,7 +3124,7 @@
     "submission_id": "SUB-ASN-2026-000083-LRN-2026-000249-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "9231",
+    "file_size_kb": 9231,
     "file_sha256": "be00a35672af735fba23d1781941bf5e7a90d9c68125e4a7775c903d2da491a4"
   },
   {
@@ -3132,7 +3132,7 @@
     "submission_id": "SUB-ASN-2026-000084-LRN-2026-000318-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "11408",
+    "file_size_kb": 11408,
     "file_sha256": "a1186072c636a04682a59cafd084f59c750055127e2bf966f6037e939fe12414"
   },
   {
@@ -3140,7 +3140,7 @@
     "submission_id": "SUB-ASN-2026-000084-LRN-2026-000318-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "145",
+    "file_size_kb": 145,
     "file_sha256": "c1fe17946ceef542e896f9d02f93ce450938fd8fd1b6bebf5599bbf0a198ae2c"
   },
   {
@@ -3148,7 +3148,7 @@
     "submission_id": "SUB-ASN-2026-000085-LRN-2026-000080-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "8801",
+    "file_size_kb": 8801,
     "file_sha256": "dddad4eb76aeee14e4d32b38d03d7b4b0193241a0147715bd320c1a66e8d8234"
   },
   {
@@ -3156,7 +3156,7 @@
     "submission_id": "SUB-ASN-2026-000086-LRN-2026-000495-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "10369",
+    "file_size_kb": 10369,
     "file_sha256": "439ca117cafa8130be63f8a9c6191ff8195e9a52c9077a0e1440985f4df0bff1"
   },
   {
@@ -3164,7 +3164,7 @@
     "submission_id": "SUB-ASN-2026-000087-LRN-2026-000307-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "3946",
+    "file_size_kb": 3946,
     "file_sha256": "31d1d3bd54e829ee809836361bd5fd000f10f25c0f7f9a84f884d8d9e2959552"
   },
   {
@@ -3172,7 +3172,7 @@
     "submission_id": "SUB-ASN-2026-000088-LRN-2026-000286-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "8439",
+    "file_size_kb": 8439,
     "file_sha256": "5c030166396b2e96774175b1ab2e409c24732567d42f7dc23e3267284e53ff54"
   },
   {
@@ -3180,7 +3180,7 @@
     "submission_id": "SUB-ASN-2026-000088-LRN-2026-000286-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "557",
+    "file_size_kb": 557,
     "file_sha256": "d9f683c7a16618c5e7f1b9f0a934623f90d503139161500799b0ed8b50f1f80d"
   },
   {
@@ -3188,7 +3188,7 @@
     "submission_id": "SUB-ASN-2026-000089-LRN-2026-000191-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "2684",
+    "file_size_kb": 2684,
     "file_sha256": "3a18570fb7f9421ef4a56adfd3abe228cd5a7e173a634e8c39327c57d1c66295"
   },
   {
@@ -3196,7 +3196,7 @@
     "submission_id": "SUB-ASN-2026-000090-LRN-2026-000359-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "11668",
+    "file_size_kb": 11668,
     "file_sha256": "9f82cd41907b1dc028e59940a440e455236be3ea60104131b1bea67d5c2f7e44"
   },
   {
@@ -3204,7 +3204,7 @@
     "submission_id": "SUB-ASN-2026-000091-LRN-2026-000441-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "296",
+    "file_size_kb": 296,
     "file_sha256": "49407da989ba4356063030cea4c2bb93f278e3c4f68801a50293506374126f2d"
   },
   {
@@ -3212,7 +3212,7 @@
     "submission_id": "SUB-ASN-2026-000092-LRN-2026-000172-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "4219",
+    "file_size_kb": 4219,
     "file_sha256": "3b84cff01c7c773886845a8f11a32cc19b1c8499f3c43ca48880f5cf8a795f4d"
   },
   {
@@ -3220,7 +3220,7 @@
     "submission_id": "SUB-ASN-2026-000093-LRN-2026-000368-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "6220",
+    "file_size_kb": 6220,
     "file_sha256": "0065cec64785726a0802cd362143dc42c2af79cf618f70a131ecc89a05a1af74"
   },
   {
@@ -3228,7 +3228,7 @@
     "submission_id": "SUB-ASN-2026-000094-LRN-2026-000126-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "86",
+    "file_size_kb": 86,
     "file_sha256": "1e40ed618a68930651296c75ed3fc6480c28d7b461ccd438a116c26bc97d4423"
   },
   {
@@ -3236,7 +3236,7 @@
     "submission_id": "SUB-ASN-2026-000095-LRN-2026-000495-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "10937",
+    "file_size_kb": 10937,
     "file_sha256": "e2a7e4c50f307412288e8331b386da941300f23ba04df6ea7f33d62cf8b8cbb5"
   },
   {
@@ -3244,7 +3244,7 @@
     "submission_id": "SUB-ASN-2026-000096-LRN-2026-000497-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "8346",
+    "file_size_kb": 8346,
     "file_sha256": "e997a7a515ccbf6a867089cc0b01d2c00ac57ec8940b91d6d2e0b3b984c7a6d5"
   },
   {
@@ -3252,7 +3252,7 @@
     "submission_id": "SUB-ASN-2026-000097-LRN-2026-000036-01",
     "file_name": "solution_v1_1.zip",
     "file_type": "zip",
-    "file_size_kb": "7300",
+    "file_size_kb": 7300,
     "file_sha256": "e428753b8d86a395b9e9c214ec4d988f734d0c448d7a029977d428d67c0b856a"
   },
   {
@@ -3260,7 +3260,7 @@
     "submission_id": "SUB-ASN-2026-000097-LRN-2026-000036-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "6277",
+    "file_size_kb": 6277,
     "file_sha256": "1466d04ed4c5d0039b42d57b48d25d7127e759936538e442557d01382ab2bc68"
   },
   {
@@ -3268,7 +3268,7 @@
     "submission_id": "SUB-ASN-2026-000098-LRN-2026-000110-01",
     "file_name": "solution_v1_1.py",
     "file_type": "py",
-    "file_size_kb": "4099",
+    "file_size_kb": 4099,
     "file_sha256": "6a3362e054050ef14fbb73048810f335ce892c3b83d97e383961106a2abc5730"
   },
   {
@@ -3276,7 +3276,7 @@
     "submission_id": "SUB-ASN-2026-000098-LRN-2026-000110-01",
     "file_name": "solution_v1_2.docx",
     "file_type": "docx",
-    "file_size_kb": "10687",
+    "file_size_kb": 10687,
     "file_sha256": "0047fd168ba0e9884bf465859f60baff7949d4a451a777ee8c4f9f37892ef02d"
   },
   {
@@ -3284,7 +3284,7 @@
     "submission_id": "SUB-ASN-2026-000099-LRN-2026-000289-01",
     "file_name": "solution_v1_1.pdf",
     "file_type": "pdf",
-    "file_size_kb": "1513",
+    "file_size_kb": 1513,
     "file_sha256": "1b0e35de15482d9f7c47ab81c0e84fbe148a25228ebaba75ab61b10e2c32133d"
   },
   {
@@ -3292,7 +3292,7 @@
     "submission_id": "SUB-ASN-2026-000100-LRN-2026-000252-01",
     "file_name": "solution_v1_1.docx",
     "file_type": "docx",
-    "file_size_kb": "9810",
+    "file_size_kb": 9810,
     "file_sha256": "e8be88d3a4fd4550059d0217b54dc65ed47a32da22074f0cd5e3805298639b3f"
   },
   {
@@ -3300,7 +3300,7 @@
     "submission_id": "SUB-ASN-2026-000100-LRN-2026-000252-01",
     "file_name": "solution_v1_2.zip",
     "file_type": "zip",
-    "file_size_kb": "12282",
+    "file_size_kb": 12282,
     "file_sha256": "fe9553cf6c21ac8bf88a8b1153d8b8181759c436e962d0cfc7a859ccf33143dc"
   },
   {
@@ -3308,7 +3308,7 @@
     "submission_id": "SUB-ASN-2026-000001-LRN-2026-000470-02",
     "file_name": "solution_v2_final.zip",
     "file_type": "zip",
-    "file_size_kb": "7959",
+    "file_size_kb": 7959,
     "file_sha256": "87a8c485e09fdc1c0056d04aef797a26f1bc0266aafd0133c43b363979523895"
   },
   {
@@ -3316,7 +3316,7 @@
     "submission_id": "SUB-ASN-2026-000002-LRN-2026-000465-02",
     "file_name": "solution_v2_final.py",
     "file_type": "py",
-    "file_size_kb": "13050",
+    "file_size_kb": 13050,
     "file_sha256": "0ee6e100accaccfeddc40645b7f8c869da9baa799494826c119794fc5a1612d7"
   },
   {
@@ -3324,7 +3324,7 @@
     "submission_id": "SUB-ASN-2026-000003-LRN-2026-000369-02",
     "file_name": "solution_v2_final.zip",
     "file_type": "zip",
-    "file_size_kb": "13564",
+    "file_size_kb": 13564,
     "file_sha256": "4a6e192a7de897081b79507459a3338d77b1d2de0e2dbcc42713ec3c238d362d"
   },
   {
@@ -3332,7 +3332,7 @@
     "submission_id": "SUB-ASN-2026-000004-LRN-2026-000013-02",
     "file_name": "solution_v2_final.zip",
     "file_type": "zip",
-    "file_size_kb": "1124",
+    "file_size_kb": 1124,
     "file_sha256": "4f64b2ba716dd876c1d80fa4ac1665a387224d61700b7aa760bc5b8da4730b00"
   },
   {
@@ -3340,7 +3340,7 @@
     "submission_id": "SUB-ASN-2026-000005-LRN-2026-000012-02",
     "file_name": "solution_v2_final.zip",
     "file_type": "zip",
-    "file_size_kb": "10119",
+    "file_size_kb": 10119,
     "file_sha256": "cab64331c7b0336cbc46b67558ae5845d7ad5afe7e61a9695a27528e9b9a22ac"
   },
   {
@@ -3348,7 +3348,7 @@
     "submission_id": "SUB-ASN-2026-000007-LRN-2026-000182-02",
     "file_name": "solution_v2_final.zip",
     "file_type": "zip",
-    "file_size_kb": "7737",
+    "file_size_kb": 7737,
     "file_sha256": "0839103023503dce4bbf400420c33f3f66604a740228951c96ad5e2986b70340"
   },
   {
@@ -3356,7 +3356,7 @@
     "submission_id": "SUB-ASN-2026-000008-LRN-2026-000397-02",
     "file_name": "solution_v2_final.zip",
     "file_type": "zip",
-    "file_size_kb": "5616",
+    "file_size_kb": 5616,
     "file_sha256": "4e2fbb750c877a1b3f8d78fa9c1395e3f356e04fc3208e8bffb498155b22cc68"
   },
   {
@@ -3364,7 +3364,7 @@
     "submission_id": "SUB-ASN-2026-000009-LRN-2026-000294-02",
     "file_name": "solution_v2_final.pdf",
     "file_type": "pdf",
-    "file_size_kb": "477",
+    "file_size_kb": 477,
     "file_sha256": "4c2ff8e8888851657ebc51f149f44c46733cc2a39e10781d8f8fa19dbe83a25c"
   },
   {
@@ -3372,7 +3372,7 @@
     "submission_id": "SUB-ASN-2026-000011-LRN-2026-000178-02",
     "file_name": "solution_v2_final.zip",
     "file_type": "zip",
-    "file_size_kb": "3428",
+    "file_size_kb": 3428,
     "file_sha256": "33bba184d6f9457176a464da1e921f70299583367091c62253407e65043d5e29"
   },
   {
@@ -3380,7 +3380,7 @@
     "submission_id": "SUB-ASN-2026-000012-LRN-2026-000197-02",
     "file_name": "solution_v2_final.pdf",
     "file_type": "pdf",
-    "file_size_kb": "12549",
+    "file_size_kb": 12549,
     "file_sha256": "70346f1ebda29986794cafff4f79c75a5134fc588bda3fc65a3f6565ea00156d"
   },
   {
@@ -3388,7 +3388,7 @@
     "submission_id": "SUB-ASN-2026-000013-LRN-2026-000256-02",
     "file_name": "solution_v2_final.py",
     "file_type": "py",
-    "file_size_kb": "1635",
+    "file_size_kb": 1635,
     "file_sha256": "5dfb5462b31ad21c1f41275486dd67575cd31ca92852d2051849524345812fb9"
   },
   {
@@ -3396,7 +3396,7 @@
     "submission_id": "SUB-ASN-2026-000015-LRN-2026-000211-02",
     "file_name": "solution_v2_final.pdf",
     "file_type": "pdf",
-    "file_size_kb": "9633",
+    "file_size_kb": 9633,
     "file_sha256": "819702e4379c38c99b8040ada1e0c5dacdbdc39d6fcdba51abc1864af070a37d"
   },
   {
@@ -3404,7 +3404,7 @@
     "submission_id": "SUB-ASN-2026-000016-LRN-2026-000030-02",
     "file_name": "solution_v2_final.zip",
     "file_type": "zip",
-    "file_size_kb": "1192",
+    "file_size_kb": 1192,
     "file_sha256": "b38420754ae63e9de371b621b5a34ab74f73a6dbcdc4e44a2e0859db1cb97bc8"
   },
   {
@@ -3412,7 +3412,7 @@
     "submission_id": "SUB-ASN-2026-000017-LRN-2026-000246-02",
     "file_name": "solution_v2_final.py",
     "file_type": "py",
-    "file_size_kb": "10681",
+    "file_size_kb": 10681,
     "file_sha256": "23125febf8b8cee1572ccc1b3dd5c80ef563e2b67db16dfc1bc57836f483655d"
   },
   {
@@ -3420,7 +3420,7 @@
     "submission_id": "SUB-ASN-2026-000018-LRN-2026-000120-02",
     "file_name": "solution_v2_final.zip",
     "file_type": "zip",
-    "file_size_kb": "9666",
+    "file_size_kb": 9666,
     "file_sha256": "ffaa147a94e6d290bcbe174b9a4d7fdab49e699ca04f914a40f6016800d96331"
   },
   {
@@ -3428,7 +3428,7 @@
     "submission_id": "SUB-ASN-2026-000020-LRN-2026-000442-02",
     "file_name": "solution_v2_final.zip",
     "file_type": "zip",
-    "file_size_kb": "13015",
+    "file_size_kb": 13015,
     "file_sha256": "f5684b63fa7be7e7ff9f84d836e720955418312019ab860ed03ba2f8ed999467"
   },
   {
@@ -3436,7 +3436,7 @@
     "submission_id": "SUB-ASN-2026-000021-LRN-2026-000438-02",
     "file_name": "solution_v2_final.zip",
     "file_type": "zip",
-    "file_size_kb": "9013",
+    "file_size_kb": 9013,
     "file_sha256": "4cda3b3d45be3cf212bdac32121043e48f7367d0079b493f4af18b28bf6d6e63"
   },
   {
@@ -3444,7 +3444,7 @@
     "submission_id": "SUB-ASN-2026-000022-LRN-2026-000242-02",
     "file_name": "solution_v2_final.docx",
     "file_type": "docx",
-    "file_size_kb": "7324",
+    "file_size_kb": 7324,
     "file_sha256": "6c51255e5c1db6be2ebc252a4a77678f7266ff9fba4d52eb66e9e60e2fee5045"
   },
   {
@@ -3452,7 +3452,7 @@
     "submission_id": "SUB-ASN-2026-000023-LRN-2026-000460-02",
     "file_name": "solution_v2_final.py",
     "file_type": "py",
-    "file_size_kb": "10024",
+    "file_size_kb": 10024,
     "file_sha256": "512befef6108ca20bd1adafa1b467f117f57ad6b006934f8814ee8569dcda000"
   },
   {
@@ -3460,7 +3460,7 @@
     "submission_id": "SUB-ASN-2026-000026-LRN-2026-000379-02",
     "file_name": "solution_v2_final.zip",
     "file_type": "zip",
-    "file_size_kb": "7319",
+    "file_size_kb": 7319,
     "file_sha256": "5c2ba72c4092298f91da0aef3228e4b30ca97d30199b7085e891fae2d048bce7"
   },
   {
@@ -3468,7 +3468,7 @@
     "submission_id": "SUB-ASN-2026-000028-LRN-2026-000497-02",
     "file_name": "solution_v2_final.zip",
     "file_type": "zip",
-    "file_size_kb": "1894",
+    "file_size_kb": 1894,
     "file_sha256": "12899ba2a625a4b394eb6ada8be84ec78e813fc6df84dfe2b92d2b97364b2364"
   },
   {
@@ -3476,7 +3476,7 @@
     "submission_id": "SUB-ASN-2026-000029-LRN-2026-000427-02",
     "file_name": "solution_v2_final.py",
     "file_type": "py",
-    "file_size_kb": "9949",
+    "file_size_kb": 9949,
     "file_sha256": "56381ae582e338998c06e25266917f2aa987169b6d9a40aa801fe6ad86e89a29"
   },
   {
@@ -3484,7 +3484,7 @@
     "submission_id": "SUB-ASN-2026-000031-LRN-2026-000011-02",
     "file_name": "solution_v2_final.docx",
     "file_type": "docx",
-    "file_size_kb": "5372",
+    "file_size_kb": 5372,
     "file_sha256": "eede4baf1677e27bad7828802fb4d782b05b33fb6ec280cacf89317000f0ac00"
   }
 ]

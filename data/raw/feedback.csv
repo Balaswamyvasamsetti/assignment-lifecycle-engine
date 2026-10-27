@@ -1,20 +1,20 @@
 feedback_id,grade_id,criterion_id,points_awarded,instructor_comment
-FDB-2026-000001,GRD-SUB-ASN-2026-000001-LRN-2026-000470-01,CRT-RUB-ASN-2026-000001-01-01,65.37,Well structured algorithmic solution with expected asymptotic complexity.
+FDB-2026-000001,GRD-SUB-ASN-2026-000001-LRN-2026-000470-01,CRT-RUB-ASN-2026-000001-01-01,35.58,Well structured algorithmic solution with expected asymptotic complexity.
 FDB-2026-000002,GRD-SUB-ASN-2026-000001-LRN-2026-000470-01,CRT-RUB-ASN-2026-000001-01-02,26.6,"Good idiomatic style, clear naming conventions and minimal technical debt."
 FDB-2026-000003,GRD-SUB-ASN-2026-000001-LRN-2026-000470-01,CRT-RUB-ASN-2026-000001-01-03,15.04,Great parameterization on tricky edge cases.
 FDB-2026-000004,GRD-SUB-ASN-2026-000001-LRN-2026-000470-01,CRT-RUB-ASN-2026-000001-01-04,8.24,Architecture diagrams and data dictionaries are thoroughly detailed.
-FDB-2026-000005,GRD-SUB-ASN-2026-000002-LRN-2026-000465-01,CRT-RUB-ASN-2026-000002-01-01,73.6,All edge cases passed; algorithm handles scale efficiently.
+FDB-2026-000005,GRD-SUB-ASN-2026-000002-LRN-2026-000465-01,CRT-RUB-ASN-2026-000002-01-01,35.65,All edge cases passed; algorithm handles scale efficiently.
 FDB-2026-000006,GRD-SUB-ASN-2026-000002-LRN-2026-000465-01,CRT-RUB-ASN-2026-000002-01-02,23.92,"Good idiomatic style, clear naming conventions and minimal technical debt."
 FDB-2026-000007,GRD-SUB-ASN-2026-000002-LRN-2026-000465-01,CRT-RUB-ASN-2026-000002-01-03,14.39,"Good integration tests, though concurrency tests could be deeper."
 FDB-2026-000008,GRD-SUB-ASN-2026-000002-LRN-2026-000465-01,CRT-RUB-ASN-2026-000002-01-04,9.74,Clear documentation with complete setup instructions and reproducible benchmarks.
-FDB-2026-000009,GRD-SUB-ASN-2026-000003-LRN-2026-000002-01,CRT-RUB-ASN-2026-000003-01-01,64.17,Well structured algorithmic solution with expected asymptotic complexity.
-FDB-2026-000010,GRD-SUB-ASN-2026-000003-LRN-2026-000002-01,CRT-RUB-ASN-2026-000003-01-02,24.14,Excellent separation of concerns across service layers.
-FDB-2026-000011,GRD-SUB-ASN-2026-000003-LRN-2026-000002-01,CRT-RUB-ASN-2026-000003-01-03,17.61,Comprehensive suite of regression and boundary tests included.
-FDB-2026-000012,GRD-SUB-ASN-2026-000003-LRN-2026-000002-01,CRT-RUB-ASN-2026-000003-01-04,8.53,Architecture diagrams and data dictionaries are thoroughly detailed.
-FDB-2026-000013,GRD-SUB-ASN-2026-000004-LRN-2026-000001-01,CRT-RUB-ASN-2026-000004-01-01,38.4,"Minor boundary condition failure in sorting logic, but core solution is solid."
-FDB-2026-000014,GRD-SUB-ASN-2026-000004-LRN-2026-000001-01,CRT-RUB-ASN-2026-000004-01-02,21.05,Excellent separation of concerns across service layers.
-FDB-2026-000015,GRD-SUB-ASN-2026-000004-LRN-2026-000001-01,CRT-RUB-ASN-2026-000004-01-03,14.16,Test coverage exceeds 90% across core modules.
-FDB-2026-000016,GRD-SUB-ASN-2026-000004-LRN-2026-000001-01,CRT-RUB-ASN-2026-000004-01-04,7.02,Architecture diagrams and data dictionaries are thoroughly detailed.
+FDB-2026-000009,GRD-SUB-ASN-2026-000003-LRN-2026-000369-01,CRT-RUB-ASN-2026-000003-01-01,31.95,Well structured algorithmic solution with expected asymptotic complexity.
+FDB-2026-000010,GRD-SUB-ASN-2026-000003-LRN-2026-000369-01,CRT-RUB-ASN-2026-000003-01-02,24.14,Excellent separation of concerns across service layers.
+FDB-2026-000011,GRD-SUB-ASN-2026-000003-LRN-2026-000369-01,CRT-RUB-ASN-2026-000003-01-03,17.61,Comprehensive suite of regression and boundary tests included.
+FDB-2026-000012,GRD-SUB-ASN-2026-000003-LRN-2026-000369-01,CRT-RUB-ASN-2026-000003-01-04,8.53,Architecture diagrams and data dictionaries are thoroughly detailed.
+FDB-2026-000013,GRD-SUB-ASN-2026-000004-LRN-2026-000013-01,CRT-RUB-ASN-2026-000004-01-01,38.4,"Minor boundary condition failure in sorting logic, but core solution is solid."
+FDB-2026-000014,GRD-SUB-ASN-2026-000004-LRN-2026-000013-01,CRT-RUB-ASN-2026-000004-01-02,21.05,Excellent separation of concerns across service layers.
+FDB-2026-000015,GRD-SUB-ASN-2026-000004-LRN-2026-000013-01,CRT-RUB-ASN-2026-000004-01-03,14.16,Test coverage exceeds 90% across core modules.
+FDB-2026-000016,GRD-SUB-ASN-2026-000004-LRN-2026-000013-01,CRT-RUB-ASN-2026-000004-01-04,7.02,Architecture diagrams and data dictionaries are thoroughly detailed.
 FDB-2026-000017,GRD-SUB-ASN-2026-000005-LRN-2026-000012-01,CRT-RUB-ASN-2026-000005-01-01,33.43,Core unit tests passed with flying colors.
 FDB-2026-000018,GRD-SUB-ASN-2026-000005-LRN-2026-000012-01,CRT-RUB-ASN-2026-000005-01-02,29.31,"Good idiomatic style, clear naming conventions and minimal technical debt."
 FDB-2026-000019,GRD-SUB-ASN-2026-000005-LRN-2026-000012-01,CRT-RUB-ASN-2026-000005-01-03,16.53,Comprehensive suite of regression and boundary tests included.
@@ -87,18 +87,18 @@ FDB-2026-000085,GRD-SUB-ASN-2026-000022-LRN-2026-000242-01,CRT-RUB-ASN-2026-0000
 FDB-2026-000086,GRD-SUB-ASN-2026-000022-LRN-2026-000242-01,CRT-RUB-ASN-2026-000022-01-02,25.24,Clean modular design following SOLID principles.
 FDB-2026-000087,GRD-SUB-ASN-2026-000022-LRN-2026-000242-01,CRT-RUB-ASN-2026-000022-01-03,19.11,Test coverage exceeds 90% across core modules.
 FDB-2026-000088,GRD-SUB-ASN-2026-000022-LRN-2026-000242-01,CRT-RUB-ASN-2026-000022-01-04,7.4,Comprehensive docstrings with type annotations throughout.
-FDB-2026-000089,GRD-SUB-ASN-2026-000023-LRN-2026-000460-01,CRT-RUB-ASN-2026-000023-01-01,37.59,Core unit tests passed with flying colors.
+FDB-2026-000089,GRD-SUB-ASN-2026-000023-LRN-2026-000460-01,CRT-RUB-ASN-2026-000023-01-01,66.5,Core unit tests passed with flying colors.
 FDB-2026-000090,GRD-SUB-ASN-2026-000023-LRN-2026-000460-01,CRT-RUB-ASN-2026-000023-01-02,22.71,"Good idiomatic style, clear naming conventions and minimal technical debt."
 FDB-2026-000091,GRD-SUB-ASN-2026-000023-LRN-2026-000460-01,CRT-RUB-ASN-2026-000023-01-03,16.27,Great parameterization on tricky edge cases.
 FDB-2026-000092,GRD-SUB-ASN-2026-000023-LRN-2026-000460-01,CRT-RUB-ASN-2026-000023-01-04,9.77,Clear documentation with complete setup instructions and reproducible benchmarks.
-FDB-2026-000093,GRD-SUB-ASN-2026-000024-LRN-2026-000460-01,CRT-RUB-ASN-2026-000024-01-01,32.46,"Minor boundary condition failure in sorting logic, but core solution is solid."
-FDB-2026-000094,GRD-SUB-ASN-2026-000024-LRN-2026-000460-01,CRT-RUB-ASN-2026-000024-01-02,28.11,Clean modular design following SOLID principles.
-FDB-2026-000095,GRD-SUB-ASN-2026-000024-LRN-2026-000460-01,CRT-RUB-ASN-2026-000024-01-03,17.59,"Good integration tests, though concurrency tests could be deeper."
-FDB-2026-000096,GRD-SUB-ASN-2026-000024-LRN-2026-000460-01,CRT-RUB-ASN-2026-000024-01-04,9.04,Comprehensive docstrings with type annotations throughout.
-FDB-2026-000097,GRD-SUB-ASN-2026-000025-LRN-2026-000308-01,CRT-RUB-ASN-2026-000025-01-01,32.93,Core unit tests passed with flying colors.
-FDB-2026-000098,GRD-SUB-ASN-2026-000025-LRN-2026-000308-01,CRT-RUB-ASN-2026-000025-01-02,29.95,"Good idiomatic style, clear naming conventions and minimal technical debt."
-FDB-2026-000099,GRD-SUB-ASN-2026-000025-LRN-2026-000308-01,CRT-RUB-ASN-2026-000025-01-03,14.43,Comprehensive suite of regression and boundary tests included.
-FDB-2026-000100,GRD-SUB-ASN-2026-000025-LRN-2026-000308-01,CRT-RUB-ASN-2026-000025-01-04,8.13,Clear documentation with complete setup instructions and reproducible benchmarks.
+FDB-2026-000093,GRD-SUB-ASN-2026-000024-LRN-2026-000001-01,CRT-RUB-ASN-2026-000024-01-01,66.91,"Minor boundary condition failure in sorting logic, but core solution is solid."
+FDB-2026-000094,GRD-SUB-ASN-2026-000024-LRN-2026-000001-01,CRT-RUB-ASN-2026-000024-01-02,28.11,Clean modular design following SOLID principles.
+FDB-2026-000095,GRD-SUB-ASN-2026-000024-LRN-2026-000001-01,CRT-RUB-ASN-2026-000024-01-03,17.59,"Good integration tests, though concurrency tests could be deeper."
+FDB-2026-000096,GRD-SUB-ASN-2026-000024-LRN-2026-000001-01,CRT-RUB-ASN-2026-000024-01-04,9.04,Comprehensive docstrings with type annotations throughout.
+FDB-2026-000097,GRD-SUB-ASN-2026-000025-LRN-2026-000001-01,CRT-RUB-ASN-2026-000025-01-01,61.94,Core unit tests passed with flying colors.
+FDB-2026-000098,GRD-SUB-ASN-2026-000025-LRN-2026-000001-01,CRT-RUB-ASN-2026-000025-01-02,29.95,"Good idiomatic style, clear naming conventions and minimal technical debt."
+FDB-2026-000099,GRD-SUB-ASN-2026-000025-LRN-2026-000001-01,CRT-RUB-ASN-2026-000025-01-03,14.43,Comprehensive suite of regression and boundary tests included.
+FDB-2026-000100,GRD-SUB-ASN-2026-000025-LRN-2026-000001-01,CRT-RUB-ASN-2026-000025-01-04,8.13,Clear documentation with complete setup instructions and reproducible benchmarks.
 FDB-2026-000101,GRD-SUB-ASN-2026-000026-LRN-2026-000379-01,CRT-RUB-ASN-2026-000026-01-01,28.6,Well structured algorithmic solution with expected asymptotic complexity.
 FDB-2026-000102,GRD-SUB-ASN-2026-000026-LRN-2026-000379-01,CRT-RUB-ASN-2026-000026-01-02,23.04,"Good idiomatic style, clear naming conventions and minimal technical debt."
 FDB-2026-000103,GRD-SUB-ASN-2026-000026-LRN-2026-000379-01,CRT-RUB-ASN-2026-000026-01-03,16.81,"Good integration tests, though concurrency tests could be deeper."
